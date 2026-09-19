@@ -1,0 +1,59 @@
+{
+  "id": "KC_024",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛 摘要 随着工业 4.0时代的到来，智能制造成为我国产业技术变革和优化升级的主",
+  "tags": [
+    "AI",
+    "知识图谱",
+    "加工工艺",
+    "智能制造",
+    "人工智能",
+    "工业机器人",
+    "Knowledge Graph",
+    "Manufacturing Process",
+    "Intelligent Manufacturing",
+    "Artificial",
+    "工业设备",
+    "渠道策略"
+  ],
+  "metadata": {
+    "source_name": "466062-智链图谱——工业机器_I决策系统-项目策划书-e2c31c91.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\466062-智链图谱——工业机器_I决策系统-项目策划书-e2c31c91.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 2-92, 94-100",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\466062-智链图谱——工业机器_I决策系统-项目策划书-e2c31c91.pdf | 页码: 2-92, 94-100",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n摘要\n随着工业 4.0时代的到来，智能制造成为我国产业技术变革和优化升级的主\n攻方向，制造业智能化对工业机器人智能敏捷应用提出了重大需求。目前，工业\n机器人加工过程依赖于传统的人工示教模式，面临种类繁杂的加工工艺数据时，\n存在参数适用范围窄和智能决策程度低的瓶颈问题，难以满足当前智能制造的高\n效率、高质量要求。\n针对上述问题，本团队基于知识图谱设计了一套工业机器人工艺参数 AI 决\n策系统（简称本作品）。本作品由知识自抽取、图谱自生成、参数自决策三大模\n块组成，在人工智能（Artificial Intelligence, AI）技术的强力支撑下，具有数据存\n储标准化、图谱覆盖全域化、参数决策智能化的优势，可有力提升工业机器人的\n智能敏捷应用。\n本作品特色如下：\n1. 知识自抽取：针对工艺手册、工艺实验数据、用户工艺案例和",
+    "text_length": 63986,
+    "source_fingerprint": "knowledge_card_466062_i_e2c31c91_4db37c9f34"
+  },
+  "card_id": "KC_024",
+  "type": "政策标准",
+  "labels": [
+    "知识图谱",
+    "加工工艺",
+    "智能制造",
+    "人工智能",
+    "工业机器人",
+    "Knowledge Graph",
+    "Manufacturing Process",
+    "Intelligent Manufacturing",
+    "Artificial",
+    "工业设备",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\466062-智链图谱——工业机器_I决策系统-项目策划书-e2c31c91.pdf | 页码: 2-92, 94-100",
+  "industry_benchmarks": {}
+}

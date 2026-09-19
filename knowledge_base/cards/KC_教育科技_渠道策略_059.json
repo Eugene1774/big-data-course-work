@@ -1,0 +1,43 @@
+{
+  "id": "KC_059",
+  "node_type": "KnowledgeCard",
+  "name": "附加材料目录",
+  "description": "附加材料目录 附加材料1 项目展示PPT 第2页 附加材料2 专家推荐信1 第22页",
+  "tags": [
+    "教育科技",
+    "渠道策略",
+    "竞品分析",
+    "单位经济",
+    "校园创业",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "482709-千钧问鼎——尖端超高_自主化研制-附加材料-fead9771.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482709-千钧问鼎——尖端超高_自主化研制-附加材料-fead9771.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-57",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482709-千钧问鼎——尖端超高_自主化研制-附加材料-fead9771.pdf | 页码: 1-57",
+    "source_excerpt": "附加材料目录\n附加材料1 项目展示PPT 第2页\n附加材料2 专家推荐信1 第22页\n附加材料3 专家推荐信2 第23页\n附加材料4 中科院物理所反馈函 第25页\n附加材料5 企业应用证明1 第26页\n附加材料6 企业应用证明2 第27页\n附加材料7 政府邀请函 第28页\n附加材料8 专家论证意见书 第29页\n附加材料9 市优秀毕业生 第30页\n附加材料10 美国大学生数学建模竞赛特等奖 第31页\n附加材料11 研究生国家奖学金1——白荟琰 第32页\n附加材料12 研究生国家奖学金2——杨雯淇 第33页\n附加材料13 研究生国家奖学金3——陈震香 第34页\n附加材料14 首都大学生暑期社会实践先进工作者 第35页\n附加材料15 “青年服务国家”首都大学生暑期社会实践优秀团队 第36页\n附加材料16 学生一作论文 杨雯淇《Applied Physics Letters》 第37页\n附加材料1",
+    "text_length": 53681,
+    "source_fingerprint": "knowledge_card_482709_fead9771_be57074f2c"
+  },
+  "card_id": "KC_059",
+  "type": "渠道策略",
+  "labels": [
+    "渠道策略",
+    "竞品分析",
+    "单位经济",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "教育科技",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482709-千钧问鼎——尖端超高_自主化研制-附加材料-fead9771.pdf | 页码: 1-57",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,43 @@
+{
+  "id": "KC_108",
+  "node_type": "KnowledgeCard",
+  "name": "D:20250411001533+08'00'",
+  "description": "D:20250411001533+08'00' þÿ\u0000W\u0000P\u0000S\u0000 o\u0014y: D:20250411001533+08'00'",
+  "tags": [
+    "企业服务",
+    "单位经济"
+  ],
+  "metadata": {
+    "source_name": "禾光智能——PPT.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\禾光智能——PPT.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdf-fallback:latin-1",
+    "encoding_used": "pdf-fallback:latin-1",
+    "warnings": [
+      "pdfplumber 未提取到正文文本，已使用回退策略。",
+      "chardet 未能识别出可靠编码，已回退到内置编码尝试策略。",
+      "使用编码 utf-8-sig 严格解码失败，已尝试下一种编码。",
+      "使用编码 utf-8 严格解码失败，已尝试下一种编码。",
+      "使用编码 gb18030 严格解码失败，已尝试下一种编码。",
+      "使用编码 gbk 严格解码失败，已尝试下一种编码。",
+      "使用编码 big5 严格解码失败，已尝试下一种编码。",
+      "使用编码 utf-16 严格解码失败，已尝试下一种编码。",
+      "使用编码 utf-16-le 严格解码失败，已尝试下一种编码。",
+      "使用编码 utf-16-be 严格解码失败，已尝试下一种编码。"
+    ],
+    "source_locator": null,
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\禾光智能——PPT.pdf",
+    "source_excerpt": "D:20250411001533+08'00'\nþÿ\u0000W\u0000P\u0000S\u0000 o\u0014y:\nD:20250411001533+08'00'\nþÿ\u0000m\u0000a\u0000c\u0000O\u0000S\u0000 rHg,\u00001\u00005\u0000.\u00001ÿ\brHS÷\u00002\u00004\u0000B\u00008\u00003ÿ\t\u0000 \u0000Q\u0000u\u0000a\u0000r\u0000t\u0000z\u0000 \u0000P\u0000D\u0000F\u0000C\u0000o\u0000n\u0000t\u0000e\u0000x\u0000t\nD:20250411001533+08'00'\n\u0000¤Í-\u0014\u0000QE\u0014\u0000QIK@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\nJ\n\u0001h¢@-\u0014Q5\u0001qIE-\u001aQFh \u0002\n¥\nN\u0002\\Rí¥Å\u00007\u0014b",
+    "text_length": 4356796,
+    "source_fingerprint": "knowledge_card_ppt_2886c4e0d2"
+  },
+  "card_id": "KC_108",
+  "type": "行业基准",
+  "labels": [
+    "单位经济"
+  ],
+  "applicable_scenarios": [],
+  "industry": "企业服务",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\禾光智能——PPT.pdf",
+  "industry_benchmarks": {}
+}

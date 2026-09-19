@@ -1,0 +1,54 @@
+{
+  "id": "KC_083",
+  "node_type": "KnowledgeCard",
+  "name": "慧警康策",
+  "description": "Ontology alignment is a crucial task in the field of knowledge fusion. It provides an essential basis for",
+  "tags": [
+    "AI",
+    "ontologyalignment",
+    "knowledgegraph",
+    "activelearning",
+    "attributeself-adaptationmechanism",
+    "heterogeneous",
+    "Knowledgegrapherrordetectionistoidentifyerroneoustriplesinknowledgegraphsthatareinconsistentwith",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "536445-慧警康策——智能疾病_助诊断系统-项目策划书-41a38e4d.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536445-慧警康策——智能疾病_助诊断系统-项目策划书-41a38e4d.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1, 3-58, 60-91",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536445-慧警康策——智能疾病_助诊断系统-项目策划书-41a38e4d.pdf | 页码: 1, 3-58, 60-91",
+    "source_excerpt": "慧警康策\n——智能疾病预警与辅助诊断系统\n“挑战杯”全国大学生课外学术科技作品竞赛\n“人工智能+医疗健康” 应用赛\n项目负责人：倪浩哲\n指导教师：张老师、刘老师、牛老师\n项目成员：张钰婧、何婉欣、陈宇婷、王逸洲、黄超、\n陈一豪、金晓雨、李灵兮\n慧警康策 智能疾病预警与辅助诊断系统\n——\n摘 要\n智能疾病预警与辅助诊断系统是由多模态智能疾病检索预警系统和智能医\n疗辅助诊断系统两大子系统组成。多模态智能疾病检索预警系统聚焦于疾病预警\n和信息检索；智能医疗辅助诊断系统侧重于疾病的诊断。该系统通过融合知识图\n谱等技术，为医生和患者提供具有较高可信度的疾病预警、信息检索和辅助诊断\n服务。\n本项目主要研究内容和创新点如下：\n首先，提出了基于边界判别和关联净化的鲁棒小样本实体识别方法。首先，\n在语段检测阶段，该方法引入实体边界判别模块，将令牌表示多样化地分配至相\n对应最接近的组件，从而提供具有高度判别区",
+    "text_length": 61276,
+    "source_fingerprint": "knowledge_card_536445_41a38e4d_c9f16915c5"
+  },
+  "card_id": "KC_083",
+  "type": "政策标准",
+  "labels": [
+    "ontologyalignment",
+    "knowledgegraph",
+    "activelearning",
+    "attributeself-adaptationmechanism",
+    "heterogeneous",
+    "Knowledgegrapherrordetectionistoidentifyerroneoustriplesinknowledgegraphsthatareinconsistentwith",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536445-慧警康策——智能疾病_助诊断系统-项目策划书-41a38e4d.pdf | 页码: 1, 3-58, 60-91",
+  "industry_benchmarks": {}
+}

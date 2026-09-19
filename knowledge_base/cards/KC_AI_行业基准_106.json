@@ -1,0 +1,38 @@
+{
+  "id": "KC_106",
+  "node_type": "KnowledgeCard",
+  "name": "答辩人：邓同学",
+  "description": "答辩人：邓同学 | 国自然青年学生研究项目负责人",
+  "tags": [
+    "AI",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "数湖启智——多源异构数据湖智算系统20250410V6.pptx",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\数湖启智——多源异构数据湖智算系统20250410V6.pptx",
+    "source_suffix": ".pptx",
+    "parser": "pptx",
+    "encoding_used": "pptx",
+    "warnings": [],
+    "source_locator": null,
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\数湖启智——多源异构数据湖智算系统20250410V6.pptx",
+    "source_excerpt": "答辩人：邓同学\n|\n国自然青年学生研究项目负责人\n“\n挑战杯\n”\n全国大学生课外学术科技作品竞赛答辩汇报\n测试结果\n发表数据库领域\n顶会\n论文\n2\n篇\n数据发现精度\n提升\n20%\nIBM\n、谷歌、纽约大学等单位发起研究合作\n成果在国际社区被重点讨论，热度位于同类前列\nTB\n级数据\n创新点\n：② 任务感知的关系透视\n团队负责人、主要成员一作\n“缓”\n→\n“迅”\n：准确率不变下训练速度大幅提升\nVS\n调模型\n算力资源\n高依赖\n泛化能力有\n局限\n训练周期\n长\n训练成本\n高\n数据优选\n模型\n不变\n低\n算力资源依赖\n多\n领域泛化\n短\n训练周期\n低\n成本投入\n算力\n不变\n现有的方案\n我们的方案\n优选更新\n数据优选\n堆算力\n模型训练\n动态维护\nD\n更新为\nD*\n𝒊\n=\n𝟏\n𝒏\n𝛁\n𝒇\n𝒊\n𝜽\n−\n𝒋\n𝒙\n𝒘\n𝒓\n(\n𝒋\n)\n𝛁\n𝒇\n𝒊\n𝜽\n𝟐\n𝟐\n≤∈\n𝑪\n=\n𝒂𝒓𝒈\nmin\n𝒄\n∗\n⊆\n𝑫\n∗\n,\n𝒘",
+    "text_length": 4107,
+    "source_fingerprint": "knowledge_card_20250410v6_f17a93c409"
+  },
+  "card_id": "KC_106",
+  "type": "行业基准",
+  "labels": [
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\数湖启智——多源异构数据湖智算系统20250410V6.pptx",
+  "industry_benchmarks": {}
+}

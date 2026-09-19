@@ -1,0 +1,44 @@
+{
+  "id": "KC_076",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛 第⼗九届挑战杯全国⼤学⽣课外学术科技作品竞赛 ⼈⼯智能+专项赛",
+  "tags": [
+    "AI",
+    "工业设备",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "534785-数湖启智——多源异构_湖智算系统-项目策划书-f602ec7a.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\534785-数湖启智——多源异构_湖智算系统-项目策划书-f602ec7a.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-100",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\534785-数湖启智——多源异构_湖智算系统-项目策划书-f602ec7a.pdf | 页码: 1-100",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n第⼗九届挑战杯全国⼤学⽣课外学术科技作品竞赛\n⼈⼯智能+专项赛\n项目计划书\n!\n!\"#$%&&’()*++,-./’0(*123&&&\n!\n!\n45678%&&&&&&&&&&&&&9:;&&&&&&&&&&&&&&&&&\n!\n!\n<=>?%&&&@ABCADECFGHCIJK&&&&&&&&&\n&IJKCLMCN:OCPQRCSTU&&&&&!\n!\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n\"!!#!\n将数据作为新型生产要素，是我国的重大战略布局。充分发挥数据价值，抢\n占人工智能时代的",
+    "text_length": 59738,
+    "source_fingerprint": "knowledge_card_534785_f602ec7a_a5669b827c"
+  },
+  "card_id": "KC_076",
+  "type": "政策标准",
+  "labels": [
+    "工业设备",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\534785-数湖启智——多源异构_湖智算系统-项目策划书-f602ec7a.pdf | 页码: 1-100",
+  "industry_benchmarks": {}
+}

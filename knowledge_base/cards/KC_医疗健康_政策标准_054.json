@@ -1,0 +1,52 @@
+{
+  "id": "KC_054",
+  "node_type": "KnowledgeCard",
+  "name": "人体自然腔道复杂环境下",
+  "description": "人体自然腔道复杂环境下 变刚度柔性手术机器人 研究报告",
+  "tags": [
+    "医疗健康",
+    "经人体自然腔道",
+    "手术机器人",
+    "柔性并联机构",
+    "虚拟现",
+    "Natural Orifice Transluminal Endoscopic Surgery",
+    "工业设备",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "482605-灵枢微创--人体自然_手术机器人-论文_调研报告-b56e9ce7.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482605-灵枢微创--人体自然_手术机器人-论文_调研报告-b56e9ce7.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-83, 85-86, 88-89, 91-114",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482605-灵枢微创--人体自然_手术机器人-论文_调研报告-b56e9ce7.pdf | 页码: 1-83, 85-86, 88-89, 91-114",
+    "source_excerpt": "人体自然腔道复杂环境下\n变刚度柔性手术机器人\n研究报告\n2025 年 6 月 26 日\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛\n摘 要\n经人体自然腔道手术（NOTES）作为第三代微创外科技术，通过\n鼻腔、咽喉、胃肠道等腔道实施剥离探查、病灶切除等手术操作，有\n效地避免了传统开放式手术的体表切口创伤，解决了多孔/单孔腔镜\n手术存在的术后疼痛及切口感染等问题，实现了最小化创伤的无瘢痕\n治疗。然而，由于人体自然腔道弯曲狭长、动态柔软、操作复杂，对\n器械的尺寸、刚度和灵巧性提出了巨大挑战。\n本作品针对以上技术瓶颈，结合人体自然腔道手术环境和操作任\n务特点，研制小尺寸多自由度手术执行器，开发基于虚拟现实技术的\n主从控制系统，集成可快速部署的小型化手术机器人系统，开展性能\n和功能实验验证。具体包括：\n“刚柔并济”的手术执行器机构设计方法：提出一种基于柔性并联\n机构的新型末端手术执行器，结合 ",
+    "text_length": 67566,
+    "source_fingerprint": "knowledge_card_482605_b56e9ce7_da8276235a"
+  },
+  "card_id": "KC_054",
+  "type": "政策标准",
+  "labels": [
+    "经人体自然腔道",
+    "手术机器人",
+    "柔性并联机构",
+    "虚拟现",
+    "Natural Orifice Transluminal Endoscopic Surgery",
+    "工业设备",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "医疗健康",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482605-灵枢微创--人体自然_手术机器人-论文_调研报告-b56e9ce7.pdf | 页码: 1-83, 85-86, 88-89, 91-114",
+  "industry_benchmarks": {}
+}

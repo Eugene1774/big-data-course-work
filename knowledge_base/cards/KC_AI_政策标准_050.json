@@ -1,0 +1,46 @@
+{
+  "id": "KC_050",
+  "node_type": "KnowledgeCard",
+  "name": "灵 嗅 智 探 —氢 能 厂 站 A I 智",
+  "description": "灵 嗅 智 探 —氢 能 厂 站 A I 智 能 巡 检 系 统 赛道：人工智能+应用赛领域",
+  "tags": [
+    "AI",
+    "智能巡检",
+    "氢能厂站",
+    "燃爆检测",
+    "智能预警",
+    "intelligent inspection",
+    "hydrogen energy plant and station",
+    "教育科技"
+  ],
+  "metadata": {
+    "source_name": "479531-灵嗅智探—氢能厂站A_能巡检系统-项目策划书-86d0cc04.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\479531-灵嗅智探—氢能厂站A_能巡检系统-项目策划书-86d0cc04.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-2, 4-26, 31-55",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\479531-灵嗅智探—氢能厂站A_能巡检系统-项目策划书-86d0cc04.pdf | 页码: 1-2, 4-26, 31-55",
+    "source_excerpt": "灵 嗅 智 探 —氢 能 厂 站 A I 智\n能 巡 检 系 统\n赛道：人工智能+应用赛领域\n关键 ppt 内容展示\n域\n氢\n氢\n系\n系\n能\n氢\n系\n统\n智\n统\n厂\n能\n统\n站\n检\n巡\n巡\n能\n检\n检\n智 能\n智 能\n氢\n巡\n人\n智\n巡\n检\n能\n检\n巡\n系\n用\n检\n检\n统\n人\n检\n检\n氢\n：\n目 录\n关键 ppt 内容展示 ..................................................................... 2\n摘 要 .......................................................................................... 5\n1 系统简介 .............................................................",
+    "text_length": 18139,
+    "source_fingerprint": "knowledge_card_479531_a_86d0cc04_079684bd19"
+  },
+  "card_id": "KC_050",
+  "type": "政策标准",
+  "labels": [
+    "智能巡检",
+    "氢能厂站",
+    "燃爆检测",
+    "智能预警",
+    "intelligent inspection",
+    "hydrogen energy plant and station",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\479531-灵嗅智探—氢能厂站A_能巡检系统-项目策划书-86d0cc04.pdf | 页码: 1-2, 4-26, 31-55",
+  "industry_benchmarks": {}
+}

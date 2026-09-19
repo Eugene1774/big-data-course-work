@@ -1,0 +1,38 @@
+{
+  "id": "KC_087",
+  "node_type": "KnowledgeCard",
+  "name": "“人工智能＋”应用赛",
+  "description": "“人工智能＋”应用赛 非物质文化遗产的商业化 探索与保护策略",
+  "tags": [
+    "AI",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "536797-非物质文化遗产的商业_与保护策略-项目策划书-096440fe.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536797-非物质文化遗产的商业_与保护策略-项目策划书-096440fe.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-14",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536797-非物质文化遗产的商业_与保护策略-项目策划书-096440fe.pdf | 页码: 1-14",
+    "source_excerpt": "“人工智能＋”应用赛\n非物质文化遗产的商业化\n探索与保护策略\n团队成员：黄宁欣、陈鹏、王洲舟\n摘要\n在全球化与现代化浪潮的冲击下，非物质文化遗产（以下简称“非遗”）\n的两个主要发展方向是保护策略和商业化探索。而当下，部分地区的非\n遗的商业化探索和保护之间是矛盾关系：商业化探索有损非遗承载的文\n化价值，传统的保护策略阻碍商业化的开发。我们依托“实施《保护非物\n质文化遗产公约》的业务指南”“‘十四五’文化发展规划”等相关政策，针对\n目前的主要问题，通过Francis J. Aguilar 提出的PEST分析法，设计出一个\n专项智能体，实现了非遗商业化探索与保护的相统一：以文化特性为核\n心，进行商业化探索；商业化探索所带来的热度和经济进一步推动文化\n的传承。\nCONTENTS 目录\n. . .\n01 02 03\n结果解读 创新型与独特视角\n应用结果呈现\n. .\n04 05\n数据收集与处理 分析过",
+    "text_length": 2741,
+    "source_fingerprint": "knowledge_card_536797_096440fe_14e1882188"
+  },
+  "card_id": "KC_087",
+  "type": "政策标准",
+  "labels": [
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536797-非物质文化遗产的商业_与保护策略-项目策划书-096440fe.pdf | 页码: 1-14",
+  "industry_benchmarks": {}
+}

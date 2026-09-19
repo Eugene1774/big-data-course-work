@@ -1,0 +1,50 @@
+{
+  "id": "KC_085",
+  "node_type": "KnowledgeCard",
+  "name": "第二十二届“世纪杯”学生创意竞赛",
+  "description": "第二十二届“世纪杯”学生创意竞赛 闻声识障 特殊地形的智能巡检守护者",
+  "tags": [
+    "AI",
+    "工业设备",
+    "单位经济",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "工业设备销售",
+    "高客单价B2B",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "536565-闻声识障——特殊地形_巡检守护者-项目策划书-5932ee20.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536565-闻声识障——特殊地形_巡检守护者-项目策划书-5932ee20.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-92",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536565-闻声识障——特殊地形_巡检守护者-项目策划书-5932ee20.pdf | 页码: 1-92",
+    "source_excerpt": "第二十二届“世纪杯”学生创意竞赛\n闻声识障\n特殊地形的智能巡检守护者\n1\n目录\n摘要.....................................................................................................................................................................................4\n第1章 项目简介...........................................................................................................................................................6\n1.1 研究背景..",
+    "text_length": 46430,
+    "source_fingerprint": "knowledge_card_536565_5932ee20_cdad2faf22"
+  },
+  "card_id": "KC_085",
+  "type": "政策标准",
+  "labels": [
+    "工业设备",
+    "单位经济",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "高客单价B2B",
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536565-闻声识障——特殊地形_巡检守护者-项目策划书-5932ee20.pdf | 页码: 1-92",
+  "industry_benchmarks": {}
+}

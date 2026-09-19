@@ -1,0 +1,46 @@
+{
+  "id": "KC_103",
+  "node_type": "KnowledgeCard",
+  "name": "商业计划书",
+  "description": "商业计划书 PushPlus Business Plan 推送家是",
+  "tags": [
+    "AI",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "推送家商业计划书2020-GACC.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\推送家商业计划书2020-GACC.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-20, 22",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\推送家商业计划书2020-GACC.pdf | 页码: 1-20, 22",
+    "source_excerpt": "商业计划书\nPushPlus Business Plan\n推送家是\n融合 AI 智慧排版\n与专业设计服务的新媒体交易云。\n推送家创业团队 出版 保留所有权利 © 2018 - 2020\n致 谢\n车辉泉 老师\n北京理工大学学生创新创业实践中心\n李元章 先生\n北京理工大学计算机学院\nGOLD 100\n王月辉 女士\n北京市大学生优秀创业团队 北京市文创百强企业（项目）\n北京理工大学管理与经济学院\n特 FIRST\n刘 刚 先生\n第十六届世纪杯学生创意竞赛 北京市房山区文化创意大赛\n特等奖 第一名、一等奖\n常青藤创业研究中心\n国 决\n林 平 女士\n国家级大学生创业训练计划 北京高校大学生创新创业大赛\n重点立项 总决赛入围项目 北京市海淀区教育委员会\n资助\n北京理工大学计算机学院\n北京理工大学计算机学院学生科技创新创业\n资助项目\n北京市高校大学生创业园\n北京市房山区人民政府\n以及\n推送家\n北京市房山区",
+    "text_length": 26562,
+    "source_fingerprint": "knowledge_card_2020_gacc_97a5cfa828"
+  },
+  "card_id": "KC_103",
+  "type": "政策标准",
+  "labels": [
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\推送家商业计划书2020-GACC.pdf | 页码: 1-20, 22",
+  "industry_benchmarks": {}
+}

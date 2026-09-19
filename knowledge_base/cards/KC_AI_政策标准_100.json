@@ -1,0 +1,42 @@
+{
+  "id": "KC_100",
+  "node_type": "KnowledgeCard",
+  "name": "-1349375",
+  "description": "-1349375 -1165225 -1332230",
+  "tags": [
+    "AI",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "指导案例——夜视鹰瞳项目商业计划书.docx",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\指导案例——夜视鹰瞳项目商业计划书.docx",
+    "source_suffix": ".docx",
+    "parser": "docx",
+    "encoding_used": "docx",
+    "warnings": [],
+    "source_locator": null,
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\指导案例——夜视鹰瞳项目商业计划书.docx",
+    "source_excerpt": "-1349375\n-1165225\n-1332230\n7094634\n面向极暗光环境的软硬协\n同图像增强引擎\n商业计划书\n0\n面向极暗光环境的软硬协\n同图像增强引擎\n商业计划书\n471805\n5663565\n影豹\n0\n影豹\n目录\nTOC \\o \"1-3\" \\h \\u\n第一章\nPAGEREF _Toc12188 \\h\n1\n第一章\n项目概述\nPAGEREF _Toc24656 \\h\n4\n1.1.\n项目名称\nPAGEREF _Toc21804 \\h\n4\n1.2.\n项目发起人\nPAGEREF _Toc14814 \\h\n4\n1.3.\n项目总投资金额及筹措\nPAGEREF _Toc31076 \\h\n4\n1.4.\n项目建设内容\nPAGEREF _Toc2993 \\h\n4\n1.5.\n商业模式\nPAGEREF _Toc21787 \\h\n5\n1.6.\n预期效果\nPAGEREF _Toc24350 \\h\n5\n第",
+    "text_length": 17814,
+    "source_fingerprint": "knowledge_card_doc_1cb6ff982b"
+  },
+  "card_id": "KC_100",
+  "type": "政策标准",
+  "labels": [
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\指导案例——夜视鹰瞳项目商业计划书.docx",
+  "industry_benchmarks": {}
+}

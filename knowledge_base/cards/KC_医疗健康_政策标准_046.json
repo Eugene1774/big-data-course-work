@@ -1,0 +1,52 @@
+{
+  "id": "KC_046",
+  "node_type": "KnowledgeCard",
+  "name": "明眸智芯",
+  "description": "明眸智芯 眼部智能软芯片健康监测开拓者 项目参加赛道：“人工智能＋”应用赛-医疗健康",
+  "tags": [
+    "医疗健康",
+    "青光眼",
+    "眼压",
+    "智能软芯片",
+    "动态能量池",
+    "连续感知",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "478797-明眸智芯-眼部智能软_监测开拓者-项目策划书-c1d26af0.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478797-明眸智芯-眼部智能软_监测开拓者-项目策划书-c1d26af0.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1, 6-110",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478797-明眸智芯-眼部智能软_监测开拓者-项目策划书-c1d26af0.pdf | 页码: 1, 6-110",
+    "source_excerpt": "明眸智芯\n眼部智能软芯片健康监测开拓者\n项目参加赛道：“人工智能＋”应用赛-医疗健康\n负责人：杜直建\n团队成员：刘伟佳、周立浩、杨凯文、段中意、余\n果、王正阳、罗逸凡、邢艺博\n明眸智芯——眼部智能软芯片健康监测开拓者 摘要\n摘 要\n我国青光眼患病人群已超 7000万，作为全球第二大致盲性眼病，其致盲率达\n10%，且病程不可逆。当前传统眼压监测设备存在显著局限，Goldmann 压平眼压\n计等单点测量设备受角膜厚度、患者配合度影响，误差达±5 mmHg，24小时监测\n需在医院完成，不仅占用医疗资源，更难捕捉夜间眼压峰值。然而，研究显示63%\n的青光眼急性发作发生在睡眠时段，这种监测断层导致 30%患者因用药延误加剧\n视神经损伤，现有技术体系的结构性缺陷亟待突破。\n针对上述痛点，团队研发半植入式智能软芯片，构建\"感知-传输-供能-分析\"四\n位一体技术架构。核心感知层采用基于惠斯通电桥结构的 M",
+    "text_length": 44464,
+    "source_fingerprint": "knowledge_card_478797_c1d26af0_b3a66a86ef"
+  },
+  "card_id": "KC_046",
+  "type": "政策标准",
+  "labels": [
+    "青光眼",
+    "眼压",
+    "智能软芯片",
+    "动态能量池",
+    "连续感知",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "医疗健康",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478797-明眸智芯-眼部智能软_监测开拓者-项目策划书-c1d26af0.pdf | 页码: 1, 6-110",
+  "industry_benchmarks": {}
+}

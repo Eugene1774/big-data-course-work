@@ -1,0 +1,57 @@
+{
+  "id": "KC_064",
+  "node_type": "KnowledgeCard",
+  "name": "图盾智控",
+  "description": "图盾智控 图计算赋能的金融风险识别与智能防控系统 汇报人：xxx",
+  "tags": [
+    "AI",
+    "图计算",
+    "人工智能",
+    "图神经网络",
+    "金融反欺诈",
+    "反洗钱",
+    "智能问答",
+    "Graph Computing",
+    "Artificial Intelligence",
+    "Graph Neural Network",
+    "渠道策略",
+    "竞品分析"
+  ],
+  "metadata": {
+    "source_name": "510255-图盾智控——图计算赋_能防控系统-项目策划书-2e385988.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\510255-图盾智控——图计算赋_能防控系统-项目策划书-2e385988.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-130",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\510255-图盾智控——图计算赋_能防控系统-项目策划书-2e385988.pdf | 页码: 1-130",
+    "source_excerpt": "图盾智控\n图计算赋能的金融风险识别与智能防控系统\n汇报人：xxx\n项目背景\n1 项目简介 关键技术 应用情况 核心团队 项目价值\n金融工作“首要任务”：服务实体经济\n金融是实体经济的血脉，做好新形势下金融工作，必须把服务\n实体经济作为根本目的。——习近平 2017年全国金融工作会议\n中小企业是实体经济的生力军 中小企业“融资难，融资贵”\n100%\n中小\n80 企业\n70\n50% 60 37.04% 大型\n50 企业\n62.96%\n0%\n税收 GDP 创新成果 就业人口\n不匹配\n中小企业占比 贷款总额占比\n中小企业信息掌握不充分、潜在融资风险高： “融资难，融资贵”\n本项目聚焦金融风险识别与智能防控，实现精准风险防控，服务实体经济\n图盾智控——图计算赋能的金融风险识别与智能防控系统\n1\n存在问题\n项目简介 关键技术 应用情况 核心团队 项目价值\n关系复杂导致建模偏 数据庞大导致计算慢 场景多",
+    "text_length": 92476,
+    "source_fingerprint": "knowledge_card_510255_2e385988_c510df31d9"
+  },
+  "card_id": "KC_064",
+  "type": "政策标准",
+  "labels": [
+    "图计算",
+    "人工智能",
+    "图神经网络",
+    "金融反欺诈",
+    "反洗钱",
+    "智能问答",
+    "Graph Computing",
+    "Artificial Intelligence",
+    "Graph Neural Network",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\510255-图盾智控——图计算赋_能防控系统-项目策划书-2e385988.pdf | 页码: 1-130",
+  "industry_benchmarks": {}
+}

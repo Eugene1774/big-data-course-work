@@ -1,0 +1,37 @@
+{
+  "id": "KC_092",
+  "node_type": "KnowledgeCard",
+  "name": "雁字成行：国内数字表演全流程平台引领者",
+  "description": "雁字成行：国内数字表演全流程平台引领者 国内大型演出数字表演唯一服务商 文化创意和区域合作组",
+  "tags": [
+    "企业服务",
+    "B2B",
+    "校园创业",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "“挑战杯”项目计划书_雁字成行2020 - V22.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\“挑战杯”项目计划书_雁字成行2020 - V22.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-21",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\“挑战杯”项目计划书_雁字成行2020 - V22.pdf | 页码: 1-21",
+    "source_excerpt": "雁字成行：国内数字表演全流程平台引领者\n国内大型演出数字表演唯一服务商\n文化创意和区域合作组\n2020.11\n70周年国庆仿真任务\n20万人“排兵布阵” “科技大脑”\n为庆祝活动 ，为国庆盛典装上\n数字表演全流程平台\n演出行业的数字孪生体系\n演出全过程仿真验证控制\n1. 表演行为建模与仿真推演技术\n3290 位演员\n2,921,520 个演员排练口令\n152,629,680次道具运行命令\n2. 转播机位仿真技术\n12 类仿相机真拍摄\n200 个机位模拟\n1000 名CCTV摄像师培训\n3. 数据驱动的三维全要素预演仿真技术\n全要素建模编排\n秒级和厘米级精度\n全方位全流程三维还原\n青年服务国家 国庆活动仿真任务\n2019年，团队承担70周年庆祝大会游行、晚会、观礼及集结疏散仿真任务\n张艺谋导演评价 新华社报道\n“我自已说它是世界上难度最大的” “数字光影”黑科技\n-- 张艺谋\n张艺谋导演对我",
+    "text_length": 2714,
+    "source_fingerprint": "knowledge_card_2020_v22_c7eb9433a6"
+  },
+  "card_id": "KC_092",
+  "type": "行业基准",
+  "labels": [
+    "B2B",
+    "校园创业"
+  ],
+  "applicable_scenarios": [
+    "校园消费"
+  ],
+  "industry": "企业服务",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\“挑战杯”项目计划书_雁字成行2020 - V22.pdf | 页码: 1-21",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,40 @@
+{
+  "id": "KC_095",
+  "node_type": "KnowledgeCard",
+  "name": "2O23.3",
+  "description": "2O23.3 构建高交互元宇宙空间 元创未来",
+  "tags": [
+    "AI",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "元创未来——构建高交互元宇宙空间.pptx",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\元创未来——构建高交互元宇宙空间.pptx",
+    "source_suffix": ".pptx",
+    "parser": "pptx",
+    "encoding_used": "pptx",
+    "warnings": [],
+    "source_locator": null,
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\元创未来——构建高交互元宇宙空间.pptx",
+    "source_excerpt": "2O23.3\n构建高交互元宇宙空间\n元创未来\n以仿真技术搭建通往未来的元宇宙之路\n实现元宇宙技术在文化和教育领域的大规模应用\n平台架构：\nAI+\n元宇宙\n用元宇宙构建可视化交互平台，结合共建学习平台及\n大规模多模态预训练生成技术\n，实现多交互智能演练与元宇宙生态演化发展。\n构建元宇宙交互生态支撑\n构建数据安全及方法共建的\nAI\n方法底座\n用联邦学习构建数据安全及方法共建的学习平台，\n保证数据隐私安全及合法合规\n的基础上，实现\n方法共建\n，提升\n大规模多模态预训练模型\n等\nAI\n模型能力，解决政府与企业等的\n数据孤岛\n问题，并对元宇宙\n提供\nAI\n支持\n。\n元宇宙构建\n学习和演练的交互生态，提供人机协同的交互演练空间，在\nAI\n支撑下实现从\n城市应急到大型活动等各个应用场景的智能升级，\n解决\nAI\n服务国家\n的卡脖子问题\n。\n破圈\n传播范围突破\n百万人次\n文化传播进入\n全新时代\n150+\n厘",
+    "text_length": 5609,
+    "source_fingerprint": "knowledge_card_doc_d6ab05e821"
+  },
+  "card_id": "KC_095",
+  "type": "行业基准",
+  "labels": [
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\元创未来——构建高交互元宇宙空间.pptx",
+  "industry_benchmarks": {}
+}

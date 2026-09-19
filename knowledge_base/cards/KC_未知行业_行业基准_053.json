@@ -1,0 +1,26 @@
+{
+  "id": "KC_053",
+  "node_type": "KnowledgeCard",
+  "name": "银构芯生——3D 异质集成高可靠封装互连材料技术",
+  "description": "银构芯生——3D 异质集成高可靠封装互连材料技术 1 代表性论文 1. ACS Applied Materials and Interfaces (JCR Q1 , IF=8.5, 本项目团队学生为",
+  "tags": [],
+  "metadata": {
+    "source_name": "482576-银构芯生——3D异质_连材料技术-附加材料-8399a7bf.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482576-银构芯生——3D异质_连材料技术-附加材料-8399a7bf.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-13",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482576-银构芯生——3D异质_连材料技术-附加材料-8399a7bf.pdf | 页码: 1-13",
+    "source_excerpt": "银构芯生——3D 异质集成高可靠封装互连材料技术\n1 代表性论文\n1. ACS Applied Materials and Interfaces (JCR Q1 , IF=8.5, 本项目团队学生为\n独立第一作者)\n1\n银构芯生——3D 异质集成高可靠封装互连材料技术\n2. Applied Physics Letters (JCR Q2, IF=4.0, 本项目团队学生为第一作者)\n2\n银构芯生——3D 异质集成高可靠封装互连材料技术\n3. EPTC 新加坡国际电子封装学术会议（EI收录，电子封装技术领域顶会，已\n提交，本项目团队学生为独立第一作者）\n3\n银构芯生——3D 异质集成高可靠封装互连材料技术\n4. ICEPT中国国际电子封装学术会议（EI收录，电子封装技术领域顶会，已接收，本项目\n团队学生为独立第一作者）\n4\n银构芯生——3D 异质集成高可靠封装互连材料技术\n5. EPTC 新",
+    "text_length": 1047,
+    "source_fingerprint": "knowledge_card_482576_3d_8399a7bf_658497304b"
+  },
+  "card_id": "KC_053",
+  "type": "行业基准",
+  "labels": [],
+  "applicable_scenarios": [],
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482576-银构芯生——3D异质_连材料技术-附加材料-8399a7bf.pdf | 页码: 1-13",
+  "industry_benchmarks": {}
+}

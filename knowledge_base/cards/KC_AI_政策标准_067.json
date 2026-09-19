@@ -1,0 +1,34 @@
+{
+  "id": "KC_067",
+  "node_type": "KnowledgeCard",
+  "name": "背景 | BACKGROUND 调研 | REASEARCH 方案 | PROGRAM 设计 | DESIGN",
+  "description": "背景 | BACKGROUND 调研 | REASEARCH 方案 | PROGRAM 设计 | DESIGN SUSTAINABLE DESIGN 面向南南合作国家的",
+  "tags": [
+    "AI",
+    "教育科技"
+  ],
+  "metadata": {
+    "source_name": "515508-面向南南合作国家的智_稻种植系统-项目策划书-75203835.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\515508-面向南南合作国家的智_稻种植系统-项目策划书-75203835.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-25",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\515508-面向南南合作国家的智_稻种植系统-项目策划书-75203835.pdf | 页码: 1-25",
+    "source_excerpt": "背景 | BACKGROUND 调研 | REASEARCH 方案 | PROGRAM 设计 | DESIGN\nSUSTAINABLE DESIGN\n面向南南合作国家的\n水稻种植智能系统\nA I + 农 业\nSUSTAINABLE AGRICULTURE\n背景 | BACKGROUND 调研 | REASEARCH 方案 | PROGRAM 设计 | DESIGN\n1-1研究背景\nBACKGROUND\n一粒种子的传承与使命\n1.2万公里\n跨越\n非洲学生\n把一袋特殊的稻米带到袁隆平爷爷墓前\n突围 传承 挑战 收获\n粮食安全\n突围 粮食困境\n南南合作\n传承 种子精神\n农业现代化\n挑战 科技升级\n收获 更好未来 可持续发展\n背景 | BACKGROUND 调研 | REASEARCH 方案 | PROGRAM 设计 | DESIGN\n1-1研究背景\nBACKGROUND\nP（政策） E（经济） ",
+    "text_length": 6002,
+    "source_fingerprint": "knowledge_card_515508_75203835_eb972cdb6b"
+  },
+  "card_id": "KC_067",
+  "type": "政策标准",
+  "labels": [
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\515508-面向南南合作国家的智_稻种植系统-项目策划书-75203835.pdf | 页码: 1-25",
+  "industry_benchmarks": {}
+}

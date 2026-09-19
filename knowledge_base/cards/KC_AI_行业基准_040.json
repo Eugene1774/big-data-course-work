@@ -1,0 +1,40 @@
+{
+  "id": "KC_040",
+  "node_type": "KnowledgeCard",
+  "name": "AGRO-AI OS PROJECT PROPOSAL",
+  "description": "AGRO-AI OS PROJECT PROPOSAL 农⽥杂草⾃动识别的智能农业系统 image-33.png",
+  "tags": [
+    "AI",
+    "Artificial Intelligence",
+    "Weed Detection",
+    "YOLOv11n",
+    "Precision Agriculture",
+    "竞品分析"
+  ],
+  "metadata": {
+    "source_name": "477027-赛道AGRO-AIO_能农业系统-项目策划书-4bf8428f.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477027-赛道AGRO-AIO_能农业系统-项目策划书-4bf8428f.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-25, 27, 29-34",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477027-赛道AGRO-AIO_能农业系统-项目策划书-4bf8428f.pdf | 页码: 1-25, 27, 29-34",
+    "source_excerpt": "AGRO-AI OS PROJECT PROPOSAL\n农⽥杂草⾃动识别的智能农业系统\nimage-33.png\nIntelligent Agricultural Weed Automatic Recognition\nSystem\nPROJECT INFORMATION\nProject Title: AGRO-AI OS: An Intelligent Weed Detection System Based on YOLOv11n\nCompetition Track: Artificial Intelligence + Healthcare Track\nProject Leader: ⻢恒 (KITOKO MUYUNGA KENNEDY)\nTeam Members: 向森洪, MOUSSA MLIVA RAIDANE\nAcademic Supervisor: [Supervisor Ano",
+    "text_length": 21786,
+    "source_fingerprint": "knowledge_card_477027_agro_aio_4bf8428f_dce053d3d9"
+  },
+  "card_id": "KC_040",
+  "type": "行业基准",
+  "labels": [
+    "Artificial Intelligence",
+    "Weed Detection",
+    "YOLOv11n",
+    "Precision Agriculture",
+    "竞品分析"
+  ],
+  "applicable_scenarios": [],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477027-赛道AGRO-AIO_能农业系统-项目策划书-4bf8428f.pdf | 页码: 1-25, 27, 29-34",
+  "industry_benchmarks": {}
+}

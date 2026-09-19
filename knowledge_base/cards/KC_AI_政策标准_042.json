@@ -1,0 +1,48 @@
+{
+  "id": "KC_042",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”应用赛 以下为关键 PPT 展示，完整 PPT 见附录五",
+  "tags": [
+    "AI",
+    "极端环境勘探",
+    "超实时感知",
+    "厘米级建模",
+    "模仿强化学习",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "477717-极端环境勘测革新——_主巡检系统-项目策划书-0599ace6.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477717-极端环境勘测革新——_主巡检系统-项目策划书-0599ace6.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-2, 5-134",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477717-极端环境勘测革新——_主巡检系统-项目策划书-0599ace6.pdf | 页码: 1-2, 5-134",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛\n“人工智能+”应用赛\n以下为关键 PPT 展示，完整 PPT 见附录五\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛\n“人工智能+”应用赛\n研究报告\n作品名称： 极端环境勘测革新——支持超实时感知\n与厘米级建模的无人机自主巡检系统\n选题研究方向： 人工智能+工业制造 应用赛\n学校全称： XXXX 大学\n申报者姓名：尹星宇 谢炜明 贾明东 戴天一\n褚昭晨 李思远 雷煜霏\n摘 要\n矿山等极端封闭环境下勘探巡检面临复杂地质环境与高危作业\n的双重挑战，传统人工与智能探测手段在效率、安全性、成本与精度\n等方面存在显著局限。2019 年山西铁矿透水事故、2021 年山东烟台\n笏山金矿重大爆炸等事故屡屡发生，危害矿业人员安全，对国家经济\n建设造成财产损失，亟待开展矿井下无人化探测装备研发与应用。\n微小型无人机凭借其灵活性与低成本优势，为极端井下环境探",
+    "text_length": 76988,
+    "source_fingerprint": "knowledge_card_477717_0599ace6_a224a8a020"
+  },
+  "card_id": "KC_042",
+  "type": "政策标准",
+  "labels": [
+    "极端环境勘探",
+    "超实时感知",
+    "厘米级建模",
+    "模仿强化学习",
+    "渠道策略",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477717-极端环境勘测革新——_主巡检系统-项目策划书-0599ace6.pdf | 页码: 1-2, 5-134",
+  "industry_benchmarks": {}
+}

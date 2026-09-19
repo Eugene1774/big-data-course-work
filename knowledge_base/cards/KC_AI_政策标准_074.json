@@ -1,0 +1,42 @@
+{
+  "id": "KC_074",
+  "node_type": "KnowledgeCard",
+  "name": "智感风眼：AI驱动的低空",
+  "description": "智感风眼：AI驱动的低空 燃气轮机气动感知系统 xx大学",
+  "tags": [
+    "AI",
+    "工业设备",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "532268-面向低空经济的人工智_感知与应用-项目策划书-160cc323.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\532268-面向低空经济的人工智_感知与应用-项目策划书-160cc323.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-41",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\532268-面向低空经济的人工智_感知与应用-项目策划书-160cc323.pdf | 页码: 1-41",
+    "source_excerpt": "智感风眼：AI驱动的低空\n燃气轮机气动感知系统\nxx大学\n智感风眼团队\n指导老师：胡老师\n项目负责人：杨同学\n01 领域痛点\n当前气动感知核心瓶颈：传感器不够布、数据不够全、模型不够稳\n纯数据驱动预测模型痛点\n海量样本精度受限\n数据点\n196\n采样点：7*28/30*125\n评估设计\n计算成本高昂\n仿真计算\nM-MFCR阻力图\n短\n模型泛化能力不足\n 传感器部署限制：成本高、规模小\n舱\n 数据获取难：阻力响应高度非线性、低精度小样本\n高梯度区域学习能\n设 建\n 感知能力差：CFD计算成本高，实时性差，误差大\n模 力欠缺\n计\n M-MFCR 工况空间不规则，流场数据缺失严重\n难\n需借助人工智能手段进行非线性数据驱动建模 预测精度受限\n原始结果 预测结果\n点\n短舱设计存在难点、传统预测模型存在痛点\n01 战略响应\n“要积极稳妥推进低空空域管理改革，\n两机引领、低空需求、智感赋能\n推动低",
+    "text_length": 14608,
+    "source_fingerprint": "knowledge_card_532268_160cc323_a47746e2f9"
+  },
+  "card_id": "KC_074",
+  "type": "政策标准",
+  "labels": [
+    "工业设备",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\532268-面向低空经济的人工智_感知与应用-项目策划书-160cc323.pdf | 页码: 1-41",
+  "industry_benchmarks": {}
+}

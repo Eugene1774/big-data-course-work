@@ -1,0 +1,40 @@
+{
+  "id": "KC_035",
+  "node_type": "KnowledgeCard",
+  "name": "智擎风控",
+  "description": "智擎风控 跨平台多语种信息风险智能感知与 政务协同 赛道：人工智能+政务管理赛道",
+  "tags": [
+    "AI",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "475594-智擎风控——跨平台多_同治理平台-项目策划书-b2d1af65.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475594-智擎风控——跨平台多_同治理平台-项目策划书-b2d1af65.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-89",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475594-智擎风控——跨平台多_同治理平台-项目策划书-b2d1af65.pdf | 页码: 1-89",
+    "source_excerpt": "智擎风控\n跨平台多语种信息风险智能感知与 政务协同\n赛道：人工智能+政务管理赛道\n项目负责人：葛嘉荣\n指导老师：裴老师\n项目成员：李岳、缑芋灵、马玥、冯帆、李佳希、\n周鑫、林漪昂\nI\n摘 要\n随着全球化进程的加速，跨平台、多语种的事件传播和风险识别成为信息时代\n的重要课题。重大传播风险事件库的构建旨在收集风险事件信息，帮助预警、应对\n和管理风险，能够有效支撑风险预警与管理决策。然而，针对大型的事件库，当前\n的研究方法往往无法充分利用其中大规模的数据，并且缺乏深度语义理解和情感分\n析的能力，限制了对风险事件的深入挖掘和洞察。同时，受限于数据规模利用不足、\n语义理解深度欠缺等问题，现有事件库难以适应多语言环境下的复杂传播场景。为\n回应上述挑战，本项目基于SpringBoot、Vue、ECharts、Axios等技术，探索跨平台、\n多语种事件库的构建，并通过接入讯飞大模型以进行法律语言调试，从而",
+    "text_length": 59754,
+    "source_fingerprint": "knowledge_card_475594_b2d1af65_0f9ef7ea7f"
+  },
+  "card_id": "KC_035",
+  "type": "政策标准",
+  "labels": [
+    "渠道策略",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475594-智擎风控——跨平台多_同治理平台-项目策划书-b2d1af65.pdf | 页码: 1-89",
+  "industry_benchmarks": {}
+}

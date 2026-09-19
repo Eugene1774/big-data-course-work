@@ -1,0 +1,39 @@
+{
+  "id": "KC_110",
+  "node_type": "KnowledgeCard",
+  "name": "星哨科技",
+  "description": "星哨科技 新一代卫星互联网应用系统， 开启全域全时快响预警新时代",
+  "tags": [
+    "教育科技",
+    "竞品分析",
+    "校园创业",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "项目PPT_星哨科技--新一代卫星互联网应用系统，开启全域全时快响预警新时代.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\项目PPT_星哨科技--新一代卫星互联网应用系统，开启全域全时快响预警新时代.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-27",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\项目PPT_星哨科技--新一代卫星互联网应用系统，开启全域全时快响预警新时代.pdf | 页码: 1-27",
+    "source_excerpt": "星哨科技\n新一代卫星互联网应用系统，\n开启全域全时快响预警新时代\n项 目 类 别 : 科技创新和未来产业\n学 历 组 别 : 研究生创意组\n项目负责人 : 杨硕\n项目背景\n– 国家重大需求\n⚫ 边境接壤约8,745,142平方公里\n甘肃积石山地震\n⚫ 无人山区约2,385,000平方公里\n⚫ 大型林区约1,668,000平方公里\n⚫ 领海面积约3,000,000平方公里\n大兴安岭特大火灾\n我国互联网覆盖率低的地区约\n面积大\n占国土面积的20%\n地理位置敏感，是我国国土安\n地位重\n全重点战略要地\n中印加勒万河谷边境冲突\n菲律宾非法拦截我国渔船\n各类突发性自然灾害、人为事\n灾害多\n件频发\n亟需全域全时\n快响预警手段\n五分之一领土面积难以监测，事关国土安全\n项目背景\n– 卫星互联网\n⚫ 卫星互联网无需架设地面基站，适合地形复杂、互联网覆盖率低的地区\n⚫ 卫星互联网核心设备身处万米高空，不受自然灾",
+    "text_length": 4939,
+    "source_fingerprint": "knowledge_card_ppt_cb66fecf82"
+  },
+  "card_id": "KC_110",
+  "type": "政策标准",
+  "labels": [
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "教育科技",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\项目PPT_星哨科技--新一代卫星互联网应用系统，开启全域全时快响预警新时代.pdf | 页码: 1-27",
+  "industry_benchmarks": {}
+}

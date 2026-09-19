@@ -1,0 +1,44 @@
+{
+  "id": "KC_047",
+  "node_type": "KnowledgeCard",
+  "name": "中国国际大学生创新大赛（2025）",
+  "description": "中国国际大学生创新大赛（2025） 1 极野智驭团队",
+  "tags": [
+    "AI",
+    "工业设备",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "478803-极野智驭-驾驭荒野，_作业新时代-项目策划书-8a8acfac.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478803-极野智驭-驾驭荒野，_作业新时代-项目策划书-8a8acfac.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-105",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478803-极野智驭-驾驭荒野，_作业新时代-项目策划书-8a8acfac.pdf | 页码: 1-105",
+    "source_excerpt": "中国国际大学生创新大赛（2025）\n1\n极野智驭团队\n需求量日渐增长\n• “十四五”智能制造发展规划 中国制造2025\n落后于国际水平， 大\n全链条布局\n于60%\n是一种广泛应用于地质调查、石油勘探等领域的 ，其震源激发方式\n，现已成为石油和天然气勘测中的主力军\n传统方法 震源车\n传统方法：效率低、破坏性大、\n震源车：降低成本、提高作业效率和\n环境不优好\n作业精度，同时适用于各种复杂环境\n环境恶劣且地形崎岖 工人人数多且工资高 劳动密集型作业严重\nu 车辆重量高 u 需长时间重载作业，以及瞬时大扭矩需求\nu 在坡道转向时，车辆重心偏移易引 u 需实时检测重量分布\n发侧翻,导致车辆失控 u 易受环境干扰传统方法难以动态分配力矩\nu 受灰尘、雨雪、遮挡等因素干扰，显著特\nu 常见地形包括沙漠、戈壁、丘陵、\n征物体识别率降低\n森林、沼泽、冰雪等\nu 夜间作业存在安全隐患\nu 存在大量坡道、沟壑、",
+    "text_length": 55921,
+    "source_fingerprint": "knowledge_card_478803_8a8acfac_be1a94a0d8"
+  },
+  "card_id": "KC_047",
+  "type": "政策标准",
+  "labels": [
+    "工业设备",
+    "渠道策略",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478803-极野智驭-驾驭荒野，_作业新时代-项目策划书-8a8acfac.pdf | 页码: 1-105",
+  "industry_benchmarks": {}
+}

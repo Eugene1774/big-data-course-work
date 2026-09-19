@@ -1,0 +1,26 @@
+{
+  "id": "KC_002",
+  "node_type": "KnowledgeCard",
+  "name": "附件1：团队发表成果一览",
+  "description": "附件1：团队发表成果一览 89 90",
+  "tags": [],
+  "metadata": {
+    "source_name": "402012-精微智控--面向智能_环调控系统-附加材料-17ad0a4e.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\402012-精微智控--面向智能_环调控系统-附加材料-17ad0a4e.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-24",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\402012-精微智控--面向智能_环调控系统-附加材料-17ad0a4e.pdf | 页码: 1-24",
+    "source_excerpt": "附件1：团队发表成果一览\n89\n90\n91\n附件2：查新报告\n92\n93\n94\n95\n96\n97\n98\n99\n100\n101\n附件3：展示PPT\n102\n103\n104\n105\n106\n107\n108\n109\n110\n111\n112",
+    "text_length": 116,
+    "source_fingerprint": "knowledge_card_402012_17ad0a4e_77762a49e0"
+  },
+  "card_id": "KC_002",
+  "type": "行业基准",
+  "labels": [],
+  "applicable_scenarios": [],
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\402012-精微智控--面向智能_环调控系统-附加材料-17ad0a4e.pdf | 页码: 1-24",
+  "industry_benchmarks": {}
+}

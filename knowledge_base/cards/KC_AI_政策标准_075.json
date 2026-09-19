@@ -1,0 +1,42 @@
+{
+  "id": "KC_075",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品 第十九届“挑战杯”全国大学生课外 学术科技作品竞赛",
+  "tags": [
+    "AI",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "高客单价B2B",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "534724-华宸AI智评系统-项目策划书-674f094c.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\534724-华宸AI智评系统-项目策划书-674f094c.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-69",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\534724-华宸AI智评系统-项目策划书-674f094c.pdf | 页码: 1-69",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品\n第十九届“挑战杯”全国大学生课外\n学术科技作品竞赛\n项 目 策 划 书\n参 赛 组 别： 人工智能＋专项赛\n参 赛 赛 道： □创意赛 ☑应用赛 □挑战赛\n项 目 名 称： 华宸 AI 智评系统\n项目负责人： 王皓翔\n团 队 成 员： 王喆凯 崔瀚文 张芮萌 李让 马流羡 余果\n苏怡然 罗逸凡 齐大铭\n指 导 教 师： 李老师 邬老师\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品\n目录\n摘要...........................................................................................................................................",
+    "text_length": 34083,
+    "source_fingerprint": "knowledge_card_534724_ai_674f094c_d58a4b1306"
+  },
+  "card_id": "KC_075",
+  "type": "政策标准",
+  "labels": [
+    "渠道策略",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "高客单价B2B",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\534724-华宸AI智评系统-项目策划书-674f094c.pdf | 页码: 1-69",
+  "industry_benchmarks": {}
+}

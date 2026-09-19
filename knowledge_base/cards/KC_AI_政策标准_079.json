@@ -1,0 +1,54 @@
+{
+  "id": "KC_079",
+  "node_type": "KnowledgeCard",
+  "name": "构建充电行业人工智能分析模型",
+  "description": "构建充电行业人工智能分析模型 项目简介 为特定区域建站提供选址运营决策支持",
+  "tags": [
+    "AI",
+    "人工智能",
+    "充电场站",
+    "数据驱动",
+    "决策优化",
+    "可解释性 AI",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "536238-“充”出新天地，“智_站决策优化-项目策划书-5ff06adc.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536238-“充”出新天地，“智_站决策优化-项目策划书-5ff06adc.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-68",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536238-“充”出新天地，“智_站决策优化-项目策划书-5ff06adc.pdf | 页码: 1-68",
+    "source_excerpt": "构建充电行业人工智能分析模型\n项目简介\n为特定区域建站提供选址运营决策支持\n选址决策依据的数据相对单一；\n痛点分析\n部门独立，数据分离；用户流失原因未知\n多元异构数据应用；跨部门数据整合；\n痛点攻克\n可解释AI；用户行为分析助力\n难点分析 异构数据处理难；数据维度多、体量大、密度低\n人流量统计-计算机视觉技术\n技术亮点 POI评分-反距离加权算法\n随机森林&SHAP综合分析\n项目优势 预测准确、分析全面、结果真实\n项目应用 商业建议-企业认可；商业规划-长远布局\n“人工智能+”专项赛\n项目说明书\n“充”出新天地，“智”惠碳中和\n项 目 名 称： ——广东健怡投资有限公司基于\n人工智能的充电场站决策优化\n赛 道： 人工智能+应用赛 交通运输赛道\n项目负责人： 陈佳颉\n项 目 成 员： 石净语、穆子磊、汤亦陈\n指 导 教 师： 高老师、冉老师\n项 目 单 位： XX 大学\n目 录\n摘要....",
+    "text_length": 48736,
+    "source_fingerprint": "knowledge_card_536238_5ff06adc_8c0be5b67a"
+  },
+  "card_id": "KC_079",
+  "type": "政策标准",
+  "labels": [
+    "人工智能",
+    "充电场站",
+    "数据驱动",
+    "决策优化",
+    "可解释性 AI",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536238-“充”出新天地，“智_站决策优化-项目策划书-5ff06adc.pdf | 页码: 1-68",
+  "industry_benchmarks": {}
+}

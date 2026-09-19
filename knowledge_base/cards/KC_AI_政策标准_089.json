@@ -1,0 +1,54 @@
+{
+  "id": "KC_089",
+  "node_type": "KnowledgeCard",
+  "name": "低 空 智 驭 — —",
+  "description": "低 空 智 驭 — — 大 小 模 型 协 同 的 无 人 机 集 群 智 控 系 统",
+  "tags": [
+    "AI",
+    "低空经济",
+    "无人机",
+    "大小模型协同",
+    "工业设备",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "工业设备销售",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "537021-低空智驭——大小模型_群智控系统-项目策划书-199cfbe1.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\537021-低空智驭——大小模型_群智控系统-项目策划书-199cfbe1.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-111",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\537021-低空智驭——大小模型_群智控系统-项目策划书-199cfbe1.pdf | 页码: 1-111",
+    "source_excerpt": "低 空 智 驭 — —\n大 小 模 型 协 同 的 无 人 机\n集 群 智 控 系 统\n学 校： 匿名\n团队名称： 低空智驭研究团队\n指导老师： 匿名\n侯佳希 郑俊烽 李思涵 王宇轩\n团队成员： 肖瑾珩 罗嘉豪 梅睿寒 张瑞\n2025 年 7 月 1 日\n挑战杯“人工智能+”应用赛项目申报书\n摘 要\n低空经济作为国家战略性新兴产业，市场规模增长迅猛，然而，当前无人机集群\n应用面临三大挑战：飞行任务复杂导致规划难度大；实时状况频发导致躲障难；无人\n集群庞大导致协同管控难。为了解决上述问题，该团队创新设计 “中心大模型 + 机\n载小模型” 协同架构，中心大模型是一个多智能体系统，承担全局任务规划、资源调\n度与智能指挥，通过分层任务网络技术分解任务，结合强化学习实现动态优化，支持\n千架级无人机协同管控；机载小模型采用轻量化神经网络与多模态传感器融合，实现\n实时环境感知与灵活动态避障，响应时间压缩",
+    "text_length": 84832,
+    "source_fingerprint": "knowledge_card_537021_199cfbe1_0ffd2d0d62"
+  },
+  "card_id": "KC_089",
+  "type": "政策标准",
+  "labels": [
+    "低空经济",
+    "无人机",
+    "大小模型协同",
+    "工业设备",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\537021-低空智驭——大小模型_群智控系统-项目策划书-199cfbe1.pdf | 页码: 1-111",
+  "industry_benchmarks": {}
+}

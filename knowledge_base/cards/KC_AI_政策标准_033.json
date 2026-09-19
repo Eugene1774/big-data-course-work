@@ -1,0 +1,44 @@
+{
+  "id": "KC_033",
+  "node_type": "KnowledgeCard",
+  "name": "面向湿地生态监测的多源",
+  "description": "面向湿地生态监测的多源 遥感智能解译技术 2025 年“挑战杯”全国大学生课外学术科技作品竞赛",
+  "tags": [
+    "AI",
+    "滨海湿地",
+    "生态保护",
+    "多源遥感智能解译",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "475224-面向湿地生态监测的多_能解译技术-项目策划书-86619d62.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475224-面向湿地生态监测的多_能解译技术-项目策划书-86619d62.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1, 5-112",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475224-面向湿地生态监测的多_能解译技术-项目策划书-86619d62.pdf | 页码: 1, 5-112",
+    "source_excerpt": "面向湿地生态监测的多源\n遥感智能解译技术\n2025 年“挑战杯”全国大学生课外学术科技作品竞赛\n“人工智能+”应用赛\n项目负责人：马晓虎\n团队成员：李昱霖、杨志如、王寅涧、党浚哲、王雨萌、郭程旺\n指导教师：高老师、张老师、李老师\n参赛高校：******\n摘要\n湿地作为\"地球之肾\"，在国家生态安全格局中承担着重要功能。十四五期间，我国\n根据《全国重要生态系统保护和修复重大工程总体规划（2021-2035年）》加大湿地保护\n投入，2025年6月中共中央办公厅、国务院办公厅发布《关于全面推进江河保护治理的\n意见》进一步推动滨海湿地的全面保护、管理与修复，促进生态与经济协调发展，保障\n滨海湿地可持续发展，落实生态文明建设战略需求。本项目以突破湿地生态监测技术瓶\n颈为切入点，多次前往黄河口湿地等进行实地调查，围绕多源遥感智能解译技术创新，\n构建\"数据重构-特征优化-协同解译\"三位一体的技术攻关体系。",
+    "text_length": 59884,
+    "source_fingerprint": "knowledge_card_475224_86619d62_6266491119"
+  },
+  "card_id": "KC_033",
+  "type": "政策标准",
+  "labels": [
+    "滨海湿地",
+    "生态保护",
+    "多源遥感智能解译",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475224-面向湿地生态监测的多_能解译技术-项目策划书-86619d62.pdf | 页码: 1, 5-112",
+  "industry_benchmarks": {}
+}

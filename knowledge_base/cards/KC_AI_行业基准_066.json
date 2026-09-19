@@ -1,0 +1,51 @@
+{
+  "id": "KC_066",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛 第十九届“挑战杯”全国大学生课外学 术科技作品竞赛“人工智能+”应用赛",
+  "tags": [
+    "AI",
+    "非同轴两轮无人平台",
+    "自平衡控制",
+    "线性二次型调节器",
+    "非完整约束",
+    "分",
+    "Narrow gauge two-wheel platform",
+    "Nonholonomic constraints",
+    "Self-balancing",
+    "校园创业",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "514480-稳定不倒——非同轴两_衡控制技术-项目策划书-84bcfcb5.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\514480-稳定不倒——非同轴两_衡控制技术-项目策划书-84bcfcb5.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-38",
+    "evidence_source": "原文出处: ...............................................................................................32 | 页码: 1-38",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛\n第十九届“挑战杯”全国大学生课外学\n术科技作品竞赛“人工智能+”应用赛\n学 院 名 称：\n项 目 名 称： 稳定不倒——非同轴两轮系统自平衡控制技术\n项目负责人： 刘京昊\n联 系 电 话： 17392015621\n负责人邮箱： [邮箱已脱敏]\n日 期： 2025 年 6 月 20 日\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛\n摘要\n以无人自行车、无人摩托为代表的非同轴两轮无人平台，凭借其机动灵活、通\n过性强等特点在山地丛林、地下管廊、城市空间等狭窄空间的环境探测、伤员运输、\n灾区救援等方面应用广泛。该类非同轴两轮无人平台具有强非线性、紧耦合、静不\n定、时变和非完整约束特征，给复杂不平路面、侧向风等时变干扰下的运动控制器\n设计带来挑战。本文以无机械辅助的无人自行车为研究对象，首先采用查普雷金方\n程建立窄轨非同轴两轮",
+    "text_length": 25716,
+    "source_fingerprint": "knowledge_card_514480_84bcfcb5_88f275cc2f"
+  },
+  "card_id": "KC_066",
+  "type": "行业基准",
+  "labels": [
+    "非同轴两轮无人平台",
+    "自平衡控制",
+    "线性二次型调节器",
+    "非完整约束",
+    "分",
+    "Narrow gauge two-wheel platform",
+    "Nonholonomic constraints",
+    "Self-balancing",
+    "校园创业"
+  ],
+  "applicable_scenarios": [
+    "校园消费"
+  ],
+  "industry": "AI",
+  "evidence_source": "原文出处: ...............................................................................................32 | 页码: 1-38",
+  "industry_benchmarks": {}
+}

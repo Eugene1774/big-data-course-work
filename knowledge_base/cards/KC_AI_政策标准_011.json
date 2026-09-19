@@ -1,0 +1,54 @@
+{
+  "id": "KC_011",
+  "node_type": "KnowledgeCard",
+  "name": "广寒天工",
+  "description": "广寒天工 月基装备多机智能协同无人作业系统 关键PPT展示，完整版见附录",
+  "tags": [
+    "AI",
+    "无人月球基地",
+    "多智能体",
+    "协同作业",
+    "智能规划",
+    "自主导航",
+    "工业设备",
+    "单位经济",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "467876-广寒天工——月基装备_人作业系统-项目策划书-bea2dedb.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\467876-广寒天工——月基装备_人作业系统-项目策划书-bea2dedb.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-156",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\467876-广寒天工——月基装备_人作业系统-项目策划书-bea2dedb.pdf | 页码: 1-156",
+    "source_excerpt": "广寒天工\n月基装备多机智能协同无人作业系统\n关键PPT展示，完整版见附录\n(cid:2957)(cid:2297)(cid:2516)(cid:1937) (cid:2645)(cid:1231)(cid:1905)(cid:2021) (cid:2235)(cid:1957)(cid:1737)(cid:1992) (cid:1152)(cid:1404)(cid:1128)(cid:1293) (cid:1436)(cid:2899)(cid:1103)(cid:2452)\n(cid:12440)(cid:17381)(cid:11669)(cid:26374)(cid:28725)(cid:28725)(cid:9597)(cid:10806)(cid:18682)(cid:25716)(cid:18513)(cid:10726)(cid:7341)(cid:25599)(cid:1",
+    "text_length": 154705,
+    "source_fingerprint": "knowledge_card_467876_bea2dedb_896f3f3568"
+  },
+  "card_id": "KC_011",
+  "type": "政策标准",
+  "labels": [
+    "无人月球基地",
+    "多智能体",
+    "协同作业",
+    "智能规划",
+    "自主导航",
+    "工业设备",
+    "单位经济",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\467876-广寒天工——月基装备_人作业系统-项目策划书-bea2dedb.pdf | 页码: 1-156",
+  "industry_benchmarks": {}
+}

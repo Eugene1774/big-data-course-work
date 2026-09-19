@@ -1,0 +1,36 @@
+{
+  "id": "KC_071",
+  "node_type": "KnowledgeCard",
+  "name": "关键词",
+  "description": "关键词 湿法脱硫；节能减排；自动控制；深度强化学习；浆液循环泵；燃煤电厂 摘要",
+  "tags": [
+    "AI",
+    "单位经济",
+    "教育科技"
+  ],
+  "metadata": {
+    "source_name": "528934-燃煤电厂湿法脱硫节能_能控制系统-项目策划书-7c97df8d.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528934-燃煤电厂湿法脱硫节能_能控制系统-项目策划书-7c97df8d.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 2-30, 32-34, 36-37, 39-41, 43-45, 47-48, 50",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528934-燃煤电厂湿法脱硫节能_能控制系统-项目策划书-7c97df8d.pdf | 页码: 2-30, 32-34, 36-37, 39-41, 43-45, 47-48, 50",
+    "source_excerpt": "关键词\n湿法脱硫；节能减排；自动控制；深度强化学习；浆液循环泵；燃煤电厂\n摘要\n本项目针对燃煤电厂湿法脱硫工艺(WFGD)中循环泵能耗高、动态调节不足与节能降碳协\n同控制缺乏的问题，设计了一套“节能降碳智能控制系统”。本系统核心架构采用动态耦合\n的“预测-优化-控制”闭环系统，由多模态数据融合层、动态工况预测模型、实时优化控制\n模块构成，并搭配轻量化部署方案，各模块紧密协作，形成高效的智能控制体系。系统在科\n学层面突破了传统脱硫控制的静态模型局限，采用改进型时空 Transformer模型，通过自注\n意力机制与位置编码技术，高效捕捉分钟级时序数据中的长距离依赖关系，并结合工艺机理\n实时预测液气比与循环泵最优组合，提升工况适应性。同时创新性引入碳排放核算模块，建\n立“能耗-碳排放”双目标优化框架，填补现有技术中碳协同控制的空白。运行阶段通过动态\n优化循环泵运行模式与脱硫剂投加量，实现循环泵电",
+    "text_length": 22527,
+    "source_fingerprint": "knowledge_card_528934_7c97df8d_dc59ce8e73"
+  },
+  "card_id": "KC_071",
+  "type": "政策标准",
+  "labels": [
+    "单位经济",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528934-燃煤电厂湿法脱硫节能_能控制系统-项目策划书-7c97df8d.pdf | 页码: 2-30, 32-34, 36-37, 39-41, 43-45, 47-48, 50",
+  "industry_benchmarks": {}
+}

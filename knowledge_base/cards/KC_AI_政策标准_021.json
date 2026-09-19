@@ -1,0 +1,48 @@
+{
+  "id": "KC_021",
+  "node_type": "KnowledgeCard",
+  "name": "智卫天穹——面向复杂城市环境的AI雷达",
+  "description": "智卫天穹——面向复杂城市环境的AI雷达 多模态融合无人机检测系统 2025/7/14",
+  "tags": [
+    "AI",
+    "低空经济低空交通低空监管无人机目标检测多模态融合人工智能",
+    "Low-altitude economy",
+    "Low-altitude transportation",
+    "Low-altitude",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "460878-智卫天穹——面向复杂_机检测系统-项目策划书-13992725.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\460878-智卫天穹——面向复杂_机检测系统-项目策划书-13992725.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-67",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\460878-智卫天穹——面向复杂_机检测系统-项目策划书-13992725.pdf | 页码: 1-67",
+    "source_excerpt": "智卫天穹——面向复杂城市环境的AI雷达\n多模态融合无人机检测系统\n2025/7/14\n项目背景——低空经济成为新兴产业\n• 2024年，政府工作报告中首次提出“积极打造\n生物制造、商业航天、低空经济等新增长引擎”\n• 2025年，政府工作报告中再次提出“推动商业\n航天、低空经济等新兴产业安全健康发展”\n• 《“十四五”通用航空发展规划》等各类政策相\n继出台，为低空经济产业的发展注入了强大动力\n• 低空经济正在迅速规范化，规模不断扩大。中国\n民航局预估2035年整体市场规模将达3.5万亿元\n国务院总理李强作政府工作报告\n（2025年3月5日）\n项目背景——低空交通体系稳步发展\n• 低空经济是以各种有人驾驶和无人驾驶航空\n器的各类低空飞行活动为牵引，辐射带动相\n关领域融合发展的综合性经济形态\n• 城市低空交通是低空经济的重要应用场景， 美团无人机配送外卖 首条eVTOL航线试飞现场\n其基于无人",
+    "text_length": 50760,
+    "source_fingerprint": "knowledge_card_460878_13992725_bcde05b491"
+  },
+  "card_id": "KC_021",
+  "type": "政策标准",
+  "labels": [
+    "低空经济低空交通低空监管无人机目标检测多模态融合人工智能",
+    "Low-altitude economy",
+    "Low-altitude transportation",
+    "Low-altitude",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\460878-智卫天穹——面向复杂_机检测系统-项目策划书-13992725.pdf | 页码: 1-67",
+  "industry_benchmarks": {}
+}

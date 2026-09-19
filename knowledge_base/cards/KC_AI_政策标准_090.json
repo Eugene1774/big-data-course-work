@@ -1,0 +1,46 @@
+{
+  "id": "KC_090",
+  "node_type": "KnowledgeCard",
+  "name": "《慧心晰影—智能数字神经放射科医生诊断系统》商业计划书",
+  "description": "《慧心晰影—智能数字神经放射科医生诊断系统》商业计划书 第一章 项目背景 1.1 项目背景",
+  "tags": [
+    "AI",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "Word版计划书_“慧心晰影”商业计划书final.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\Word版计划书_“慧心晰影”商业计划书final.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-49, 55, 57, 59, 61, 63, 65, 67, 69, 73, 77, 79",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\Word版计划书_“慧心晰影”商业计划书final.pdf | 页码: 1-49, 55, 57, 59, 61, 63, 65, 67, 69, 73, 77, 79",
+    "source_excerpt": "《慧心晰影—智能数字神经放射科医生诊断系统》商业计划书\n第一章 项目背景\n1.1 项目背景\n神经系统疾病是一组影响人类健康的严重疾病，涵盖了多种病理状态，从脑\n部退行性疾病如阿尔茨海默病和帕金森病，到癫痫、脑卒中、脑肿瘤等疾病。这\n些疾病给患者的生活、家庭以及整个社会带来了巨大的负担和挑战。据世界卫生\n组织（WHO）数据显示，全球每年有数百万人死于神经系统疾病，成为致命性\n疾病的主要原因之一。\n以脑卒中为例，它是导致残疾和死亡的主要原因之一，给患者和家庭带来了\n沉重的心理、生理和经济负担。而脑肿瘤作为一种常见的颅内肿瘤，由于其浸润\n性生长的特点，即使是良性的肿瘤也可能导致颅内压增高、神经功能障碍甚至危\n及生命。对于患有神经系统疾病的患者来说，早期诊断、及时治疗至关重要，这\n不仅可以提高治疗效果，还可以减轻患者的痛苦和家庭的负担。\n然而，神经系统疾病的诊断和治疗并非易事。这些疾病的诊断需要高",
+    "text_length": 39995,
+    "source_fingerprint": "knowledge_card_word_final_1e0d081241"
+  },
+  "card_id": "KC_090",
+  "type": "政策标准",
+  "labels": [
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\Word版计划书_“慧心晰影”商业计划书final.pdf | 页码: 1-49, 55, 57, 59, 61, 63, 65, 67, 69, 73, 77, 79",
+  "industry_benchmarks": {}
+}

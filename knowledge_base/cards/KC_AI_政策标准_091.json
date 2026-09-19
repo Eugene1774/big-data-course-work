@@ -1,0 +1,41 @@
+{
+  "id": "KC_091",
+  "node_type": "KnowledgeCard",
+  "name": "星哨科技",
+  "description": "星哨科技 - - 新一代卫星互联网应用系统， 开启全域全时快响预警新时代，",
+  "tags": [
+    "AI",
+    "B2B",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "Word版计划书_星哨科技--商业计划书.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\Word版计划书_星哨科技--商业计划书.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-68",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\Word版计划书_星哨科技--商业计划书.pdf | 页码: 1-68",
+    "source_excerpt": "星哨科技\n- - 新一代卫星互联网应用系统，\n开启全域全时快响预警新时代，\n开启全域全时快响预警新时代\n项目类别: 科技创新和未来产业\n学历组别: 研究生创意组\n项目负责人: 杨硕\n1\n项目概述\n⚫ 卫星互联网：卫星互联网是基于卫星通信系统，能够独立运行的网络系统，\n是“空天地”一体化网络的重要组成部分。\n⚫ 卫星互联网通信终端：卫星互联网通信终端是卫星互联网与用户连接的\n“桥梁”——没有终端，卫星互联网发挥不了作用，“空天地”一体化网络\n也无从谈起。\n⚫ 市场分析：据相关统计结果表示，2021 年中国卫星互联网产业规模约为\n292.5 亿元，预计 2025 年将升至 446.92 亿元，2021-2025 年复合增长率为\n11.2%。国内卫星互联网尚处于初期发展阶段，但受益于近年来国家出台的多\n政策措施，国内卫星互联网市场发展机遇良好。\n⚫ 痛点问题：“通信受阻”——现有终端在复杂环境下",
+    "text_length": 16316,
+    "source_fingerprint": "knowledge_card_word_4e31c47cc0"
+  },
+  "card_id": "KC_091",
+  "type": "政策标准",
+  "labels": [
+    "B2B",
+    "渠道策略",
+    "竞品分析",
+    "校园创业"
+  ],
+  "applicable_scenarios": [
+    "校园消费"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\Word版计划书_星哨科技--商业计划书.pdf | 页码: 1-68",
+  "industry_benchmarks": {}
+}

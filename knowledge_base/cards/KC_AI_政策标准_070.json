@@ -1,0 +1,56 @@
+{
+  "id": "KC_070",
+  "node_type": "KnowledgeCard",
+  "name": "碳索未来",
+  "description": "碳索未来 智能化 CO 捕集技术与装备 2",
+  "tags": [
+    "AI",
+    "二氧化碳",
+    "智能化捕集",
+    "吸收",
+    "混合胺溶剂",
+    "carbon dioxide",
+    "intelligent capture",
+    "absorption",
+    "blended amine",
+    "渠道策略",
+    "竞品分析",
+    "校园创业"
+  ],
+  "metadata": {
+    "source_name": "528249-碳索未来—智能化CO_技术与装备-项目策划书-7ec902bc.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528249-碳索未来—智能化CO_技术与装备-项目策划书-7ec902bc.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1, 3-73",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528249-碳索未来—智能化CO_技术与装备-项目策划书-7ec902bc.pdf | 页码: 1, 3-73",
+    "source_excerpt": "碳索未来\n智能化 CO 捕集技术与装备\n2\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛应用赛\n参加赛道： 人工智能＋环境保护\n团队负责人：武文苇\n团队成员： 吕灿、马尚威、张亚星、陈秋伟、鞠晓福、\n郝子轩、周悦\n指导老师： 刘老师、赵老师、刘老师\n摘要\n全球气候变化加剧，减少大气中 排放成为应对气候变化的关键。\nCO₂\n中国面临巨大碳减排压力，燃煤电厂等行业 排放量大，约占全国碳\nCO₂\n排放总量的 。当前，燃烧后 捕集是工业上应用最广泛的方法，\n40% CO₂\n有机胺吸收法是主要碳捕获技术，但传统有机胺 捕获系统存在操作\nCO₂\n不便、数据误差、安全隐患等问题，且智能化碳捕集系统实际案例缺失，\n因此研发智能化 捕集技术与装备具有重要意义。政策方面，国家 双\nCO₂ “\n碳 目标、《 年节能降碳行动方案》及教育部相关人才培养\n” 2024—2025\n方案等提供了有",
+    "text_length": 45686,
+    "source_fingerprint": "knowledge_card_528249_co_7ec902bc_e4755217f7"
+  },
+  "card_id": "KC_070",
+  "type": "政策标准",
+  "labels": [
+    "二氧化碳",
+    "智能化捕集",
+    "吸收",
+    "混合胺溶剂",
+    "carbon dioxide",
+    "intelligent capture",
+    "absorption",
+    "blended amine",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528249-碳索未来—智能化CO_技术与装备-项目策划书-7ec902bc.pdf | 页码: 1, 3-73",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,40 @@
+{
+  "id": "KC_080",
+  "node_type": "KnowledgeCard",
+  "name": "视界智 通",
+  "description": "视界智 通 —— 交通长时视频实时分析系统",
+  "tags": [
+    "AI",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "536287-视界智通--交通长时_时分析系统-项目策划书-97e16607.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536287-视界智通--交通长时_时分析系统-项目策划书-97e16607.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-23",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536287-视界智通--交通长时_时分析系统-项目策划书-97e16607.pdf | 页码: 1-23",
+    "source_excerpt": "视界智 通\n——\n交通长时视频实时分析系统\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n2\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n3\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n目录\n一、项目概况........................................................ 5\n二、国内外研究现状.................................................. 6\n2.1 视频分析技术发展 ............................................ 6\n2.2 人工智能和交通的结合 ........................................ 6\n三、研究内容和创新............",
+    "text_length": 13101,
+    "source_fingerprint": "knowledge_card_536287_97e16607_db44a06c77"
+  },
+  "card_id": "KC_080",
+  "type": "政策标准",
+  "labels": [
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536287-视界智通--交通长时_时分析系统-项目策划书-97e16607.pdf | 页码: 1-23",
+  "industry_benchmarks": {}
+}

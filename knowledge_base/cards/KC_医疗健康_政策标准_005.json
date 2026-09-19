@@ -1,0 +1,38 @@
+{
+  "id": "KC_005",
+  "node_type": "KnowledgeCard",
+  "name": "1",
+  "description": "1 摘要 脑胶质瘤是最常见原发性颅内肿瘤，其发病率高、致死率高、对",
+  "tags": [
+    "医疗健康",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "458183-析光知理——快速脑瘤_能分析系统-项目策划书-a2e44160.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\458183-析光知理——快速脑瘤_能分析系统-项目策划书-a2e44160.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-54, 56-73",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\458183-析光知理——快速脑瘤_能分析系统-项目策划书-a2e44160.pdf | 页码: 1-54, 56-73",
+    "source_excerpt": "1\n摘要\n脑胶质瘤是最常见原发性颅内肿瘤，其发病率高、致死率高、对\n人类健康构成了重大威胁，目前主要的治疗方法是手术切除，但肿瘤\n的准确切除需要术中对切除区域进行病理学诊断，目前所用的方法耗\n时较长，人力物力资源消耗大。医疗现实需求更好的术中病理诊断方\n法。\n为此，本研究提出了一种基于紫外表面激发成像显微镜（MUSE）\n和以循环对抗神经网络（CycleGAN）为主体的网络模型算法的术中\n实时诊断系统，用于脑瘤术中病理诊断。通过免切片采集图像、图像\n后处理、MUSE 图像虚拟染色，并结合 YOLOv5 网络进行癌变组织\n的自动识别与分类。该系统可以实现无切片的快速组织成像，并将其\n向 H&E 图像或免疫组化图像转换，同时可进行癌变组织的人工智能\n分析。这不仅大大缩短了脑瘤的术中病理学诊断时间，而且有效解决\n了脑胶质瘤手术中的精准切缘问题，最大限度地保护了正常脑组织，\n降低了术后复发率，为患者",
+    "text_length": 46608,
+    "source_fingerprint": "knowledge_card_458183_a2e44160_5fcdd30989"
+  },
+  "card_id": "KC_005",
+  "type": "政策标准",
+  "labels": [
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "医疗健康",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\458183-析光知理——快速脑瘤_能分析系统-项目策划书-a2e44160.pdf | 页码: 1-54, 56-73",
+  "industry_benchmarks": {}
+}

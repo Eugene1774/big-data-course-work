@@ -1,0 +1,46 @@
+{
+  "id": "KC_097",
+  "node_type": "KnowledgeCard",
+  "name": "第四届京彩大创北京大学生创新创业大赛",
+  "description": "第四届京彩大创北京大学生创新创业大赛 第 1 页 第四届京彩大创北京大学生创新创业大赛",
+  "tags": [
+    "AI",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "商业计划书-讯海智航——全流程新闻写作AI辅助平台.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\商业计划书-讯海智航——全流程新闻写作AI辅助平台.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-54",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\商业计划书-讯海智航——全流程新闻写作AI辅助平台.pdf | 页码: 1-54",
+    "source_excerpt": "第四届京彩大创北京大学生创新创业大赛\n第 1 页\n第四届京彩大创北京大学生创新创业大赛\n目录\n第一章 项目概况..............................................................................................................4\n第二章 产品与技术分析.................................................................................................5\n2.1 产品概述..............................................................................................................5\n2.2",
+    "text_length": 46143,
+    "source_fingerprint": "knowledge_card_ai_103316a5bf"
+  },
+  "card_id": "KC_097",
+  "type": "政策标准",
+  "labels": [
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\商业计划书-讯海智航——全流程新闻写作AI辅助平台.pdf | 页码: 1-54",
+  "industry_benchmarks": {}
+}

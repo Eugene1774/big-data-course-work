@@ -1,0 +1,42 @@
+{
+  "id": "KC_041",
+  "node_type": "KnowledgeCard",
+  "name": "项 目 划 书",
+  "description": "项 目 划 书 Lectura Agents 多智能体自适应学 习系统项目计划书",
+  "tags": [
+    "AI",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "477178-LectūraAgents-项目策划书-42019064.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477178-LectūraAgents-项目策划书-42019064.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-15",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477178-LectūraAgents-项目策划书-42019064.pdf | 页码: 1-15",
+    "source_excerpt": "项 目 划 书\nLectura Agents 多智能体自适应学\n习系统项目计划书\n团队：JAWARD SESAY, AZZABI JALALEDIN YOUSEF, ELAINE IMPERIAL\nwww.lecturalabs.com\n2025\n第十九届“挑战杯”全国大学生课外学术科\n技作品竞赛“人工智能+”应用赛\n目录\n1. 摘要…… ……………………………………………3\n2. 项目目标 ……………………………………………4\n3. 系统架构\n3.1 技术栈 …………………………………………4\n3.2 智能体工作流 …………………………………4\n3.3 关键创新点 ……………………………………5\n4. 项目进度与里程碑 …………………………………5\n5. 未来研究方向 ………………………………………6\n6. 团队与资源 …………………………………………7\n7. 结论 …………………………",
+    "text_length": 5050,
+    "source_fingerprint": "knowledge_card_477178_lectu_raagents_42019064_065cbf3f1d"
+  },
+  "card_id": "KC_041",
+  "type": "行业基准",
+  "labels": [
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477178-LectūraAgents-项目策划书-42019064.pdf | 页码: 1-15",
+  "industry_benchmarks": {}
+}

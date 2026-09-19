@@ -1,0 +1,44 @@
+{
+  "id": "KC_013",
+  "node_type": "KnowledgeCard",
+  "name": "2025 挑战杯",
+  "description": "2025 挑战杯 2025 大学挑战杯 负责人 邱昊",
+  "tags": [
+    "重工业",
+    "工业设备",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "469906-“仪探究净”基于深度_损检测系统-项目策划书-c208324f.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\469906-“仪探究净”基于深度_损检测系统-项目策划书-c208324f.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-63",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\469906-“仪探究净”基于深度_损检测系统-项目策划书-c208324f.pdf | 页码: 1-63",
+    "source_excerpt": "2025 挑战杯\n2025 大学挑战杯\n负责人 邱昊\n指导教师 于兴华 教授\n团队成员\n温浩钰 佘阳 蒋锋\n侯雨禾 温梓璇 刘望望\n赵学峰 罗文广 和耀楠\n张若彤\n2025 挑战杯\n摘要\n作为制造强国建设的主攻方向，智能制造发展水平关乎我国未来制造业的全\n球地位。发展智能制造，对于加快发展现代产业体系，巩固壮大实体经济根基，\n构建新发展格局，建设数字中国具有重要意义。\n在国家《“十四五”智能制造发展规划》和《中国制造2025》规划中，提出了\n全面推动制造业向自动化、智能化方向发展的要求，为响应国家的号召，近年来，\n中高端制造业的企业都在致力于各自领域的产业结构升级。焊接作为工业制造流\n程中常用的金属连接工艺，对工业产品的质量及安全性能至关重要。例如，在汽\n车制造业，多家名牌车企，如捷豹路虎、东风日产、雷克萨斯和奔驰等品牌近几\n年都曾因焊接质量不过关而被迫发起召回。焊接质量不过关不仅给制造业",
+    "text_length": 48424,
+    "source_fingerprint": "knowledge_card_469906_c208324f_869ef10f7a"
+  },
+  "card_id": "KC_013",
+  "type": "政策标准",
+  "labels": [
+    "工业设备",
+    "渠道策略",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "重工业",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\469906-“仪探究净”基于深度_损检测系统-项目策划书-c208324f.pdf | 页码: 1-63",
+  "industry_benchmarks": {}
+}

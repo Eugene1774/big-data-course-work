@@ -1,0 +1,234 @@
+{
+  "case_id": "D002",
+  "title": "智能选品助手-市场规模倒挂案例",
+  "description": "用于触发 H4 失败：TAM 小于 SAM。",
+  "nodes": [
+    {
+      "id": "project_d002",
+      "node_type": "Project",
+      "name": "选品雷达",
+      "description": "帮助校园创业团队做选品分析的 SaaS 工具。",
+      "stage": "idea",
+      "team_name": "雷达团队",
+      "tags": ["SaaS", "选品"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d002_pmf",
+      "node_type": "Concept",
+      "name": "PMF",
+      "description": "产品与目标用户需求的匹配程度。",
+      "aliases": ["产品市场匹配"],
+      "tags": ["创业概念"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d002_market",
+      "node_type": "Concept",
+      "name": "校园电商工具市场",
+      "description": "项目想切入的工具型市场。",
+      "aliases": ["校园 SaaS 市场"],
+      "tags": ["市场"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d002_tech",
+      "node_type": "Concept",
+      "name": "推荐算法与数据抓取能力",
+      "description": "项目假设具备的技术基础。",
+      "aliases": ["推荐算法"],
+      "tags": ["技术"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d002_outcome",
+      "node_type": "Concept",
+      "name": "增长停滞",
+      "description": "常见的项目风险结果。",
+      "aliases": ["增长乏力"],
+      "tags": ["风险结果"],
+      "metadata": {}
+    },
+    {
+      "id": "method_d002_canvas",
+      "node_type": "Method",
+      "name": "精益画布",
+      "description": "帮助团队梳理问题、方案与价值主张。",
+      "steps": ["问题假设", "用户分层", "验证假设"],
+      "tags": ["方法论"],
+      "metadata": {}
+    },
+    {
+      "id": "task_d002_interview",
+      "node_type": "Task",
+      "name": "用户访谈",
+      "description": "对潜在卖家与社团负责人做访谈。",
+      "expected_output": "需求洞察文档",
+      "tags": ["调研"],
+      "metadata": {}
+    },
+    {
+      "id": "artifact_d002_report",
+      "node_type": "Artifact",
+      "name": "需求洞察文档",
+      "description": "整理用户问题与频次。",
+      "artifact_type": "report",
+      "tags": ["文档"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d002_tam",
+      "node_type": "Metric",
+      "name": "TAM",
+      "description": "总体市场规模。",
+      "metric_key": "TAM",
+      "value": 8000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d002_sam",
+      "node_type": "Metric",
+      "name": "SAM",
+      "description": "可触达市场规模。",
+      "metric_key": "SAM",
+      "value": 12000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d002_som",
+      "node_type": "Metric",
+      "name": "SOM",
+      "description": "可获取市场规模。",
+      "metric_key": "SOM",
+      "value": 1000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d002_cac",
+      "node_type": "Metric",
+      "name": "CAC",
+      "description": "获客成本。",
+      "metric_key": "CAC",
+      "value": 90,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d002_ltv",
+      "node_type": "Metric",
+      "name": "LTV",
+      "description": "客户生命周期价值。",
+      "metric_key": "LTV",
+      "value": 500,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "mistake_d002",
+      "node_type": "Mistake",
+      "name": "拍脑袋估市场",
+      "description": "没有清晰分层就直接给出市场规模。",
+      "symptom": "SAM 比 TAM 还大。",
+      "tags": ["典型错误"],
+      "metadata": {}
+    },
+    {
+      "id": "evidence_d002",
+      "node_type": "Evidence",
+      "name": "12 份用户访谈记录",
+      "description": "早期用户调研记录。",
+      "source": "线上访谈",
+      "confidence": 0.72,
+      "tags": ["证据"],
+      "metadata": {}
+    }
+  ],
+  "relations": [
+    {
+      "id": "relation_d002_01",
+      "source_id": "concept_d002_pmf",
+      "target_id": "task_d002_interview",
+      "relation_type": "PREREQ",
+      "description": "理解 PMF 能帮助访谈聚焦。",
+      "weight": 0.7,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d002_02",
+      "source_id": "task_d002_interview",
+      "target_id": "artifact_d002_report",
+      "relation_type": "PRODUCES",
+      "description": "访谈产出需求洞察文档。",
+      "weight": 0.9,
+      "evidence_ids": ["evidence_d002"],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d002_03",
+      "source_id": "artifact_d002_report",
+      "target_id": "metric_d002_ltv",
+      "relation_type": "MEASURED_BY",
+      "description": "项目成效最终会反馈到商业指标。",
+      "weight": 0.5,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d002_04",
+      "source_id": "project_d002",
+      "target_id": "mistake_d002",
+      "relation_type": "COMMON_MISTAKE",
+      "description": "该项目容易犯市场规模估算错误。",
+      "weight": 0.85,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d002_05",
+      "source_id": "concept_d002_pmf",
+      "target_id": "evidence_d002",
+      "relation_type": "EVIDENCED_BY",
+      "description": "PMF 判断需要证据支持。",
+      "weight": 0.8,
+      "evidence_ids": ["evidence_d002"],
+      "metadata": {}
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_d002_value",
+      "edge_type": "Value_Loop_Edge",
+      "name": "选品工具价值闭环",
+      "description": "项目试图连接市场、技术与产品。",
+      "participants": {
+        "market": "concept_d002_market",
+        "technology": "concept_d002_tech",
+        "project": "project_d002"
+      },
+      "fit_score": 0.67,
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_d002_risk",
+      "edge_type": "Risk_Pattern_Edge",
+      "name": "市场估算错误风险",
+      "description": "市场规模估算失真可能导致增长停滞。",
+      "participants": {
+        "project": "project_d002",
+        "mistake": "mistake_d002",
+        "outcome": "concept_d002_outcome"
+      },
+      "risk_score": 0.71,
+      "metadata": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "KC_084",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届人工智能+应用赛项目书",
+  "description": "第十九届人工智能+应用赛项目书 基于 YOLO 的 AI 视觉检测与热态反演的船舶智能感知系统 第十九届人工智能+应用赛项目书",
+  "tags": [
+    "AI",
+    "红外热成像",
+    "船舶识别",
+    "温度反演",
+    "嵌入式",
+    "Infrared thermal imaging",
+    "Ship identification",
+    "Temperature inversion",
+    "单位经济",
+    "教育科技"
+  ],
+  "metadata": {
+    "source_name": "536523-基于YOLO的AI视_能感知系统-项目策划书-3cc9bf6e.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536523-基于YOLO的AI视_能感知系统-项目策划书-3cc9bf6e.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-37",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536523-基于YOLO的AI视_能感知系统-项目策划书-3cc9bf6e.pdf | 页码: 1-37",
+    "source_excerpt": "第十九届人工智能+应用赛项目书\n基于 YOLO 的 AI 视觉检测与热态反演的船舶智能感知系统\n第十九届人工智能+应用赛项目书\n项目题目：\n基于 YOLO 的 AI 视觉检测与热态反演的船舶智能\n感知系统\nYOLO-based AI Visual Detection and Thermal State\nInversion Intelligent Ship Perception System\n参赛单位： 学校\n参加赛道： 人工智能+其他综合领域\n指导老师： 老师·\n参赛队员： 耿佳伟 常子轩 吕子涛 金一凡\n完成时间： 2025 年 7 月 9 日\n第十九届人工智能+应用赛项目书\n基于 YOLO 的 AI 视觉检测与热态反演的船舶智能感知系统\n基于 YOLO 的 AI 视觉检测与热态反演的船舶智能\n感知系统\n摘要\n随着全球海洋经济的快速发展和海上安全需求的日益增长，全天候、高精度\n的船舶智能",
+    "text_length": 23659,
+    "source_fingerprint": "knowledge_card_536523_yolo_ai_3cc9bf6e_4ff91bbfea"
+  },
+  "card_id": "KC_084",
+  "type": "政策标准",
+  "labels": [
+    "红外热成像",
+    "船舶识别",
+    "温度反演",
+    "嵌入式",
+    "Infrared thermal imaging",
+    "Ship identification",
+    "Temperature inversion",
+    "单位经济",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536523-基于YOLO的AI视_能感知系统-项目策划书-3cc9bf6e.pdf | 页码: 1-37",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "KC_051",
+  "node_type": "KnowledgeCard",
+  "name": "基于人工智能的雷达微弱目标检测",
+  "description": "基于人工智能的雷达微弱目标检测 摘 要：低空飞行器的检测和跟踪是一个备受关注的研究领域，对低空飞行器的监测和识别是 保障公共安全和维护社会秩序的重要任务。针对在鸟群等干扰目标和多径传播环境下低空慢速",
+  "tags": [
+    "AI"
+  ],
+  "metadata": {
+    "source_name": "479874-基于人工智能的雷达微弱目标检测-项目策划书-77a5f70a.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\479874-基于人工智能的雷达微弱目标检测-项目策划书-77a5f70a.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-13",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\479874-基于人工智能的雷达微弱目标检测-项目策划书-77a5f70a.pdf | 页码: 1-13",
+    "source_excerpt": "基于人工智能的雷达微弱目标检测\n摘 要：低空飞行器的检测和跟踪是一个备受关注的研究领域，对低空飞行器的监测和识别是\n保障公共安全和维护社会秩序的重要任务。针对在鸟群等干扰目标和多径传播环境下低空慢速\n目标识别难题，基于赛事主办方提供的地面站获取的雷达和红外数据集以及可能的环境先验数\n据，本文提出了低空飞行器检测和跟踪算法框架。在红外数据处理方面，结合目标与背景的空\n时特征差异，我们设计了适用于移动背景，由绝对能量测量（Absolute Energy Measurement，\nAEM）和波动差异测量（Fluctuation Difference Measurement，FDM）的时空域局部对比度方\n法；同时，利用目标飞行特性和环境先验信息设计掩码模块降低虚警。在雷达数据处理方面，\n通过相参积累提高信噪比分离出信号；利用MTI对消技术消除雷达数据中的静态杂波，实现距\n离向高分辨率；利用匹配滤波",
+    "text_length": 13070,
+    "source_fingerprint": "knowledge_card_479874_77a5f70a_ffe9018884"
+  },
+  "card_id": "KC_051",
+  "type": "政策标准",
+  "labels": [],
+  "applicable_scenarios": [],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\479874-基于人工智能的雷达微弱目标检测-项目策划书-77a5f70a.pdf | 页码: 1-13",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "KC_045",
+  "node_type": "KnowledgeCard",
+  "name": "1",
+  "description": "随着“碳达峰、碳中和”战略目标的提出，减污降碳成为我国推",
+  "tags": [
+    "AI",
+    "减污降碳",
+    "协同效应",
+    "智能问答平台",
+    "个性化语料库",
+    "政策",
+    "Pollution reduction and carbon emission reduction",
+    "Synergy",
+    "工业设备",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "metadata": {
+    "source_name": "478359-碳智通：AI驱动的减_同优化平台-项目策划书-228bb989.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478359-碳智通：AI驱动的减_同优化平台-项目策划书-228bb989.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-114",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478359-碳智通：AI驱动的减_同优化平台-项目策划书-228bb989.pdf | 页码: 1-114",
+    "source_excerpt": "1\n摘要：\n随着“碳达峰、碳中和”战略目标的提出，减污降碳成为我国推\n动生态文明建设和应对气候变化的重要战略。当前，政策执行层面存\n在许多挑战，尤其是在减少 PM2.5 和 O3 污染、实现温室气体减排方\n面，传统的政策评估与决策支持方法面临着数据量大、知识更新速度\n快、决策响应需求高等问题。为此，迫切需要一种能够高效结合专业\n知识、本地实践与最新技术的智能化工具，帮助政策制定者全面评估\n减污降碳政策的实施效果，并提供针对性的优化建议。为此，团队开\n发了“减污降碳政策协同效应智能评估模型”,该模型包含三个模块：\n基于 DeepSeek 与个性化语料库的减污降碳智能政策评估问答平台、\n基于随机森林的污染物协同减排效应评估模型以及基于文本挖掘和\n网络分析的政策评估模型，为减污降碳政策制定提供高效的知识管理、\n智能问答和决策辅助功能。我们基于此模型开展了三个应用实例，首\n先对中国 PM2.5 和",
+    "text_length": 65548,
+    "source_fingerprint": "knowledge_card_478359_ai_228bb989_d0b40e98d4"
+  },
+  "card_id": "KC_045",
+  "type": "政策标准",
+  "labels": [
+    "减污降碳",
+    "协同效应",
+    "智能问答平台",
+    "个性化语料库",
+    "政策",
+    "Pollution reduction and carbon emission reduction",
+    "Synergy",
+    "工业设备",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478359-碳智通：AI驱动的减_同优化平台-项目策划书-228bb989.pdf | 页码: 1-114",
+  "industry_benchmarks": {}
+}

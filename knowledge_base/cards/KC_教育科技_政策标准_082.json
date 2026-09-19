@@ -1,0 +1,49 @@
+{
+  "id": "KC_082",
+  "node_type": "KnowledgeCard",
+  "name": "懂你践学",
+  "description": "懂你践学 基于虚实结合视觉伺服机械臂的智能学习平台设计 团队成员：程静竹（负责人） 张柏展 李文卓 白晟昱 高颢祯 李昱童",
+  "tags": [
+    "教育科技",
+    "机械臂",
+    "图像处理",
+    "视觉伺服",
+    "人工智能",
+    "学习平台。",
+    "竞品分析",
+    "校园创业",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "536359-基于虚实结合视觉伺服_习平台设计-项目策划书-06a991e7.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536359-基于虚实结合视觉伺服_习平台设计-项目策划书-06a991e7.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-32",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536359-基于虚实结合视觉伺服_习平台设计-项目策划书-06a991e7.pdf | 页码: 1-32",
+    "source_excerpt": "懂你践学\n基于虚实结合视觉伺服机械臂的智能学习平台设计\n团队成员：程静竹（负责人） 张柏展 李文卓 白晟昱 高颢祯 李昱童\n指导老师：王老师\n申报类别：“人工智能＋教育教学”赛道\n关键内容展示（ ）\nPPT\n1\n2\n目录\n关键内容展示（PPT）.........................................................................................1\n摘要.......................................................................................................................4\n第一章 项目背景........................................................",
+    "text_length": 16935,
+    "source_fingerprint": "knowledge_card_536359_06a991e7_8c7446f4a4"
+  },
+  "card_id": "KC_082",
+  "type": "政策标准",
+  "labels": [
+    "机械臂",
+    "图像处理",
+    "视觉伺服",
+    "人工智能",
+    "学习平台。",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "教育科技",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536359-基于虚实结合视觉伺服_习平台设计-项目策划书-06a991e7.pdf | 页码: 1-32",
+  "industry_benchmarks": {}
+}

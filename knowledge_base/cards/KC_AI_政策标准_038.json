@@ -1,0 +1,48 @@
+{
+  "id": "KC_038",
+  "node_type": "KnowledgeCard",
+  "name": "第 十 九 届 “挑 战 杯 ”全 国 大 学 生",
+  "description": "第 十 九 届 “挑 战 杯 ”全 国 大 学 生 课 外 学 术 科 技 作 品 竞 赛 智禾——以“小白菜”为例的",
+  "tags": [
+    "AI",
+    "生长健康状态",
+    "YOLOv5",
+    "U-Net：多元线性拟合",
+    "迁移学习",
+    "多尺度特征",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "476164-智禾——以“小白菜”_态监测系统-项目策划书-9016c30d.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476164-智禾——以“小白菜”_态监测系统-项目策划书-9016c30d.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-69",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476164-智禾——以“小白菜”_态监测系统-项目策划书-9016c30d.pdf | 页码: 1-69",
+    "source_excerpt": "第 十 九 届 “挑 战 杯 ”全 国 大 学 生\n课 外 学 术 科 技 作 品 竞 赛\n智禾——以“小白菜”为例的\n植物生长健康状态监测系统\n项目赛道： 人工智能+农业发展\n团队成员： 韩宜彤、雷富程、王瑜佳\n指导老师： ×××\nI\nII\nIII\n摘 要\n小白菜作为我国广泛栽培且深受大众欢迎的蔬菜之一，对肥料需求高，易受非\n生物胁迫影响。针对其生长过程中养分失衡及非生物胁迫问题，本研究开发了一套\n集生长量化、营养检测与健康诊断于一体的智能化识系统。\n（1）基于农业部\"3414\"试验设计，本研究构建了包括 14 种缺素处理和水分胁\n迫在内的多环境因子试验体系。利用双摄像头连续采集全生长周期图像，建立了包\n含生长阶段、叶片形态及健康状态的数据集，为模型训练提供了高质量样本。\n（2）本研究提出一种基于 YOLOv5 网络和多元线性回归的小白菜生长量化估\n计模型。首先通过 YOLOv5 进行位",
+    "text_length": 53000,
+    "source_fingerprint": "knowledge_card_476164_9016c30d_8102147196"
+  },
+  "card_id": "KC_038",
+  "type": "政策标准",
+  "labels": [
+    "生长健康状态",
+    "YOLOv5",
+    "U-Net：多元线性拟合",
+    "迁移学习",
+    "多尺度特征",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476164-智禾——以“小白菜”_态监测系统-项目策划书-9016c30d.pdf | 页码: 1-69",
+  "industry_benchmarks": {}
+}

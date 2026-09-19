@@ -1,0 +1,44 @@
+{
+  "id": "KC_056",
+  "node_type": "KnowledgeCard",
+  "name": "医联农村",
+  "description": "医联农村 助农 路",
+  "tags": [
+    "医疗健康",
+    "农村互联网医疗",
+    "数字技术赋能",
+    "乡村振兴",
+    "路径优化",
+    "渠道策略",
+    "教育科技"
+  ],
+  "metadata": {
+    "source_name": "482648-医联农村，e路助农—_化路径研究-论文_调研报告-9448021f.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482648-医联农村，e路助农—_化路径研究-论文_调研报告-9448021f.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-80",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482648-医联农村，e路助农—_化路径研究-论文_调研报告-9448021f.pdf | 页码: 1-80",
+    "source_excerpt": "医联农村\n助农\n路\ne\n农村互联网医疗应用调查和优化路径研究\n摘 要\n在数字技术高速发展的背景下，我国互联网医疗得到了广泛应用，开辟了\n医疗服务新模式，为缓解我国医疗资源不足、分布不均衡提供了有效手段。近\n年来，农村互联网医疗加速发展，但现有农村互联网医疗模式还存在普适性不\n足、普及率较低等问题，农村居民仍然需要面对就医远、难、贵等难题，这也\n凸显了农村医疗当下的困境。本项目聚焦农村互联网医疗发展现状、存在问题\n及优化路径，通过问卷调查、居民访谈、实地走访等方法，客观分析发展障\n碍，并提出解决方案，为提升农村互联网医疗普及度提供理论与实践支持。\n项目研究团队历时近2年的时间，采用线下调研为主，线上数据收集为辅的\n方式对农村居民进行了调研，样本覆盖全国 31 个省市、自治区，采集一万余份\n有效数据。团队重点实地走访了江西、山西、河南等 8 个省市，聚焦江西吉安\n县、井冈山、吕梁方山等革命老区",
+    "text_length": 29348,
+    "source_fingerprint": "knowledge_card_482648_e_9448021f_5536aaa607"
+  },
+  "card_id": "KC_056",
+  "type": "政策标准",
+  "labels": [
+    "农村互联网医疗",
+    "数字技术赋能",
+    "乡村振兴",
+    "路径优化",
+    "渠道策略",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "教育科技"
+  ],
+  "industry": "医疗健康",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482648-医联农村，e路助农—_化路径研究-论文_调研报告-9448021f.pdf | 页码: 1-80",
+  "industry_benchmarks": {}
+}

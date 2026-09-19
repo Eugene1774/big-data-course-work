@@ -1,0 +1,48 @@
+{
+  "id": "KC_069",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”专项赛 深海幽灵",
+  "tags": [
+    "AI",
+    "AI智能",
+    "仿蝠鲼",
+    "柔性传感器",
+    "机器学习",
+    "运动状态反馈",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "528229-深海幽灵-面向海洋强_无人航行器-项目策划书-02addcc8.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528229-深海幽灵-面向海洋强_无人航行器-项目策划书-02addcc8.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-70",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528229-深海幽灵-面向海洋强_无人航行器-项目策划书-02addcc8.pdf | 页码: 1-70",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛\n“人工智能+”专项赛\n深海幽灵\n面向海洋强国战略的新一代仿生蝠鲼AI智能自反馈水下无人航行器\n指导老师 郭教授 参赛大学 X X X X 大 学\n负责人 王天潇 参赛组别 人工智能+交通运输\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛\n摘 要\n随着海洋战略地位的不断上升以及智能化军事装备的发展需求日益迫切，新一\n代水下无人装备亟需具备更高的机动性、隐蔽性与环境适应能力。蝠鲼是典型的 MPF\n（Medialand Paired Fin）推进生物，拥有宽大而扁平的菱形身躯，相对于其他鱼类有\n机动灵活、胸鳍推进力大等特点，被称为高效的游泳者。针对传统螺旋桨推进方式在\n噪音控制、灵活操控和状态感知方面存在的显著短板，本文以蝠鲼为原型，设计了一\n种新型智能",
+    "text_length": 38299,
+    "source_fingerprint": "knowledge_card_528229_02addcc8_5cb089370a"
+  },
+  "card_id": "KC_069",
+  "type": "政策标准",
+  "labels": [
+    "AI智能",
+    "仿蝠鲼",
+    "柔性传感器",
+    "机器学习",
+    "运动状态反馈",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\528229-深海幽灵-面向海洋强_无人航行器-项目策划书-02addcc8.pdf | 页码: 1-70",
+  "industry_benchmarks": {}
+}

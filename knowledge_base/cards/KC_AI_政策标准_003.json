@@ -1,0 +1,56 @@
+{
+  "id": "KC_003",
+  "node_type": "KnowledgeCard",
+  "name": "项目负责人： 郭忠滨",
+  "description": "项目负责人： 郭忠滨 项 目 成 员 ： 陈心悦 徐潇菲 陈心怡 涂爽 师浩哲 杨典荣 王子嫣 沈乐天 王雨辰子",
+  "tags": [
+    "AI",
+    "遥感图像",
+    "多模态大模型（MLLM）",
+    "时间序列建模",
+    "图像生成",
+    "时",
+    "Remote Sensing Image",
+    "Multimodal Large Language Model",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "metadata": {
+    "source_name": "457623-星眸智析--多模态卫_来推演系统-项目策划书-44ee2220.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\457623-星眸智析--多模态卫_来推演系统-项目策划书-44ee2220.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1, 5-54, 56-74",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\457623-星眸智析--多模态卫_来推演系统-项目策划书-44ee2220.pdf | 页码: 1, 5-54, 56-74",
+    "source_excerpt": "项目负责人： 郭忠滨\n项 目 成 员 ： 陈心悦 徐潇菲 陈心怡 涂爽 师浩哲\n杨典荣 王子嫣 沈乐天 王雨辰子\n作 品 类 别 ： 人工智能+专项赛应用赛其他领域\n摘要\n随着智慧城市、生态治理和国防应急等领域对遥感时序数据的依赖日益增加，\n传统遥感图像分析方法面临难以满足实际需求的瓶颈。现有技术大多侧重于静态\n变化检测，只能对已经发生的地物变化进行事后分析，缺乏对未来变化趋势的预\n测能力。同时，遥感图像、时间信息与语义描述等多模态数据融合仍存在模态结\n构差异大、特征对齐困难等挑战。这导致基于长序列的生成模型常出现时间逻辑\n混乱和地物演化脱节的现象，削弱了生成结果在动态监测、趋势评估中的实用性。\n例如，一些扩散模型（如DiffusionSat）可以根据元数据生成逼真的单时相图像，\n但由于缺乏时间建模机制，其生成的多时序结果往往与历史发展趋势不一致，表\n现为地物突变、结构错乱、时序断裂等问题",
+    "text_length": 44893,
+    "source_fingerprint": "knowledge_card_457623_44ee2220_3d3fdf333f"
+  },
+  "card_id": "KC_003",
+  "type": "政策标准",
+  "labels": [
+    "遥感图像",
+    "多模态大模型（MLLM）",
+    "时间序列建模",
+    "图像生成",
+    "时",
+    "Remote Sensing Image",
+    "Multimodal Large Language Model",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\457623-星眸智析--多模态卫_来推演系统-项目策划书-44ee2220.pdf | 页码: 1, 5-54, 56-74",
+  "industry_benchmarks": {}
+}

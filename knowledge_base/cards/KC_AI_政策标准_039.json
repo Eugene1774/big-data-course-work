@@ -1,0 +1,42 @@
+{
+  "id": "KC_039",
+  "node_type": "KnowledgeCard",
+  "name": "智眸明析——眼底临床诊断报告智能标准化大模型",
+  "description": "智眸明析——眼底临床诊断报告智能标准化大模型 学 校 名 称 XXXXXX 申 报 人 姓 名 蔡玖珅",
+  "tags": [
+    "AI",
+    "眼底临床诊断报告 · 大语言模型 · 标准化 · 标准术语集",
+    "ClinicalFundusDiagnosticReport·LargeLanguageModel",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "476471-智眸明析——眼底临床_准化大模型-项目策划书-7384e632.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476471-智眸明析——眼底临床_准化大模型-项目策划书-7384e632.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-66",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476471-智眸明析——眼底临床_准化大模型-项目策划书-7384e632.pdf | 页码: 1-66",
+    "source_excerpt": "智眸明析——眼底临床诊断报告智能标准化大模型\n学 校 名 称 XXXXXX\n申 报 人 姓 名 蔡玖珅\n合 作 者 姓 名 杜嘉伟、韩浩楠、黄志海\n袁国栋、林辰翌、孔怡然\n曹博睿、叶思翔、崔月\n指 导 教 师 张老师\n李老师\n陆老师\n2025 年 4 月\n摘 要\n在当今医疗领域，临床诊断报告的标准化是提升医疗服务质量、实现医学数\n据高效整合的关键要素。然而，眼底临床诊断报告由于格式、术语及表述方式缺\n乏统一规范，成为大语言模型理解医学数据的巨大阻碍。为攻克这一难题，我们\n团队创新性地构建了一套双语标准术语集，全面涵盖眼底临床术语及诊断常用描\n述。在此基础之上，我们提出了两款开创性的模型 RetSTA-7B-Zero 和 RetSTA-\n7B。\nRetSTA-7B-Zero 凭借在模拟临床场景的增强数据集上的微调，展现出强大\n的标准化能力，在眼底诊断报告标准化进程中迈出重要一步。此外，针对 ",
+    "text_length": 70731,
+    "source_fingerprint": "knowledge_card_476471_7384e632_2c19d2827b"
+  },
+  "card_id": "KC_039",
+  "type": "政策标准",
+  "labels": [
+    "眼底临床诊断报告 · 大语言模型 · 标准化 · 标准术语集",
+    "ClinicalFundusDiagnosticReport·LargeLanguageModel",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476471-智眸明析——眼底临床_准化大模型-项目策划书-7384e632.pdf | 页码: 1-66",
+  "industry_benchmarks": {}
+}

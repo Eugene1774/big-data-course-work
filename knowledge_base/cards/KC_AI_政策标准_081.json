@@ -1,0 +1,54 @@
+{
+  "id": "KC_081",
+  "node_type": "KnowledgeCard",
+  "name": "“声”动学堂——个性化人工智能教学助手项目说明书",
+  "description": "“声”动学堂——个性化人工智能教学助手项目说明书 “挑战杯”全国大学生课外学术科技作 品竞赛 人工智能 专项赛",
+  "tags": [
+    "AI",
+    "人工智能",
+    "虚拟人",
+    "语音驱动视频生成",
+    "教育",
+    "artificial intelligence",
+    "virtual human",
+    "speech-driven videogeneration",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "536350-“声”动学堂--个性_能教学助手-项目策划书-630037af.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536350-“声”动学堂--个性_能教学助手-项目策划书-630037af.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-24",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536350-“声”动学堂--个性_能教学助手-项目策划书-630037af.pdf | 页码: 1-24",
+    "source_excerpt": "“声”动学堂——个性化人工智能教学助手项目说明书\n“挑战杯”全国大学生课外学术科技作\n品竞赛 人工智能 专项赛\n+\n项目说明书\n学 校 名 称: ××大学\n参 赛 组 别: 人工智能+专项赛\n参 赛 类 别: 应用赛\n赛 道 名 称: 人工智能+教育教学\n项 目 名 称: “声”动学堂--个性化人工智能教学助手\n指 导 老 师: M 老师\n成 员: 崔琛浩 洪子翔 牟星宇 董顺心 史立彬 陈科宇\n1/24\n“声”动学堂——个性化人工智能教学助手项目说明书\n摘要\n本项目旨在打造一款面向高等教育与科研场景的智能化学术传播平台——\n“声”动学堂：虚拟人论文讲解系统。平台深度融合大语言模型（LLM）、高\n保真语音合成（TTS）以及语音驱动的人脸视频生成（Talking Head Generation）\n等前沿技术，通过“文本-语音-视觉”三模态协同架构，将晦涩的学术论文转化\n为生动、可交互的虚拟作",
+    "text_length": 18570,
+    "source_fingerprint": "knowledge_card_536350_630037af_4e2c1c0d02"
+  },
+  "card_id": "KC_081",
+  "type": "政策标准",
+  "labels": [
+    "人工智能",
+    "虚拟人",
+    "语音驱动视频生成",
+    "教育",
+    "artificial intelligence",
+    "virtual human",
+    "speech-driven videogeneration",
+    "渠道策略",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536350-“声”动学堂--个性_能教学助手-项目策划书-630037af.pdf | 页码: 1-24",
+  "industry_benchmarks": {}
+}

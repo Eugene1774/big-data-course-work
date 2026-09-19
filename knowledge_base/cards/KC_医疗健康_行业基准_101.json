@@ -1,0 +1,37 @@
+{
+  "id": "KC_101",
+  "node_type": "KnowledgeCard",
+  "name": "材料",
+  "description": "材料 要点 前面写",
+  "tags": [
+    "医疗健康",
+    "竞品分析",
+    "SaaS",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "指导案例——慧心晰影.pptx",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\指导案例——慧心晰影.pptx",
+    "source_suffix": ".pptx",
+    "parser": "pptx",
+    "encoding_used": "pptx",
+    "warnings": [],
+    "source_locator": null,
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\指导案例——慧心晰影.pptx",
+    "source_excerpt": "材料\n要点\n前面写\n项目内容\n，主要有：\n项目背景\n行业痛点\n解决方案\n核心技术\n123\n研发历程\n应用案例、社会评价\n团队成员、专家老师\n然后大家要补充\n商业部分\n内容，可以参照后面的\n案例：\n竞品对比\n商业模式\n营收预测及融资计划\n发展规划与社会价值等\n{5C22544A-7EE6-4342-B048-85BDC9FD1C3A}\n产品\n系统功能\n系统指标\n分辨率提升\n信噪比提升\n自动化报告生成\n报告生成速度\n疾病分类准确度\n首个\nAI\n诊断三类证\n×\n×\n脑与乳腺\n结构化报告\n1~2\n分钟\n90.2%\n拥有最多三类证\n×\n心脏\n/\n胸\n结构化报告\n5~10\n秒\n92.4%\n获得国际四大认证\n肺部\n结构\n/\n模板化\n报告\n20~30\n秒\n92.9%\n百余种疾病\n文本报告\n1.5\n秒\n95%以上\n4.6\n竞品对比\n一体化问诊，影像诊断全流程覆盖，功能全面、优势明显\n*\n报告生成速度和疾病分",
+    "text_length": 1533,
+    "source_fingerprint": "knowledge_card_doc_e4ce945321"
+  },
+  "card_id": "KC_101",
+  "type": "行业基准",
+  "labels": [
+    "竞品分析",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "SaaS 增长"
+  ],
+  "industry": "医疗健康",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\指导案例——慧心晰影.pptx",
+  "industry_benchmarks": {}
+}

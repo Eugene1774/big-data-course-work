@@ -1,0 +1,234 @@
+{
+  "case_id": "D004",
+  "title": "AI 伴学助手-CAC 缺失案例",
+  "description": "用于触发 H8 预警：CAC == 0。",
+  "nodes": [
+    {
+      "id": "project_d004",
+      "node_type": "Project",
+      "name": "学伴 AI",
+      "description": "面向高校学生的学习陪伴与问答工具。",
+      "stage": "mvp",
+      "team_name": "学伴团队",
+      "tags": ["AI", "教育"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d004_pmf",
+      "node_type": "Concept",
+      "name": "PMF",
+      "description": "产品是否满足学生真实学习场景需求。",
+      "aliases": ["产品市场匹配"],
+      "tags": ["创业概念"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d004_market",
+      "node_type": "Concept",
+      "name": "高校智能学习工具市场",
+      "description": "项目希望进入的教育科技市场。",
+      "aliases": ["教育科技市场"],
+      "tags": ["市场"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d004_tech",
+      "node_type": "Concept",
+      "name": "大模型问答与学习画像",
+      "description": "项目的核心技术组合。",
+      "aliases": ["学习画像技术"],
+      "tags": ["技术"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d004_outcome",
+      "node_type": "Concept",
+      "name": "获客效率失真",
+      "description": "获客数据不真实带来的风险结果。",
+      "aliases": ["渠道判断失真"],
+      "tags": ["风险结果"],
+      "metadata": {}
+    },
+    {
+      "id": "method_d004_canvas",
+      "node_type": "Method",
+      "name": "精益画布",
+      "description": "帮助团队梳理用户、问题与增长假设。",
+      "steps": ["识别问题", "确认用户", "验证渠道"],
+      "tags": ["方法论"],
+      "metadata": {}
+    },
+    {
+      "id": "task_d004_interview",
+      "node_type": "Task",
+      "name": "用户访谈",
+      "description": "访谈真实学生用户，了解使用场景。",
+      "expected_output": "学习场景洞察",
+      "tags": ["调研"],
+      "metadata": {}
+    },
+    {
+      "id": "artifact_d004_report",
+      "node_type": "Artifact",
+      "name": "学习场景洞察",
+      "description": "记录用户场景、痛点与使用频次。",
+      "artifact_type": "report",
+      "tags": ["文档"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d004_tam",
+      "node_type": "Metric",
+      "name": "TAM",
+      "description": "总体市场规模。",
+      "metric_key": "TAM",
+      "value": 20000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d004_sam",
+      "node_type": "Metric",
+      "name": "SAM",
+      "description": "细分可触达市场规模。",
+      "metric_key": "SAM",
+      "value": 6000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d004_som",
+      "node_type": "Metric",
+      "name": "SOM",
+      "description": "短期可获取市场规模。",
+      "metric_key": "SOM",
+      "value": 1000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d004_cac",
+      "node_type": "Metric",
+      "name": "CAC",
+      "description": "获客成本。这里故意填 0，用于测试预警。",
+      "metric_key": "CAC",
+      "value": 0,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d004_ltv",
+      "node_type": "Metric",
+      "name": "LTV",
+      "description": "客户生命周期价值。",
+      "metric_key": "LTV",
+      "value": 300,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "mistake_d004",
+      "node_type": "Mistake",
+      "name": "忽略真实获客成本",
+      "description": "团队只看注册量，不看渠道投入与人力消耗。",
+      "symptom": "CAC 被填成 0 或未统计。",
+      "tags": ["典型错误"],
+      "metadata": {}
+    },
+    {
+      "id": "evidence_d004",
+      "node_type": "Evidence",
+      "name": "20 份学生访谈摘要",
+      "description": "来自目标学生用户的访谈结果。",
+      "source": "线上与线下混合访谈",
+      "confidence": 0.88,
+      "tags": ["证据"],
+      "metadata": {}
+    }
+  ],
+  "relations": [
+    {
+      "id": "relation_d004_01",
+      "source_id": "concept_d004_pmf",
+      "target_id": "task_d004_interview",
+      "relation_type": "PREREQ",
+      "description": "理解 PMF 有助于更好识别学生场景。",
+      "weight": 0.78,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d004_02",
+      "source_id": "task_d004_interview",
+      "target_id": "artifact_d004_report",
+      "relation_type": "PRODUCES",
+      "description": "用户访谈产出学习场景洞察。",
+      "weight": 0.93,
+      "evidence_ids": ["evidence_d004"],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d004_03",
+      "source_id": "artifact_d004_report",
+      "target_id": "metric_d004_ltv",
+      "relation_type": "MEASURED_BY",
+      "description": "策略效果最终反馈到留存与价值。",
+      "weight": 0.58,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d004_04",
+      "source_id": "project_d004",
+      "target_id": "mistake_d004",
+      "relation_type": "COMMON_MISTAKE",
+      "description": "项目容易忽略真实获客成本。",
+      "weight": 0.82,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d004_05",
+      "source_id": "concept_d004_pmf",
+      "target_id": "evidence_d004",
+      "relation_type": "EVIDENCED_BY",
+      "description": "PMF 判断需要真实用户证据。",
+      "weight": 0.86,
+      "evidence_ids": ["evidence_d004"],
+      "metadata": {}
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_d004_value",
+      "edge_type": "Value_Loop_Edge",
+      "name": "伴学工具价值闭环",
+      "description": "市场、技术与项目之间基本匹配。",
+      "participants": {
+        "market": "concept_d004_market",
+        "technology": "concept_d004_tech",
+        "project": "project_d004"
+      },
+      "fit_score": 0.79,
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_d004_risk",
+      "edge_type": "Risk_Pattern_Edge",
+      "name": "获客成本失真风险",
+      "description": "若不统计 CAC，容易导致渠道策略失真。",
+      "participants": {
+        "project": "project_d004",
+        "mistake": "mistake_d004",
+        "outcome": "concept_d004_outcome"
+      },
+      "risk_score": 0.76,
+      "metadata": {}
+    }
+  ]
+}

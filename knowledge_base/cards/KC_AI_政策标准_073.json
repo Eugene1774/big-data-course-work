@@ -1,0 +1,74 @@
+{
+  "id": "KC_073",
+  "node_type": "KnowledgeCard",
+  "name": "“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品",
+  "description": "“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品 献“计”献“策” 云计策数智农业产品化解决方案",
+  "tags": [
+    "AI",
+    "云计策",
+    "新疆策勒",
+    "数智赋能",
+    "乡村振兴",
+    "高质量发展",
+    "Yun Ji Ce",
+    "Xinjiang Cele",
+    "Digital Intelligence Empowerment",
+    "Rural",
+    "渠道策略",
+    "竞品分析"
+  ],
+  "metadata": {
+    "source_name": "532015-献计献“策”：云计策_化解决方案-项目策划书-cb4bc081.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\532015-献计献“策”：云计策_化解决方案-项目策划书-cb4bc081.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1, 26-91",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\532015-献计献“策”：云计策_化解决方案-项目策划书-cb4bc081.pdf | 页码: 1, 26-91",
+    "source_excerpt": "“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品\n献“计”献“策”\n云计策数智农业产品化解决方案\n项目赛道： 人工智能+应用赛\n负责人： 海腾赫\n蔡诗怡、陆熙臻、盛思齐、黄奕\n团队成员：\n洁、熊雪竹、梁雨霏、袁泉、张家\n绮、孟响\n指导老师： 张教授、车书记、刘委员、牛教授\n1\n“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品\n关键内容展示\nPPT\n2\n“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品\n3\n“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品\n4\n“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品\n5\n“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品\n6\n“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛参赛作品\n摘要\n本项目以自主开发的一",
+    "text_length": 35540,
+    "source_fingerprint": "knowledge_card_532015_cb4bc081_dfff329c30"
+  },
+  "card_id": "KC_073",
+  "type": "政策标准",
+  "labels": [
+    "云计策",
+    "新疆策勒",
+    "数智赋能",
+    "乡村振兴",
+    "高质量发展",
+    "Yun Ji Ce",
+    "Xinjiang Cele",
+    "Digital Intelligence Empowerment",
+    "Rural",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\532015-献计献“策”：云计策_化解决方案-项目策划书-cb4bc081.pdf | 页码: 1, 26-91",
+  "industry_benchmarks": {
+    "转化率": {
+      "metric_name": "转化率",
+      "original_text": "当系统识别到平台的转化率 显著低于阈值（如 <5% ），将动态",
+      "comparator": "<",
+      "value": 5.0,
+      "unit": "%"
+    },
+    "benchmark_items": [
+      {
+        "metric_name": "转化率",
+        "original_text": "当系统识别到平台的转化率 显著低于阈值（如 <5% ），将动态",
+        "comparator": "<",
+        "value": 5.0,
+        "unit": "%"
+      }
+    ]
+  }
+}

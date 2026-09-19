@@ -1,0 +1,44 @@
+{
+  "id": "KC_105",
+  "node_type": "KnowledgeCard",
+  "name": "“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛",
+  "description": "“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛 作品设计说明书 作品名称：",
+  "tags": [
+    "AI",
+    "工业设备",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "数湖启智-项目书0411.docx",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\数湖启智-项目书0411.docx",
+    "source_suffix": ".docx",
+    "parser": "docx",
+    "encoding_used": "docx",
+    "warnings": [],
+    "source_locator": null,
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\数湖启智-项目书0411.docx",
+    "source_excerpt": "“青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛\n作品设计说明书\n作品名称：\n数湖启智——多源异构数据湖智算系统\n申报类别：\n信息技术\n作者：\n邓\n同学\n、曾\n同学\n、杨\n同学\n、王\n同学\n钟\n同学\n、程\n同学\n、李\n同学\n、吴\n同学\n类别：\n自然科学类学术论文\n哲学社会科学类社会调查报告和学术论文\n科技发明制作A类\n科技发明制作B类\n摘\n要\n算力、模型和数据组成了人工智能的三要素，也是大国博弈的关键。其中，华为昇腾、DeepSeek在算力和模型上分别打破了国外技术垄断，但是数据管理领域亟待形成具有国际竞争力的技术突破。数据管理系统历经数据库、数据仓库的迭代升级，直至当前数据湖架构阶段。但是，由于数据湖中多源异构数据的复杂性，若不采取管理措施，难以发挥数据价值。本项目分析了国内外主流的数据湖技术和系统，通过企业走访和行业调研，针对数据湖技术所面临的挑战，研发了多源异构数据湖智",
+    "text_length": 48635,
+    "source_fingerprint": "knowledge_card_0411_8d0ac603cb"
+  },
+  "card_id": "KC_105",
+  "type": "政策标准",
+  "labels": [
+    "工业设备",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\数湖启智-项目书0411.docx",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,44 @@
+{
+  "id": "KC_111",
+  "node_type": "KnowledgeCard",
+  "name": "影豹",
+  "description": "影豹 极暗光 图像增强引擎",
+  "tags": [
+    "AI",
+    "工业设备",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "项目计划书-影豹-当前版本-挑战杯网评-23-0315.pptx",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\项目计划书-影豹-当前版本-挑战杯网评-23-0315.pptx",
+    "source_suffix": ".pptx",
+    "parser": "pptx",
+    "encoding_used": "pptx",
+    "warnings": [],
+    "source_locator": null,
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\项目计划书-影豹-当前版本-挑战杯网评-23-0315.pptx",
+    "source_excerpt": "影豹\n极暗光\n图像增强引擎\n科技创新和未来产业组\n学校名称\n：北京理工大学\n负\n责\n人\n：梁瑛平\nVS\n☀\n🌙\n正常照度图像\n真实暗光图像\n成对数据需要\n人工拍摄\n要求环境\n严格一致和对齐\n针对拍摄传感器\n单独使用\n目前最大数据量为\n3w\n对\n人工成本超过\n80w\n元\n数据收集花费\n数月时间\n噪声模型\n自动合成暗光图像\n仅需任意\n正常照度图像\n无需手动\n对齐和筛选\n任意\nCMOS\n传感器\n50w\n对\n数据量轻而易举\n2k\n元以下\n合成成本\n数小时\n即可完成\n3\n.\n3\n核心技术\n：突破性的低成本、跨设备暗光数据集合成技术\n互联网图像\n训练\nAI\n去噪模型\n大大降低跨设备数据获取难度，积累大规模数据集资产\n核心技术三：低成本数据集合成技术\n现有的方案\n我们的方案\n3\n万张暗光数据集收集时间\n从\n数月\n降至\n几小时\n收集\n耗时短\n标注\n成本低\n每代\n夜视产品\n标注成本\n降低约\n95%\n出售：训",
+    "text_length": 5825,
+    "source_fingerprint": "knowledge_card_23_0315_af6f9097e8"
+  },
+  "card_id": "KC_111",
+  "type": "政策标准",
+  "labels": [
+    "工业设备",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\项目计划书-影豹-当前版本-挑战杯网评-23-0315.pptx",
+  "industry_benchmarks": {}
+}

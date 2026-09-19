@@ -1,0 +1,23 @@
+{
+  "user_id": "",
+  "name": "",
+  "role": "student",
+  "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "projects": [
+    {
+      "name": "458152-“预行智控”——面向_智能机器人-项目策划书-112a55e3",
+      "upload_time": "2026-04-19 18:16:57",
+      "role": "组长"
+    }
+  ],
+  "diagnostic_history": [],
+  "grade": "",
+  "major": "",
+  "interests": []
+}

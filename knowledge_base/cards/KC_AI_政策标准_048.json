@@ -1,0 +1,50 @@
+{
+  "id": "KC_048",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课",
+  "description": "第十九届“挑战杯”全国大学生课 外学术科技作品竞赛“人工智能+” 应用赛",
+  "tags": [
+    "AI",
+    "B2B",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "高客单价B2B",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "478806-飞创智教——SIGM_济教培工坊-项目策划书-af6fd67b.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478806-飞创智教——SIGM_济教培工坊-项目策划书-af6fd67b.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 2, 5-114",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478806-飞创智教——SIGM_济教培工坊-项目策划书-af6fd67b.pdf | 页码: 2, 5-114",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课\n外学术科技作品竞赛“人工智能+”\n应用赛\n项目策划书\n参 赛 赛 道： “人工智能+”应用赛\n选 题 方 向： 人工智能 + 教育教学\n项 目 名 称： 飞创智教——SIGMA 人工智能与低空经济教培工坊\n项 目 成 员： 辛梓维(负责人)、张晟、韦祺、郑一凡、牛锴文\n龙雨菲、徐国辉、王泽宇、颜娟、张哲侨\n联 系 电 话： 18801317172\n负责人邮箱： [邮箱已脱敏]\n日 期： 2025 年 6 月 9 日\n摘要\n近年来，随着国内政策的逐步放开和技术的快速发展，低空经济和人工智能\n教育两大领域展现出巨大的发展潜力和市场缺口。低空经济是以无人机、通用航\n空为主要载体的新兴产业，其发展受到《关于促进无人驾驶航空物流发展的指导\n意见》等政策的支持。数据显示，2023年中国无人机市场规模已突破千亿元，应\n用场景涵盖物流配送、农业植保、应急救",
+    "text_length": 78227,
+    "source_fingerprint": "knowledge_card_478806_sigm_af6fd67b_8fb3b50124"
+  },
+  "card_id": "KC_048",
+  "type": "政策标准",
+  "labels": [
+    "B2B",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "高客单价B2B",
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\478806-飞创智教——SIGM_济教培工坊-项目策划书-af6fd67b.pdf | 页码: 2, 5-114",
+  "industry_benchmarks": {}
+}

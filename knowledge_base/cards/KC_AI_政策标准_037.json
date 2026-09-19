@@ -1,0 +1,52 @@
+{
+  "id": "KC_037",
+  "node_type": "KnowledgeCard",
+  "name": "项目背景 算法原理 实验方案 实验结果 团队协作",
+  "description": "项目背景 算法原理 实验方案 实验结果 团队协作 如何使手持设备产生和推车 式设备一致的成像结果？",
+  "tags": [
+    "AI",
+    "手持超声图像",
+    "CycleGAN",
+    "跨域增强",
+    "无监督学习",
+    "基层医疗",
+    "Handheldultrasoundimaging",
+    "Cross-domain enhancement",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "476125-超晰视界——手持超声_域增强技术-项目策划书-237feb7a.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476125-超晰视界——手持超声_域增强技术-项目策划书-237feb7a.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 2-41",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476125-超晰视界——手持超声_域增强技术-项目策划书-237feb7a.pdf | 页码: 2-41",
+    "source_excerpt": "项目背景 算法原理 实验方案 实验结果 团队协作\n如何使手持设备产生和推车\n式设备一致的成像结果？\n图像质量下降\n≈\n硬件的限制\n诊断准确率下降\n手持式\n设备\n推车式\n设备\n1\n项目背景 算法原理 实验方案 实验结果 团队协作\n循环一致性损失\n结构相似性损失\n低质量图像a\n伪高质量图像b\n重建低质量图像a\n对抗损失\n对抗损失\n重建高质量图像b\n伪低质量图像a\n高质量图像b\n结构相似性损失\n循环一致性损失\n结构相似性损失\n对抗损失\n循环一致性损失\n2\n项目背景 算法原理 实验方案 实验结果 团队协作\n1-重建阶段\n重建数据集部分来源\n数据集1：志愿者的 84 张颈动脉超声图像。\n数据集2：600 名女性患者的 780 张乳腺超声图像\n数据集3：25,272 张乳腺超声图像（含良/恶性病变）\n让模型学习超声图像通用特征\n2-微调阶段\n微调数据集\n甲状腺、乳腺、颈动脉、肝脏、肾脏\n各210对高质",
+    "text_length": 26613,
+    "source_fingerprint": "knowledge_card_476125_237feb7a_e57c2929b5"
+  },
+  "card_id": "KC_037",
+  "type": "政策标准",
+  "labels": [
+    "手持超声图像",
+    "CycleGAN",
+    "跨域增强",
+    "无监督学习",
+    "基层医疗",
+    "Handheldultrasoundimaging",
+    "Cross-domain enhancement",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\476125-超晰视界——手持超声_域增强技术-项目策划书-237feb7a.pdf | 页码: 2-41",
+  "industry_benchmarks": {}
+}

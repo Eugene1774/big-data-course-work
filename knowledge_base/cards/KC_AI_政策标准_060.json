@@ -1,0 +1,55 @@
+{
+  "id": "KC_060",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届第 十“九挑届“战挑战杯杯””全 国大学生课外学术科技作品竞赛参赛作品",
+  "description": "第十九届第 十“九挑届“战挑战杯杯””全 国大学生课外学术科技作品竞赛参赛作品 全国大学 生课外学术科技作品竞赛 禾光智能",
+  "tags": [
+    "AI",
+    "智慧农业",
+    "激光除草",
+    "人工智能",
+    "计算机视觉",
+    "神经架构搜索",
+    "Smart Agriculture",
+    "Laser Weeding",
+    "Artificial Intelligence",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "metadata": {
+    "source_name": "482816-禾光智能--精准制导_机器人系统-论文_调研报告-cb00df64.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482816-禾光智能--精准制导_机器人系统-论文_调研报告-cb00df64.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-118",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482816-禾光智能--精准制导_机器人系统-论文_调研报告-cb00df64.pdf | 页码: 1-118",
+    "source_excerpt": "第十九届第 十“九挑届“战挑战杯杯””全 国大学生课外学术科技作品竞赛参赛作品\n全国大学 生课外学术科技作品竞赛\n禾光智能\n精准制导激光除草机器人系统\ntong 统\n申报类别：信息技术\n作者：毛子鸣，王宇行，朱啸闻，林馨耀，田甜，杜一苇，郭宸溪，王德浩\n类别：\n□ 自然科学类学术论文\n□ 哲学社会科学类社会调查报告和学术论文\n□ 科技发明制作A类\n■ 科技发明制作B类\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品\n摘 要\n在国家推进农业现代化和实现粮食安全战略的时代背景下，传统杂草治理\n方式的弊端日益显现，面临效率低下与生态风险并存的双重困境：人工除草效\n率难以满足规模化农田管理需求，化学除草虽具短期效果，却伴随严重的生态\n环境破坏与农产品安全风险。在农业数字化转型与生态文明建设双重驱动下，\n复杂地形识别障碍、化学药剂依赖及劳动力短缺等问题，已成为制约农业新质\n生产力提升与绿色",
+    "text_length": 60359,
+    "source_fingerprint": "knowledge_card_482816_cb00df64_ee69fbff41"
+  },
+  "card_id": "KC_060",
+  "type": "政策标准",
+  "labels": [
+    "智慧农业",
+    "激光除草",
+    "人工智能",
+    "计算机视觉",
+    "神经架构搜索",
+    "Smart Agriculture",
+    "Laser Weeding",
+    "Artificial Intelligence",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482816-禾光智能--精准制导_机器人系统-论文_调研报告-cb00df64.pdf | 页码: 1-118",
+  "industry_benchmarks": {}
+}

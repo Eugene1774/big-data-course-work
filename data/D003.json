@@ -1,0 +1,234 @@
+{
+  "case_id": "D003",
+  "title": "校园活动平台-SAM/SOM 错位案例",
+  "description": "用于触发 H4 失败：SAM 小于 SOM。",
+  "nodes": [
+    {
+      "id": "project_d003",
+      "node_type": "Project",
+      "name": "社团活动通",
+      "description": "面向高校社团的活动招募与管理平台。",
+      "stage": "idea",
+      "team_name": "社团云团队",
+      "tags": ["校园平台", "社团"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d003_pmf",
+      "node_type": "Concept",
+      "name": "PMF",
+      "description": "平台是否真正解决社团组织效率问题。",
+      "aliases": ["产品市场匹配"],
+      "tags": ["创业概念"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d003_market",
+      "node_type": "Concept",
+      "name": "高校活动管理市场",
+      "description": "该项目服务的潜在市场。",
+      "aliases": ["校园活动市场"],
+      "tags": ["市场"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d003_tech",
+      "node_type": "Concept",
+      "name": "活动排期与报名系统",
+      "description": "平台的核心产品能力。",
+      "aliases": ["排期系统"],
+      "tags": ["技术"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d003_outcome",
+      "node_type": "Concept",
+      "name": "用户转化偏低",
+      "description": "风险模式中的常见结果。",
+      "aliases": ["转化不足"],
+      "tags": ["风险结果"],
+      "metadata": {}
+    },
+    {
+      "id": "method_d003_canvas",
+      "node_type": "Method",
+      "name": "精益画布",
+      "description": "用于提炼关键问题与解决方案。",
+      "steps": ["用户细分", "问题识别", "价值主张"],
+      "tags": ["方法论"],
+      "metadata": {}
+    },
+    {
+      "id": "task_d003_interview",
+      "node_type": "Task",
+      "name": "用户访谈",
+      "description": "与社团负责人进行深度访谈。",
+      "expected_output": "需求与痛点清单",
+      "tags": ["调研"],
+      "metadata": {}
+    },
+    {
+      "id": "artifact_d003_report",
+      "node_type": "Artifact",
+      "name": "需求与痛点清单",
+      "description": "整理社团活动组织过程中的高频问题。",
+      "artifact_type": "report",
+      "tags": ["文档"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d003_tam",
+      "node_type": "Metric",
+      "name": "TAM",
+      "description": "总体市场规模。",
+      "metric_key": "TAM",
+      "value": 30000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d003_sam",
+      "node_type": "Metric",
+      "name": "SAM",
+      "description": "细分可触达市场规模。",
+      "metric_key": "SAM",
+      "value": 1000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d003_som",
+      "node_type": "Metric",
+      "name": "SOM",
+      "description": "当前可获取市场规模。",
+      "metric_key": "SOM",
+      "value": 3000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d003_cac",
+      "node_type": "Metric",
+      "name": "CAC",
+      "description": "获客成本。",
+      "metric_key": "CAC",
+      "value": 80,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d003_ltv",
+      "node_type": "Metric",
+      "name": "LTV",
+      "description": "客户生命周期价值。",
+      "metric_key": "LTV",
+      "value": 400,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "mistake_d003",
+      "node_type": "Mistake",
+      "name": "可获取市场夸大",
+      "description": "把短期可获取市场估得比可触达市场还大。",
+      "symptom": "SOM 高于 SAM。",
+      "tags": ["典型错误"],
+      "metadata": {}
+    },
+    {
+      "id": "evidence_d003",
+      "node_type": "Evidence",
+      "name": "18 份社团负责人访谈",
+      "description": "用于支撑问题判断的原始记录。",
+      "source": "线下访谈",
+      "confidence": 0.81,
+      "tags": ["证据"],
+      "metadata": {}
+    }
+  ],
+  "relations": [
+    {
+      "id": "relation_d003_01",
+      "source_id": "concept_d003_pmf",
+      "target_id": "task_d003_interview",
+      "relation_type": "PREREQ",
+      "description": "理解 PMF 有助于确认访谈重点。",
+      "weight": 0.75,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d003_02",
+      "source_id": "task_d003_interview",
+      "target_id": "artifact_d003_report",
+      "relation_type": "PRODUCES",
+      "description": "用户访谈产出需求清单。",
+      "weight": 0.9,
+      "evidence_ids": ["evidence_d003"],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d003_03",
+      "source_id": "artifact_d003_report",
+      "target_id": "metric_d003_ltv",
+      "relation_type": "MEASURED_BY",
+      "description": "产品效果最终会反馈在价值指标上。",
+      "weight": 0.55,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d003_04",
+      "source_id": "project_d003",
+      "target_id": "mistake_d003",
+      "relation_type": "COMMON_MISTAKE",
+      "description": "该项目容易夸大短期可获取市场。",
+      "weight": 0.83,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d003_05",
+      "source_id": "concept_d003_pmf",
+      "target_id": "evidence_d003",
+      "relation_type": "EVIDENCED_BY",
+      "description": "关于 PMF 的判断需要真实用户证据。",
+      "weight": 0.84,
+      "evidence_ids": ["evidence_d003"],
+      "metadata": {}
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_d003_value",
+      "edge_type": "Value_Loop_Edge",
+      "name": "社团平台价值闭环",
+      "description": "市场、产品能力与项目之间存在一定闭环。",
+      "participants": {
+        "market": "concept_d003_market",
+        "technology": "concept_d003_tech",
+        "project": "project_d003"
+      },
+      "fit_score": 0.74,
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_d003_risk",
+      "edge_type": "Risk_Pattern_Edge",
+      "name": "市场夸大风险模式",
+      "description": "如果夸大 SOM，项目可能出现转化偏低。",
+      "participants": {
+        "project": "project_d003",
+        "mistake": "mistake_d003",
+        "outcome": "concept_d003_outcome"
+      },
+      "risk_score": 0.69,
+      "metadata": {}
+    }
+  ]
+}

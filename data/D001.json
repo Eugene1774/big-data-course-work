@@ -1,0 +1,234 @@
+{
+  "case_id": "D001",
+  "title": "校园轻食项目-基线正常案例",
+  "description": "一个用于验证基础图谱结构与规则引擎的健康案例，H4 与 H8 均应通过。",
+  "nodes": [
+    {
+      "id": "project_d001",
+      "node_type": "Project",
+      "name": "轻食星球",
+      "description": "面向高校学生的健康轻食创业项目。",
+      "stage": "mvp",
+      "team_name": "星球团队",
+      "tags": ["校园创业", "轻食"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d001_pmf",
+      "node_type": "Concept",
+      "name": "PMF",
+      "description": "产品与市场需求的匹配程度。",
+      "aliases": ["产品市场匹配"],
+      "tags": ["创业概念"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d001_market",
+      "node_type": "Concept",
+      "name": "高校轻食消费市场",
+      "description": "项目关注的细分消费场景与用户群。",
+      "aliases": ["校园轻食市场"],
+      "tags": ["市场"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d001_tech",
+      "node_type": "Concept",
+      "name": "冷链供应与小程序点餐能力",
+      "description": "项目当前的核心技术与履约能力。",
+      "aliases": ["技术能力"],
+      "tags": ["技术"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d001_outcome",
+      "node_type": "Concept",
+      "name": "复购率下滑",
+      "description": "一个典型的不良结果，用于风险模式建模。",
+      "aliases": ["留存下降"],
+      "tags": ["风险结果"],
+      "metadata": {}
+    },
+    {
+      "id": "method_d001_canvas",
+      "node_type": "Method",
+      "name": "精益画布",
+      "description": "用于梳理问题、用户、价值主张与渠道。",
+      "steps": ["定义用户", "定义问题", "设计价值主张", "验证假设"],
+      "tags": ["方法论"],
+      "metadata": {}
+    },
+    {
+      "id": "task_d001_interview",
+      "node_type": "Task",
+      "name": "用户访谈",
+      "description": "对目标用户进行半结构化访谈。",
+      "expected_output": "访谈洞察报告",
+      "tags": ["调研"],
+      "metadata": {}
+    },
+    {
+      "id": "artifact_d001_report",
+      "node_type": "Artifact",
+      "name": "访谈洞察报告",
+      "description": "整理访谈发现、问题排序与用户画像。",
+      "artifact_type": "report",
+      "tags": ["文档"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d001_tam",
+      "node_type": "Metric",
+      "name": "TAM",
+      "description": "总体可服务市场规模。",
+      "metric_key": "TAM",
+      "value": 50000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d001_sam",
+      "node_type": "Metric",
+      "name": "SAM",
+      "description": "项目当前可触达的细分市场规模。",
+      "metric_key": "SAM",
+      "value": 12000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d001_som",
+      "node_type": "Metric",
+      "name": "SOM",
+      "description": "项目短期可实际获取的市场规模。",
+      "metric_key": "SOM",
+      "value": 2000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d001_cac",
+      "node_type": "Metric",
+      "name": "CAC",
+      "description": "单个新客户的平均获客成本。",
+      "metric_key": "CAC",
+      "value": 100,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d001_ltv",
+      "node_type": "Metric",
+      "name": "LTV",
+      "description": "单个客户生命周期价值。",
+      "metric_key": "LTV",
+      "value": 450,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "mistake_d001",
+      "node_type": "Mistake",
+      "name": "伪需求幻觉",
+      "description": "团队把少量正反馈误判为稳定需求。",
+      "symptom": "只听熟人意见，不做真实访谈。",
+      "tags": ["典型错误"],
+      "metadata": {}
+    },
+    {
+      "id": "evidence_d001",
+      "node_type": "Evidence",
+      "name": "30 份用户访谈纪要",
+      "description": "来自真实目标用户的访谈原始记录。",
+      "source": "线下访谈",
+      "confidence": 0.92,
+      "tags": ["证据"],
+      "metadata": {}
+    }
+  ],
+  "relations": [
+    {
+      "id": "relation_d001_01",
+      "source_id": "concept_d001_pmf",
+      "target_id": "task_d001_interview",
+      "relation_type": "PREREQ",
+      "description": "理解 PMF 有助于更有目标地设计访谈问题。",
+      "weight": 0.8,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d001_02",
+      "source_id": "task_d001_interview",
+      "target_id": "artifact_d001_report",
+      "relation_type": "PRODUCES",
+      "description": "用户访谈会产出访谈洞察报告。",
+      "weight": 0.95,
+      "evidence_ids": ["evidence_d001"],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d001_03",
+      "source_id": "artifact_d001_report",
+      "target_id": "metric_d001_ltv",
+      "relation_type": "MEASURED_BY",
+      "description": "部分策略效果最终会反馈在客户价值指标上。",
+      "weight": 0.6,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d001_04",
+      "source_id": "project_d001",
+      "target_id": "mistake_d001",
+      "relation_type": "COMMON_MISTAKE",
+      "description": "该项目需要特别防范伪需求判断。",
+      "weight": 0.7,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d001_05",
+      "source_id": "concept_d001_pmf",
+      "target_id": "evidence_d001",
+      "relation_type": "EVIDENCED_BY",
+      "description": "关于 PMF 的判断应由真实证据支撑。",
+      "weight": 0.9,
+      "evidence_ids": ["evidence_d001"],
+      "metadata": {}
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_d001_value",
+      "edge_type": "Value_Loop_Edge",
+      "name": "校园轻食价值闭环",
+      "description": "市场、技术与项目之间形成了初步闭环。",
+      "participants": {
+        "market": "concept_d001_market",
+        "technology": "concept_d001_tech",
+        "project": "project_d001"
+      },
+      "fit_score": 0.86,
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_d001_risk",
+      "edge_type": "Risk_Pattern_Edge",
+      "name": "需求误判风险模式",
+      "description": "若误判需求，可能导致复购率下滑。",
+      "participants": {
+        "project": "project_d001",
+        "mistake": "mistake_d001",
+        "outcome": "concept_d001_outcome"
+      },
+      "risk_score": 0.38,
+      "metadata": {}
+    }
+  ]
+}

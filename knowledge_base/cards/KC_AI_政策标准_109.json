@@ -1,0 +1,56 @@
+{
+  "id": "KC_109",
+  "node_type": "KnowledgeCard",
+  "name": "第22届北京理工大学“挑战杯”",
+  "description": "随着全球农业向智能化、绿色化、高效化转型，传统杂草管理方式面临",
+  "tags": [
+    "AI",
+    "无人驾驶",
+    "激光除草",
+    "植物识别",
+    "深度学习大模型",
+    "神经网络",
+    "Autonomous Driving",
+    "Laser Weeding",
+    "Plant Recognition",
+    "Deep Learning",
+    "竞品分析",
+    "校园创业"
+  ],
+  "metadata": {
+    "source_name": "禾光智能——智能激光除草机器人系统.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\禾光智能——智能激光除草机器人系统.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-39",
+    "evidence_source": "原文出处: .................................................................................................................. 37 | 页码: 1-39",
+    "source_excerpt": "第22届北京理工大学“挑战杯”\n项目介绍书\n智能激光除草机器人系统\nIntelligent Laser Weeding Robot System\n项目总负责人：王宇行\n指导老师：李秀星\n所在单位：计算机学院\n1 / 39\n第 22 届北京理工大学“挑战杯”\n第22届北京理工大学“挑战杯”\n智能激光除草机器人系统\n王宇行，田甜，朱啸闻，林馨耀，杜一苇，郭宸溪，王德浩，毛子鸣\n摘要：随着全球农业向智能化、绿色化、高效化转型，传统杂草管理方式面临\n高污染、低效率、高成本等多重瓶颈，严重制约农业可持续发展。为此，本文\n提出并研发了“禾光智能”无人驾驶激光除草机器人系统，融合计算机视觉、\n人工智能、大模型技术与新能源系统，打造出一整套智能、环保、高效的田间\n除草解决方案。该系统集成多项技术创新：包括低延迟的“赤胆”植物识别算\n法、亚毫米级精度的高能激光除草技术、多源感知融合的厘米级导航系统、适\n应复",
+    "text_length": 39226,
+    "source_fingerprint": "knowledge_card_doc_f54fd9850f"
+  },
+  "card_id": "KC_109",
+  "type": "政策标准",
+  "labels": [
+    "无人驾驶",
+    "激光除草",
+    "植物识别",
+    "深度学习大模型",
+    "神经网络",
+    "Autonomous Driving",
+    "Laser Weeding",
+    "Plant Recognition",
+    "Deep Learning",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "原文出处: .................................................................................................................. 37 | 页码: 1-39",
+  "industry_benchmarks": {}
+}

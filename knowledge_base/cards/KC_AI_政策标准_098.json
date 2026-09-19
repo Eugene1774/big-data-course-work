@@ -1,0 +1,44 @@
+{
+  "id": "KC_098",
+  "node_type": "KnowledgeCard",
+  "name": "智能数字放射科医生辅助诊断系统",
+  "description": "智能数字放射科医生辅助诊断系统 “ 秦创原",
+  "tags": [
+    "AI",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "慧心晰影-智能数字放射科医生辅助诊断系统.pptx",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\慧心晰影-智能数字放射科医生辅助诊断系统.pptx",
+    "source_suffix": ".pptx",
+    "parser": "pptx",
+    "encoding_used": "pptx",
+    "warnings": [],
+    "source_locator": null,
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\慧心晰影-智能数字放射科医生辅助诊断系统.pptx",
+    "source_excerpt": "智能数字放射科医生辅助诊断系统\n“\n秦创原\n”\n创新挑战赛\n项目\n组别\n：数字经济\n项目负责人：赵山博\n第十四届\n“               ”\n中国大学生创业计划竞赛\n4.1\n产品形态：\n全过程\n一体化\n辅助\n诊断\n系统\n7*24h不间断辅助问诊、医疗服务水平全面优化升级\n生成式\nAI\n补全影像\n多种缺失序列补全\n图像质量大幅提升\n中文数字大模型\n书写报告\n影像报告秒级生成\n生成质量接近专家\n多模态融合\n诊断\n疾病\n多源信息综合利用\n百余疾病精准诊断\n移动端\n—\n面向患者\n网页端\n—\n面向医生\n4.2\n研发历程\n深入临床场景、基层走访实践、收集海量数据、潜心技术攻关，持之以恒、迈步向前\n2021\n年\n9\n月\n2021~2023\n年\n2023\n年末\n2024\n年\n入学后\n投身\n医工交叉\n领域研究\n400\n万\n生化数据\n200\n万\n统计学信息\n200\n万\nMRA\n400\n万\nMRI\n35",
+    "text_length": 6745,
+    "source_fingerprint": "knowledge_card_doc_df8e43f7b9"
+  },
+  "card_id": "KC_098",
+  "type": "政策标准",
+  "labels": [
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\慧心晰影-智能数字放射科医生辅助诊断系统.pptx",
+  "industry_benchmarks": {}
+}

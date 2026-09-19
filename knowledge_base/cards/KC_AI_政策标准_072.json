@@ -1,0 +1,38 @@
+{
+  "id": "KC_072",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛 听危声防——基于光纤声纹定位与智能预警的煤矿安全守护者 听危声防",
+  "tags": [
+    "AI",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "531650-听危声防——基于光纤_安全守护者-项目策划书-24344a34.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\531650-听危声防——基于光纤_安全守护者-项目策划书-24344a34.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-29, 39-42",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\531650-听危声防——基于光纤_安全守护者-项目策划书-24344a34.pdf | 页码: 1-29, 39-42",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛\n听危声防——基于光纤声纹定位与智能预警的煤矿安全守护者\n听危声防\n“智慧工业领域依托声纹传感\n与 AI 融合加速前行”\n负责人：李柏翰 团队成员：刘其泰 王卓\n赛道：“人工智能+” 应用赛 指导老师：黄老师\n人工智能+工业制造\n听危声防——基于光纤声纹定位与智能预警的煤矿安全守护者\n摘要\n中国是全世界煤炭生产与消费大国，煤炭能源安全对国家现代化建设具有战\n略意义。当前矿井作业深度持续增加，复杂地质条件导致事故风险居高不下，其\n中瓦斯事故已成为井下人员伤亡的主要致因。面对传统传感器易失效、人工监测\n存在盲区等行业痛点，煤矿智能化建设成为破局关键。近年来政策层面密集出台\n指导文件，明确将人工智能、高精度传感技术纳入重点发展领域，推动数智技术\n与煤炭产业深度融合，为井下安全监测领域的技术革新创造了有利条件。\n井下安全服务的刚性需求伴随深部开采趋势",
+    "text_length": 13607,
+    "source_fingerprint": "knowledge_card_531650_24344a34_ae34d74f6d"
+  },
+  "card_id": "KC_072",
+  "type": "政策标准",
+  "labels": [
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\531650-听危声防——基于光纤_安全守护者-项目策划书-24344a34.pdf | 页码: 1-29, 39-42",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "KC_061",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品 第十九届“挑战杯”全国大学生课外学术科技作品竞赛 项目支撑材料",
+  "tags": [
+    "校园创业",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "482816-禾光智能--精准制导_机器人系统-附加材料-ad7d0014.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482816-禾光智能--精准制导_机器人系统-附加材料-ad7d0014.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-53",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482816-禾光智能--精准制导_机器人系统-附加材料-ad7d0014.pdf | 页码: 1-53",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛\n项目支撑材料\n作品名称： “禾光智能”——精准制导激光除草机器人系统\n申报类别： 信息技术\n作者： 毛子鸣，王宇行，朱啸闻，林馨耀，\n田甜，杜一苇，郭宸溪，王德浩\n类别：\n□ 自然科学类学术论文\n□ 哲学社会科学类社会调查报告和学术论文\n□ 科技发明制作 A类\n■ 科技发明制作 B类\n1\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛参赛作品\n目录\n1.学术成果 ........................................................................................................................ 3\n(1)2024 年，北京市自然科学基金 ...................",
+    "text_length": 4790,
+    "source_fingerprint": "knowledge_card_482816_ad7d0014_aedfd5ffda"
+  },
+  "card_id": "KC_061",
+  "type": "行业基准",
+  "labels": [
+    "校园创业"
+  ],
+  "applicable_scenarios": [
+    "校园消费"
+  ],
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482816-禾光智能--精准制导_机器人系统-附加材料-ad7d0014.pdf | 页码: 1-53",
+  "industry_benchmarks": {}
+}

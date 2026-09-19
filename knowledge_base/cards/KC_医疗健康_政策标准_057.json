@@ -1,0 +1,29 @@
+{
+  "id": "KC_057",
+  "node_type": "KnowledgeCard",
+  "name": "由于附录部分在申报书中也有所体现，且所占字数过多，查重报告在计算字数时，将",
+  "description": "由于附录部分在申报书中也有所体现，且所占字数过多，查重报告在计算字数时，将 该部分文字也计算在内，但申报书正文实际字数并未超过15000字，故做此说明！ 附录",
+  "tags": [
+    "医疗健康"
+  ],
+  "metadata": {
+    "source_name": "482648-医联农村，e路助农—_化路径研究-附加材料-e8592eb1.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482648-医联农村，e路助农—_化路径研究-附加材料-e8592eb1.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-48",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482648-医联农村，e路助农—_化路径研究-附加材料-e8592eb1.pdf | 页码: 1-48",
+    "source_excerpt": "由于附录部分在申报书中也有所体现，且所占字数过多，查重报告在计算字数时，将\n该部分文字也计算在内，但申报书正文实际字数并未超过15000字，故做此说明！\n附录\nA. 政策建议被工信部等多家单位采纳的证明文件\n图1 工信部信息通信发展司采纳证明\n第1/48页\n图2江西省吉安县采纳证明\n第2/48页\n图3 东华医为科有限公司推荐信\n第3/48页\n图4 哈尔滨工业大学电子健康研究所推荐信\n第4/48页\n图5余干县黄金埠前进村委会感谢信\n第5/48页\n图6 余干县黄金埠前进村委会表扬信\n第6/48页\n图7 淮阳区鲁台镇花庄村委会表扬信\n第7/48页\n图8 怀柔县北房镇安各庄村委会表扬信\n第8/48页\n图9 濮阳市经济技术开发区王助镇丁寨村委会表扬信\n第9/48页\n图10 濮阳市经济技术开发区王助镇乜村委会表扬信\n第10/48页\n图11 濮阳市经济技术开发区王助镇前南旺村委会表扬信\n第11/48页\n",
+    "text_length": 1507,
+    "source_fingerprint": "knowledge_card_482648_e_e8592eb1_05afee9603"
+  },
+  "card_id": "KC_057",
+  "type": "政策标准",
+  "labels": [],
+  "applicable_scenarios": [],
+  "industry": "医疗健康",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482648-医联农村，e路助农—_化路径研究-附加材料-e8592eb1.pdf | 页码: 1-48",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,42 @@
+{
+  "source_file": "479531-灵嗅智探—氢能厂站A_能巡检系统-项目策划书-86d0cc04.pdf",
+  "extraction": {
+    "project_name": "灵嗅智探—氢能厂站AI智能巡检系统",
+    "technical_barriers": [
+      "涉氢场所安全事故频发",
+      "传统人工巡检效率低、风险高、技术滞后",
+      "Hydrogen leak detection in complex under-expanded jet and gas diffusion environments",
+      "Explosion-proof design requirements (ExdbIICT6Gb) for high-risk hydrogen facilities",
+      "Cumulative error elimination in robot pose estimation and mapping",
+      "Real-time multi-sensor fusion in hazardous explosion-risk environments",
+      "High-precision rapid response detection for flame (≤0.2s) and gas leaks (±5ppm, ≤5s)",
+      "Mechanical arm trajectory planning with obstacle avoidance in confined spaces",
+      ":["
+    ],
+    "innovation_points": [
+      "结合欠膨胀射流和气体扩散模型的氢泄漏检测方法",
+      "基于火焰参数对区域损伤影响规律的火焰关键参量检测方案",
+      "集防爆型AGV、机械臂及多传感器于一体的智能巡检机器人系统",
+      "基于CNN算法的红外图像设备缺陷识别技术",
+      "基于人工势场法的机械臂轨迹规划避障技术",
+      "改进YOLOv5框架的人员防护装备检测技术",
+      "Integration of under-expanded jet and gas diffusion model for hydrogen leak detection optimization",
+      "CNN algorithm for infrared image processing and equipment defect identification",
+      "Artificial potential field method for mechanical arm trajectory planning and obstacle avoidance",
+      "Improved YOLOv5 framework for safety clothing/PPE wearing status detection",
+      "Binocular camera-based liquid leakage trajectory identification",
+      "Multi-sensor fusion system integrating UV flame detection, gas leak detection, infrared thermal imaging, and binocular vision on explosion-proof mobile platform",
+      "A* algorithm combined with DWA dynamic window algorithm for autonomous navigation and obstacle avoidance",
+      "SVM气体泄漏预测模型",
+      "红外/气体/紫外多传感器融合检测",
+      "防爆设计",
+      "多模态AI干扰排除与爆炸风险动态评估",
+      "基于CNN的仪表智能识别",
+      "语义分割与关键点检测的安全服状态识别",
+      "光流法液体泄漏动态追踪",
+      "机械臂与AGV集成移动检测"
+    ],
+    "core_technology": "融合欠膨胀射流与气体扩散模型的氢泄漏检测及多传感器融合智能巡检技术",
+    "application_scene": "氢能厂站及涉氢场所的氢泄漏与燃爆安全智能巡检"
+  }
+}

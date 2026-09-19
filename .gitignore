@@ -1,0 +1,31 @@
+# 敏感信息
+.env
+.streamlit/
+
+# 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+
+# 大文件 / 运行时数据
+knowledge_base/raw/
+course_logs.db
+
+# 日志与临时文件
+*.log
+ingest_log*.txt
+.tmp_pip/
+.tmp/
+
+# IDE / 工具
+.trae/
+.idea/
+.vscode/
+
+# 本地归档
+刘宥均源代码.zip

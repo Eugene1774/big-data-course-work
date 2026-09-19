@@ -1,0 +1,40 @@
+{
+  "id": "KC_093",
+  "node_type": "KnowledgeCard",
+  "name": "云游灵境",
+  "description": "云游灵境 云交互空间实时生成技术引领者 文化创意和区域合作组",
+  "tags": [
+    "AI",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "云游灵境-云交互空间实时生成技术引领者-网评-挑战杯.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\云游灵境-云交互空间实时生成技术引领者-网评-挑战杯.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-20",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\云游灵境-云交互空间实时生成技术引领者-网评-挑战杯.pdf | 页码: 1-20",
+    "source_excerpt": "云游灵境\n云交互空间实时生成技术引领者\n文化创意和区域合作组\n项目背景\n习近平总书记指出，\n发展数字经济是把握新一轮科技革命和产业变革新机遇的战略选择\n文化传播重地，深耕千亿市场\n2020年，我国数字经济市场规模增长至40万亿元，\n2022年，中国数字文化产业规模已达7841.6亿元。\n自2019年起，团队深耕数字文化产业\n广泛开展市场调研:\n数字博\n物空间\n城市应 虚拟农\n急仿真 资交互\n6000\n博物馆数字 上亿 数字展区\n空间 空间\n化建设需求 会展活动\n智慧城 虚拟文 每年亿元级活动展演\n市交互 化交流 800+\n数千 百万人级城市数字\n空间 空间\n场 化及应急仿真需求\n虚拟教 …\n育空间\n数万 扶农振农资源交\n流交互空间需求\n调研结论： 直面机遇，响应号召，走出实验室，开展数字产业实业探索！\n行业痛点：制约数字空间发展的难题\n交互方式单一\n现有博物馆数字场景 鼠 沉浸差\n少\n标点",
+    "text_length": 6197,
+    "source_fingerprint": "knowledge_card_doc_875a1a213b"
+  },
+  "card_id": "KC_093",
+  "type": "行业基准",
+  "labels": [
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\云游灵境-云交互空间实时生成技术引领者-网评-挑战杯.pdf | 页码: 1-20",
+  "industry_benchmarks": {}
+}

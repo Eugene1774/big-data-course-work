@@ -1,0 +1,58 @@
+{
+  "id": "KC_043",
+  "node_type": "KnowledgeCard",
+  "name": "物衡智判",
+  "description": "物衡智判 ——基于 DS 大模型的物权所有权纠纷智能推理系统 项 目 策 划 书",
+  "tags": [
+    "AI",
+    "人工智能",
+    "法律大模型",
+    "智慧司法",
+    "物权法",
+    "司法决策推理",
+    "artificial intelligence",
+    "legal big model",
+    "intelligent justice",
+    "property law",
+    "渠道策略",
+    "校园创业"
+  ],
+  "metadata": {
+    "source_name": "477722-物衡智判——基于DS_能推理系统-项目策划书-1a6638cb.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477722-物衡智判——基于DS_能推理系统-项目策划书-1a6638cb.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-13, 21-107, 110, 115-117, 120-122, 126-131",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477722-物衡智判——基于DS_能推理系统-项目策划书-1a6638cb.pdf | 页码: 1-13, 21-107, 110, 115-117, 120-122, 126-131",
+    "source_excerpt": "物衡智判\n——基于 DS 大模型的物权所有权纠纷智能推理系统\n项 目 策 划 书\n项目名称： 物衡智判——基于DS大模型的物权所有权纠纷智能推理系统\n参加赛道： 人工智能 + 政务管理\n负责人： 罗逸凡\n团队成员： 陈久宸 黄偲炫 邱然 陈星颐 赵子萱 陈晋加\n指导老师： 孟老师 郭老师 史老师\n目录\n摘要................................................................................................................................ 7\nAbstract ..........................................................................................................",
+    "text_length": 89246,
+    "source_fingerprint": "knowledge_card_477722_ds_1a6638cb_cf6237b292"
+  },
+  "card_id": "KC_043",
+  "type": "政策标准",
+  "labels": [
+    "人工智能",
+    "法律大模型",
+    "智慧司法",
+    "物权法",
+    "司法决策推理",
+    "artificial intelligence",
+    "legal big model",
+    "intelligent justice",
+    "property law",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\477722-物衡智判——基于DS_能推理系统-项目策划书-1a6638cb.pdf | 页码: 1-13, 21-107, 110, 115-117, 120-122, 126-131",
+  "industry_benchmarks": {}
+}

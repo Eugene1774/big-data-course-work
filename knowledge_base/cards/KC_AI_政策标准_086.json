@@ -1,0 +1,40 @@
+{
+  "id": "KC_086",
+  "node_type": "KnowledgeCard",
+  "name": "2025年3月 XXX2025年挑战杯论文 March.2025",
+  "description": "2025年3月 XXX2025年挑战杯论文 March.2025 育见先贤—基于多模态技术的历史人物交互式教育系统 张X 1) 李XX 1) 王XX 1) 张X 1) 郭X 1)",
+  "tags": [
+    "AI",
+    "单位经济",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "536732-育见先贤—基于多模态_式教育系统-项目策划书-34502047.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536732-育见先贤—基于多模态_式教育系统-项目策划书-34502047.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-15",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536732-育见先贤—基于多模态_式教育系统-项目策划书-34502047.pdf | 页码: 1-15",
+    "source_excerpt": "2025年3月 XXX2025年挑战杯论文 March.2025\n育见先贤—基于多模态技术的历史人物交互式教育系统\n张X 1) 李XX 1) 王XX 1) 张X 1) 郭X 1)\n1) (XXX,北京市,中国,XXX)\n摘 要 传统教育以单向填鸭式灌输为主，难以在学生与知识之间建立情感纽带，导致学生缺乏学习热情、学习效\n果受限。尽管当前人工智能技术逐步赋能教育领域，但多数应用只停留在教学工具替代等层面，没有真正做到教学\n范式的革新，缺乏与学科核心素养的融合。为此本项目结合大规模语言模型推理、提示词工程、检索增强生成、幻觉\n检测、语音识别与合成、声音驱动的数字人合成等多模态技术，构建出一个历史人物交互式教育系统，其首先将学生\n的语音输入转化为文本形式，接着输入给大规模语言模型并得到模型的文本输出和输出可能出现幻觉的概率，随后\n将大规模语言模型的文本输出转化为语音形式，最后驱动合成历史人物视频",
+    "text_length": 28970,
+    "source_fingerprint": "knowledge_card_536732_34502047_9ba91ef5cb"
+  },
+  "card_id": "KC_086",
+  "type": "政策标准",
+  "labels": [
+    "单位经济",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536732-育见先贤—基于多模态_式教育系统-项目策划书-34502047.pdf | 页码: 1-15",
+  "industry_benchmarks": {}
+}

@@ -1,0 +1,46 @@
+{
+  "id": "KC_078",
+  "node_type": "KnowledgeCard",
+  "name": "“智防·星火”——基于华为 和",
+  "description": "“智防·星火”——基于华为 和 loT 大模型的文物火灾安全预警系统",
+  "tags": [
+    "AI",
+    "工业设备",
+    "渠道策略",
+    "竞品分析",
+    "教育科技",
+    "SaaS",
+    "工业设备销售",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "536209-'智防·星火'——基_灾预警系统-项目策划书-8b0e4614.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536209-'智防·星火'——基_灾预警系统-项目策划书-8b0e4614.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-38",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536209-'智防·星火'——基_灾预警系统-项目策划书-8b0e4614.pdf | 页码: 1-38",
+    "source_excerpt": "“智防·星火”——基于华为 和\nloT\n大模型的文物火灾安全预警系统\nDeepSeek\n商业计划书\n\"Smart Fire Spark\" — An Intelligent Fire Warning System Based on Huawei IoT and\nDeepSeek Large Model\n参赛赛道：创意赛\n团队负责人：刘夏\n团队成员：\n王佳怡 左崧明 张永基 易欣楠 赵南星 宋晶晶\n目录\n一、项目背景...........................................................................................................................................4\n（一）行业痛点............................................",
+    "text_length": 32352,
+    "source_fingerprint": "knowledge_card_536209_8b0e4614_7680e6147e"
+  },
+  "card_id": "KC_078",
+  "type": "政策标准",
+  "labels": [
+    "工业设备",
+    "渠道策略",
+    "竞品分析",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536209-'智防·星火'——基_灾预警系统-项目策划书-8b0e4614.pdf | 页码: 1-38",
+  "industry_benchmarks": {}
+}

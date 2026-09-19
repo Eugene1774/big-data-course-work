@@ -1,0 +1,44 @@
+{
+  "id": "KC_088",
+  "node_type": "KnowledgeCard",
+  "name": "生成式大语言模型安全优化模块",
+  "description": "生成式大语言模型安全优化模块 文思智铠大模型安全团队 时代背景",
+  "tags": [
+    "AI",
+    "B2B",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "536827-文思智铠——生成式大_全优化模块-项目策划书-b7f59b1f.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536827-文思智铠——生成式大_全优化模块-项目策划书-b7f59b1f.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-34",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536827-文思智铠——生成式大_全优化模块-项目策划书-b7f59b1f.pdf | 页码: 1-34",
+    "source_excerpt": "生成式大语言模型安全优化模块\n文思智铠大模型安全团队\n时代背景\n2\n算力资源 技术能力 生态环境\n国内大语言模型 、 、 均与世界一流水平存在差距\n2024年【谷歌“窃取”OpenAI模 网信办《生成式人工智能服务管理暂行办法》\n型关键信息】……还原了OpenAI 第一章第四条：\n时代背景\n大模型的整个投影矩阵，还知 （二）在算法设计……等过程中，采取有效\n道了确切隐藏维度大小……并且 措施防止产生民族、信仰、国别、地域、\n这种方法同样适用于GPT-4。 性别、年龄、职业、健康等歧视；……\n安全性、公平性、稳定性\n人工智能大语言模型广泛应用下， 成为关注焦点\n大模型自主化安全化路线的下沉试验迫在眉睫\n时代背景\n3\n框架上，大模型的训练方法上有差距；\n算力方面，高端的芯片和超级计算机群有差距；\n大数据方面，高质量的数据集方面有差距。\n算力资源 技术能力 生态环境\n国内大语言模型 、 、 均与",
+    "text_length": 7287,
+    "source_fingerprint": "knowledge_card_536827_b7f59b1f_1b1db67e0b"
+  },
+  "card_id": "KC_088",
+  "type": "政策标准",
+  "labels": [
+    "B2B",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\536827-文思智铠——生成式大_全优化模块-项目策划书-b7f59b1f.pdf | 页码: 1-34",
+  "industry_benchmarks": {}
+}

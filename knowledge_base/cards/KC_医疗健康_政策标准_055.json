@@ -1,0 +1,54 @@
+{
+  "id": "KC_055",
+  "node_type": "KnowledgeCard",
+  "name": "灵枢微创--人体自然腔道复杂环境",
+  "description": "With the continuous development ofminimally invasive surgical robots, traditional",
+  "tags": [
+    "医疗健康",
+    "手术机器人",
+    "虚拟仿真",
+    "主从控制",
+    "Surgical Manipulator",
+    "Virtual Simulation",
+    "Master-Slave Interaction",
+    "工业设备",
+    "校园创业",
+    "教育科技",
+    "工业设备销售",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "482605-灵枢微创--人体自然_手术机器人-附加材料-d9a95dfc.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482605-灵枢微创--人体自然_手术机器人-附加材料-d9a95dfc.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-30, 32-55",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482605-灵枢微创--人体自然_手术机器人-附加材料-d9a95dfc.pdf | 页码: 1-30, 32-55",
+    "source_excerpt": "灵枢微创--人体自然腔道复杂环境\n下变刚度柔性手术机器人(附件)\n目 录\n1.PPT展示..........................................................................................................................3\n2.专利............................................................................................................................28\n2.1一种手持式主从同构手术执行器驱动装置（202510445917.0）............. 29\n2.2一种手持式狭窄腔道内骨组织磨削机器人（202510446084.X）..........",
+    "text_length": 60082,
+    "source_fingerprint": "knowledge_card_482605_d9a95dfc_e3f6453759"
+  },
+  "card_id": "KC_055",
+  "type": "政策标准",
+  "labels": [
+    "手术机器人",
+    "虚拟仿真",
+    "主从控制",
+    "Surgical Manipulator",
+    "Virtual Simulation",
+    "Master-Slave Interaction",
+    "工业设备",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "工业设备销售",
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "医疗健康",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\482605-灵枢微创--人体自然_手术机器人-附加材料-d9a95dfc.pdf | 页码: 1-30, 32-55",
+  "industry_benchmarks": {}
+}

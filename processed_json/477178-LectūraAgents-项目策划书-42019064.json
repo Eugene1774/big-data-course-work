@@ -1,0 +1,21 @@
+{
+  "source_file": "477178-LectūraAgents-项目策划书-42019064.pdf",
+  "extraction": {
+    "project_name": "Lectūra Agents 多智能体自适应学习系统",
+    "technical_barriers": [],
+    "innovation_points": [
+      "动态智能体集群与任务自动扩展机制",
+      "基于RAG的记忆存储与个性化课程推荐",
+      "离线内容生成与多模态学习支持",
+      "多智能体流水线协作与自适应编排",
+      "语义教学优化与实时问答系统",
+      "Canvas + handwriting modeling to simulate blackboard teaching experience",
+      "Multimodal learning combining image and video generation for immersive courses",
+      "Multi-agent collaborative architecture with Research/Slide/Script/Instructor Agents",
+      "Personalized Memory Module for adaptive teaching",
+      "RAG + Semantic Search integration for deep research capabilities"
+    ],
+    "core_technology": "Microsoft Autogen多智能体框架、Swarm协作模式、RAG检索增强生成、大语言模型(Gemini-2.5/GPT-4o)、Coqui TTS语音合成、向量数据库",
+    "application_scene": "人工智能+教育教学、个性化自适应学习、智能辅助教学与自学平台"
+  }
+}

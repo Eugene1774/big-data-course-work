@@ -1,0 +1,48 @@
+{
+  "id": "KC_068",
+  "node_type": "KnowledgeCard",
+  "name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛应用赛",
+  "description": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛应用赛 零碳智汇 适用多行业的碳捕集一体化评价系统",
+  "tags": [
+    "AI",
+    "B2B",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "高客单价B2B",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "521155-零碳智汇-适用多行业_化评价系统-项目策划书-68838ac0.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\521155-零碳智汇-适用多行业_化评价系统-项目策划书-68838ac0.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-4, 7-53",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\521155-零碳智汇-适用多行业_化评价系统-项目策划书-68838ac0.pdf | 页码: 1-4, 7-53",
+    "source_excerpt": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛应用赛\n零碳智汇\n适用多行业的碳捕集一体化评价系统\n团队负责人：吕灿\n团队成员：武文苇 马尚威\n指导老师：刘老师 邓老师\n选题方向：人工智能+环境保护\n项目摘要\n随着全球气候变化问题日益严峻，二氧化碳(CO )捕集、利用与\n2\n封存（CCUS）技术已成为实现碳减排目标的关键手段之一。我国“十\n四五”规划明确提出推进碳减排，并将 CO 捕集技术作为实现碳达峰、\n2\n碳中和目标的重要技术支撑。然而，当前市场上存在多种 CO 捕集技\n2\n术，每种技术的适用场景、能耗、成本和效率差异显著，且不同行业\n对捕集技术的需求差异巨大。因此，开发一套智能化的 CO 捕集技术\n2\n选择系统，帮助企业优化碳捕集流程，降低能耗与成本，具有重要的\n技术意义和显著的经济、社会效益。\nCCUS 技术自 2021 年首次写入国家纲领性文件后，国务院\n《2",
+    "text_length": 28524,
+    "source_fingerprint": "knowledge_card_521155_68838ac0_970afbfde9"
+  },
+  "card_id": "KC_068",
+  "type": "政策标准",
+  "labels": [
+    "B2B",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "高客单价B2B",
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\521155-零碳智汇-适用多行业_化评价系统-项目策划书-68838ac0.pdf | 页码: 1-4, 7-53",
+  "industry_benchmarks": {}
+}

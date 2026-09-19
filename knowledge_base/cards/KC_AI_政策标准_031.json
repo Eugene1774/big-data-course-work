@@ -1,0 +1,48 @@
+{
+  "id": "KC_031",
+  "node_type": "KnowledgeCard",
+  "name": "第 十 九 届 “ 挑 战 杯 ” 项 目 书",
+  "description": "第 十 九 届 “ 挑 战 杯 ” 项 目 书 多场感知，孪生驱动 装备结构实时承载性能",
+  "tags": [
+    "AI",
+    "数字孪生",
+    "实时承载性能",
+    "AI 预报模型",
+    "多场感知",
+    "复合材料结构",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "474460-多场感知，孪生驱动—_技术引领者-项目策划书-1a45b018.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\474460-多场感知，孪生驱动—_技术引领者-项目策划书-1a45b018.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-134",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\474460-多场感知，孪生驱动—_技术引领者-项目策划书-1a45b018.pdf | 页码: 1-134",
+    "source_excerpt": "第 十 九 届 “ 挑 战 杯 ” 项 目 书\n多场感知，孪生驱动\n装备结构实时承载性能\nAI 预报技术引领者\n“人工智能+”应用赛-其他综合领域\n项目负责人：康传哲\n指导老师：艾老师\n多场感知，孪生驱动——装备结构实时承载性能AI预报技术引领者\nPPT重点页节选，完整版见附件 7\n多场感知，孪生驱动——装备结构实时承载性能AI预报技术引领者\n多场感知，孪生驱动——装备结构实时承载性能AI预报技术引领者\n多场感知，孪生驱动——装备结构实时承载性能AI预报技术引领者\n摘要\n火箭等战略运载工具大量采用复合材料作为关键承载结构，其服役过程中\n需基于实时状态与荷载数据开展结构功能可靠性与效能的快速评价，以保障结\n构完整性与功能可靠性。制约该领域技术突破的核心瓶颈问题在于：①复合材\n料结构状态参量的实时感知与内部损伤的快速、高精度反演挑战巨大，传统无\n损检测技术（如超声、射线检测）难以实现损伤的精准",
+    "text_length": 66348,
+    "source_fingerprint": "knowledge_card_474460_1a45b018_0a9d8a87c1"
+  },
+  "card_id": "KC_031",
+  "type": "政策标准",
+  "labels": [
+    "数字孪生",
+    "实时承载性能",
+    "AI 预报模型",
+    "多场感知",
+    "复合材料结构",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\474460-多场感知，孪生驱动—_技术引领者-项目策划书-1a45b018.pdf | 页码: 1-134",
+  "industry_benchmarks": {}
+}

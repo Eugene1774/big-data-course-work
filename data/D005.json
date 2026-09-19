@@ -1,0 +1,234 @@
+{
+  "case_id": "D005",
+  "title": "二手书循环平台-LTV 不足案例",
+  "description": "用于触发 H8 预警：LTV 小于 3 * CAC。",
+  "nodes": [
+    {
+      "id": "project_d005",
+      "node_type": "Project",
+      "name": "书循环",
+      "description": "帮助高校学生进行二手教材流转的平台。",
+      "stage": "growth",
+      "team_name": "书循环团队",
+      "tags": ["二手交易", "校园"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d005_pmf",
+      "node_type": "Concept",
+      "name": "PMF",
+      "description": "平台是否真正满足学生教材流转需求。",
+      "aliases": ["产品市场匹配"],
+      "tags": ["创业概念"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d005_market",
+      "node_type": "Concept",
+      "name": "高校二手教材交易市场",
+      "description": "项目所面向的细分市场。",
+      "aliases": ["教材循环市场"],
+      "tags": ["市场"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d005_tech",
+      "node_type": "Concept",
+      "name": "订单撮合与信用评价能力",
+      "description": "平台保证交易效率与可信度的关键能力。",
+      "aliases": ["撮合系统"],
+      "tags": ["技术"],
+      "metadata": {}
+    },
+    {
+      "id": "concept_d005_outcome",
+      "node_type": "Concept",
+      "name": "投入产出失衡",
+      "description": "单位经济不佳带来的典型经营结果。",
+      "aliases": ["经济模型承压"],
+      "tags": ["风险结果"],
+      "metadata": {}
+    },
+    {
+      "id": "method_d005_canvas",
+      "node_type": "Method",
+      "name": "精益画布",
+      "description": "帮助团队梳理用户痛点与核心价值。",
+      "steps": ["定义问题", "拆解渠道", "验证收入模型"],
+      "tags": ["方法论"],
+      "metadata": {}
+    },
+    {
+      "id": "task_d005_interview",
+      "node_type": "Task",
+      "name": "用户访谈",
+      "description": "访谈买书学生与卖书学生，识别关键交易摩擦。",
+      "expected_output": "交易摩擦清单",
+      "tags": ["调研"],
+      "metadata": {}
+    },
+    {
+      "id": "artifact_d005_report",
+      "node_type": "Artifact",
+      "name": "交易摩擦清单",
+      "description": "总结交易流程中的障碍点。",
+      "artifact_type": "report",
+      "tags": ["文档"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d005_tam",
+      "node_type": "Metric",
+      "name": "TAM",
+      "description": "总体市场规模。",
+      "metric_key": "TAM",
+      "value": 40000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d005_sam",
+      "node_type": "Metric",
+      "name": "SAM",
+      "description": "细分可触达市场规模。",
+      "metric_key": "SAM",
+      "value": 15000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d005_som",
+      "node_type": "Metric",
+      "name": "SOM",
+      "description": "当前可获取市场规模。",
+      "metric_key": "SOM",
+      "value": 3000000,
+      "unit": "CNY",
+      "tags": ["市场规模"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d005_cac",
+      "node_type": "Metric",
+      "name": "CAC",
+      "description": "获客成本。",
+      "metric_key": "CAC",
+      "value": 200,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d005_ltv",
+      "node_type": "Metric",
+      "name": "LTV",
+      "description": "客户生命周期价值。这里故意低于 3 * CAC。",
+      "metric_key": "LTV",
+      "value": 450,
+      "unit": "CNY",
+      "tags": ["单位经济"],
+      "metadata": {}
+    },
+    {
+      "id": "mistake_d005",
+      "node_type": "Mistake",
+      "name": "渠道投放过重",
+      "description": "过度依赖付费渠道，导致单位经济恶化。",
+      "symptom": "获客成本升高但复购不足。",
+      "tags": ["典型错误"],
+      "metadata": {}
+    },
+    {
+      "id": "evidence_d005",
+      "node_type": "Evidence",
+      "name": "25 份教材交易访谈",
+      "description": "来自真实学生用户的交易流程调研。",
+      "source": "线下访谈",
+      "confidence": 0.9,
+      "tags": ["证据"],
+      "metadata": {}
+    }
+  ],
+  "relations": [
+    {
+      "id": "relation_d005_01",
+      "source_id": "concept_d005_pmf",
+      "target_id": "task_d005_interview",
+      "relation_type": "PREREQ",
+      "description": "理解 PMF 可帮助更准确识别用户痛点。",
+      "weight": 0.77,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d005_02",
+      "source_id": "task_d005_interview",
+      "target_id": "artifact_d005_report",
+      "relation_type": "PRODUCES",
+      "description": "用户访谈产出交易摩擦清单。",
+      "weight": 0.94,
+      "evidence_ids": ["evidence_d005"],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d005_03",
+      "source_id": "artifact_d005_report",
+      "target_id": "metric_d005_ltv",
+      "relation_type": "MEASURED_BY",
+      "description": "优化效果最终会反馈到用户价值指标。",
+      "weight": 0.61,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d005_04",
+      "source_id": "project_d005",
+      "target_id": "mistake_d005",
+      "relation_type": "COMMON_MISTAKE",
+      "description": "该项目容易因投放过重导致单位经济恶化。",
+      "weight": 0.84,
+      "evidence_ids": [],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d005_05",
+      "source_id": "concept_d005_pmf",
+      "target_id": "evidence_d005",
+      "relation_type": "EVIDENCED_BY",
+      "description": "PMF 判断应由真实用户证据支撑。",
+      "weight": 0.88,
+      "evidence_ids": ["evidence_d005"],
+      "metadata": {}
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_d005_value",
+      "edge_type": "Value_Loop_Edge",
+      "name": "教材循环价值闭环",
+      "description": "市场、平台能力与项目之间形成闭环。",
+      "participants": {
+        "market": "concept_d005_market",
+        "technology": "concept_d005_tech",
+        "project": "project_d005"
+      },
+      "fit_score": 0.82,
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_d005_risk",
+      "edge_type": "Risk_Pattern_Edge",
+      "name": "单位经济承压风险",
+      "description": "渠道投放过重可能导致投入产出失衡。",
+      "participants": {
+        "project": "project_d005",
+        "mistake": "mistake_d005",
+        "outcome": "concept_d005_outcome"
+      },
+      "risk_score": 0.73,
+      "metadata": {}
+    }
+  ]
+}

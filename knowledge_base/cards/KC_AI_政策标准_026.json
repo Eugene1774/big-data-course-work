@@ -1,0 +1,50 @@
+{
+  "id": "KC_026",
+  "node_type": "KnowledgeCard",
+  "name": "臻视赋医——面向真实临床场景的",
+  "description": "臻视赋医——面向真实临床场景的 医学影像通用增强算法研究 参 赛 赛 道 人工智能+医疗健康",
+  "tags": [
+    "AI",
+    "医学影像增强",
+    "深度学习",
+    "退化感知增强算法",
+    "智慧医疗",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "467896-臻视赋医——面向真实_强算法研究-项目策划书-a5403ba3.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\467896-臻视赋医——面向真实_强算法研究-项目策划书-a5403ba3.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1, 4-85",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\467896-臻视赋医——面向真实_强算法研究-项目策划书-a5403ba3.pdf | 页码: 1, 4-85",
+    "source_excerpt": "臻视赋医——面向真实临床场景的\n医学影像通用增强算法研究\n参 赛 赛 道 人工智能+医疗健康\n申 报 人 姓 名 叶思翔\n合 作 者 姓 名 韩浩楠、胡婷欣、郝进宝\n林辰羿、蔡玖珅、杜嘉伟\n崔月、孔怡然、袁国栋\n指 导 教 师 张老师\n李老师\n陆老师\n2025 年 7 月\n目 录\n摘要.....................................................................................................................................................1\n第一章 绪论....................................................................................................",
+    "text_length": 70982,
+    "source_fingerprint": "knowledge_card_467896_a5403ba3_b2ce9b1821"
+  },
+  "card_id": "KC_026",
+  "type": "政策标准",
+  "labels": [
+    "医学影像增强",
+    "深度学习",
+    "退化感知增强算法",
+    "智慧医疗",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\467896-臻视赋医——面向真实_强算法研究-项目策划书-a5403ba3.pdf | 页码: 1, 4-85",
+  "industry_benchmarks": {}
+}

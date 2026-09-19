@@ -1,0 +1,170 @@
+{
+  "case_id": "D006_Inconsistent",
+  "title": "高价工业设备项目-渠道与分析缺失冲突案例",
+  "description": "该案例故意预埋两个问题：一是用社交媒体卖高客单价工业设备，会触发 H1；二是项目被要求做竞品分析但完全未提供材料，会触发 H6。",
+  "nodes": [
+    {
+      "id": "project_d006",
+      "node_type": "Project",
+      "name": "重工智造压缩机方案",
+      "description": "面向制造业工厂的高价工业压缩机与配套运维服务项目。",
+      "stage": "mvp",
+      "team_name": "智造重工团队",
+      "tags": ["工业设备", "B2B", "高客单价"],
+      "metadata": {
+        "customer_profiles": [
+          {
+            "name": "工厂采购经理",
+            "segment": "工业设备采购负责人",
+            "needs": ["高可靠性", "线下验厂", "长期售后"],
+            "scenarios": ["工业设备销售"]
+          }
+        ],
+        "value_propositions": [
+          {
+            "name": "高可靠工业压缩机整体方案",
+            "target_segments": ["工业设备采购负责人"],
+            "benefits": ["高可靠性", "节能", "长期售后保障"],
+            "scenarios": ["工业设备销售"]
+          }
+        ],
+        "primary_channels": ["社交媒体", "短视频投流"],
+        "target_scenarios": ["工业设备销售"],
+        "competitor_analysis_required": true,
+        "customer_node_ids": ["concept_d006_customer"],
+        "value_node_ids": ["concept_d006_value"],
+        "evidence_node_ids": ["evidence_d006"],
+        "metric_node_ids": ["metric_d006"],
+        "knowledge_card_ids": ["knowledge_card_d006_channel"]
+      }
+    },
+    {
+      "id": "concept_d006_customer",
+      "node_type": "Concept",
+      "name": "工业设备采购负责人",
+      "description": "典型客户不是冲动型消费者，而是链条较长的企业采购决策者。",
+      "aliases": ["工厂采购经理"],
+      "tags": ["persona", "B2B客户"],
+      "metadata": {
+        "role": "customer_segment",
+        "segment": "工业设备采购负责人",
+        "needs": ["高可靠性", "线下验厂", "长期售后"]
+      }
+    },
+    {
+      "id": "concept_d006_value",
+      "node_type": "Concept",
+      "name": "高可靠工业压缩机整体方案",
+      "description": "提供稳定运行、节能优化与长期运维服务的工业压缩机方案。",
+      "aliases": ["工业压缩机解决方案"],
+      "tags": ["value proposition", "工业方案"],
+      "metadata": {
+        "role": "value_proposition",
+        "target_segments": ["工业设备采购负责人"],
+        "benefits": ["高可靠性", "节能", "长期售后保障"]
+      }
+    },
+    {
+      "id": "evidence_d006",
+      "node_type": "Evidence",
+      "name": "8 份工厂访谈纪要",
+      "description": "访谈显示客户决策周期长，采购前通常需要现场交流与技术评估。",
+      "source": "线下深访",
+      "confidence": 0.87,
+      "tags": ["证据", "访谈"],
+      "metadata": {}
+    },
+    {
+      "id": "metric_d006",
+      "node_type": "Metric",
+      "name": "商机转化率",
+      "description": "评估销售漏斗中从有效线索到商务机会的转化效果。",
+      "metric_key": "LEAD_CONVERSION_RATE",
+      "value": 0.12,
+      "unit": "ratio",
+      "tags": ["销售指标"],
+      "metadata": {}
+    },
+    {
+      "id": "knowledge_card_d006_channel",
+      "node_type": "KnowledgeCard",
+      "name": "工业设备渠道匹配研究卡",
+      "description": "高客单价工业设备通常依赖直销、行业展会、招投标与线下顾问式销售，不适合单纯依赖社交媒体投流成交。",
+      "tags": ["工业设备", "渠道策略", "B2B销售"],
+      "labels": ["工业设备", "渠道匹配", "高客单价B2B"],
+      "applicable_scenarios": ["工业设备销售", "高客单价B2B"],
+      "industry": "重工业",
+      "evidence_source": "原文出处: 工业设备渠道研究手册 | 页码: 12-15",
+      "industry_benchmarks": {
+        "channel_fit_data": [
+          {
+            "channel": "行业展会",
+            "fit_score": 0.95,
+            "customer_segments": ["工业设备采购负责人", "工厂采购经理"],
+            "applicable_scenarios": ["工业设备销售", "高客单价B2B"],
+            "reason": "工业设备采购决策链长、单价高，通常需要现场演示、技术交流与商务谈判。"
+          },
+          {
+            "channel": "直销",
+            "fit_score": 0.95,
+            "customer_segments": ["工业设备采购负责人", "工厂采购经理"],
+            "applicable_scenarios": ["工业设备销售", "高客单价B2B"],
+            "reason": "工业设备采购决策链长、单价高，通常需要现场演示、技术交流与商务谈判。"
+          },
+          {
+            "channel": "招投标",
+            "fit_score": 0.9,
+            "customer_segments": ["工业设备采购负责人", "工厂采购经理"],
+            "applicable_scenarios": ["工业设备销售", "高客单价B2B"],
+            "reason": "工业设备采购决策链长、单价高，通常需要现场演示、技术交流与商务谈判。"
+          },
+          {
+            "channel": "线下顾问销售",
+            "fit_score": 0.9,
+            "customer_segments": ["工业设备采购负责人", "工厂采购经理"],
+            "applicable_scenarios": ["工业设备销售", "高客单价B2B"],
+            "reason": "工业设备采购决策链长、单价高，通常需要现场演示、技术交流与商务谈判。"
+          },
+          {
+            "channel": "社交媒体",
+            "fit_score": 0.1,
+            "customer_segments": ["工业设备采购负责人", "工厂采购经理"],
+            "applicable_scenarios": ["工业设备销售", "高客单价B2B"],
+            "reason": "工业设备采购决策链长、单价高，通常不适合依赖社交媒体直接成交。"
+          },
+          {
+            "channel": "短视频投流",
+            "fit_score": 0.1,
+            "customer_segments": ["工业设备采购负责人", "工厂采购经理"],
+            "applicable_scenarios": ["工业设备销售", "高客单价B2B"],
+            "reason": "工业设备采购决策链长、单价高，通常不适合依赖短视频投流直接成交。"
+          }
+        ]
+      },
+      "metadata": {}
+    }
+  ],
+  "relations": [
+    {
+      "id": "relation_d006_01",
+      "source_id": "concept_d006_value",
+      "target_id": "evidence_d006",
+      "relation_type": "EVIDENCED_BY",
+      "description": "方案判断由线下客户访谈支撑。",
+      "weight": 0.88,
+      "evidence_ids": ["evidence_d006"],
+      "metadata": {}
+    },
+    {
+      "id": "relation_d006_02",
+      "source_id": "concept_d006_value",
+      "target_id": "metric_d006",
+      "relation_type": "MEASURED_BY",
+      "description": "方案效果可通过商机转化率衡量。",
+      "weight": 0.73,
+      "evidence_ids": [],
+      "metadata": {}
+    }
+  ],
+  "hyperedges": []
+}

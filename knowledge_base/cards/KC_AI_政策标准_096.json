@@ -1,0 +1,42 @@
+{
+  "id": "KC_096",
+  "node_type": "KnowledgeCard",
+  "name": "第九届中国国际“互联网+”大学生创新创业大赛参赛作品",
+  "description": "第九届中国国际“互联网+”大学生创新创业大赛参赛作品 第九届中国国际“互联网+” 大学生创新创业大赛",
+  "tags": [
+    "AI",
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "元界创生——云上交互空间智能生成技术领跑者_计划书.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\元界创生——云上交互空间智能生成技术领跑者_计划书.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-50",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\元界创生——云上交互空间智能生成技术领跑者_计划书.pdf | 页码: 1-50",
+    "source_excerpt": "第九届中国国际“互联网+”大学生创新创业大赛参赛作品\n第九届中国国际“互联网+”\n大学生创新创业大赛\n项目计划书\n学 校 名 称： 北京理工大学\n参 赛 赛 道： 高教主赛道\n参 赛 组 别： 研究生创意组\n项 目 类 别： 新文科类\n项 目 名 称： 元界创生——云交互空间智能生成技术领航者\n项目负责人 ： 何 莲\n联 系 电 话： 13529146379\n负责人邮箱 ： [邮箱已脱敏]\n1\n第九届中国国际“互联网+”大学生创新创业大赛参赛作品\n目录\n前言 ..................................................... 5\n第一章 项目背景 .......................................... 6\n一、项目背景 ......................................",
+    "text_length": 25004,
+    "source_fingerprint": "knowledge_card_doc_39003fcdb1"
+  },
+  "card_id": "KC_096",
+  "type": "政策标准",
+  "labels": [
+    "渠道策略",
+    "竞品分析",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\元界创生——云上交互空间智能生成技术领跑者_计划书.pdf | 页码: 1-50",
+  "industry_benchmarks": {}
+}

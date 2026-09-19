@@ -1,0 +1,44 @@
+{
+  "id": "KC_102",
+  "node_type": "KnowledgeCard",
+  "name": "(cid:19584) (cid:40400) (cid:15995)",
+  "description": "(cid:19584) (cid:40400) (cid:15995) 融合 AI 智慧排版 与专业设计服务的新媒体交易云",
+  "tags": [
+    "AI",
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "SaaS",
+    "校园消费",
+    "SaaS 增长"
+  ],
+  "metadata": {
+    "source_name": "推送家2020Q2.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\推送家2020Q2.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 2-9, 11-15, 17-29, 31",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\推送家2020Q2.pdf | 页码: 2-9, 11-15, 17-29, 31",
+    "source_excerpt": "(cid:19584) (cid:40400) (cid:15995)\n融合 AI 智慧排版\n与专业设计服务的新媒体交易云\nAI 互 联 网\n新 媒 体\n云 计 算 服 务\n3\nqmvt 銑繞髊踀讎\n新媒体文创设计交易云\n4\n我们将分两个部分讲述…\n顾子豪\n创业背景和产品模式\n联合创始人 和 执行首席\n杨伊然\n业务概述和品牌成长\n联合创始人 和 运营首席\nIndustry Background.\nProducts.\n创业背景\n和产品模式\n国内新媒体市场成长\n市场规模\n0.1bn,RMB\n中国大陆新媒体行业市场规模 30000 2012-2024\nRMB158bn\n25000\n2025E 微信公众平台占比逐年稳中有升\n20000\n15000\nRMB68bn\n10000\n2020Q2\n5000\n0\n大多数是小规模零散自媒体 2 A 3 A 4 A 5 A 6 A 7 A 8 A 9 A 0 E",
+    "text_length": 3738,
+    "source_fingerprint": "knowledge_card_2020q2_cd2c458a7f"
+  },
+  "card_id": "KC_102",
+  "type": "政策标准",
+  "labels": [
+    "渠道策略",
+    "校园创业",
+    "教育科技",
+    "SaaS"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技",
+    "SaaS 增长"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\推送家2020Q2.pdf | 页码: 2-9, 11-15, 17-29, 31",
+  "industry_benchmarks": {}
+}

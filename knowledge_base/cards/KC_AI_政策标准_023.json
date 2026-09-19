@@ -1,0 +1,46 @@
+{
+  "id": "KC_023",
+  "node_type": "KnowledgeCard",
+  "name": "第⼗九届“挑战杯”全国⼤学⽣课外学术科技作品竞赛",
+  "description": "第⼗九届“挑战杯”全国⼤学⽣课外学术科技作品竞赛 “⼈⼯智能+”应⽤赛 红",
+  "tags": [
+    "AI",
+    "生成式大模型 徐特立数字人 多模态人机交互 情境化思政教育",
+    "Generative big model",
+    "Xu Teli digital human",
+    "multimodal",
+    "校园创业",
+    "教育科技",
+    "校园消费"
+  ],
+  "metadata": {
+    "source_name": "465772-红旅智创：AI驱动的_践育人系统-项目策划书-18b3ff8b.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\465772-红旅智创：AI驱动的_践育人系统-项目策划书-18b3ff8b.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1, 23-90",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\465772-红旅智创：AI驱动的_践育人系统-项目策划书-18b3ff8b.pdf | 页码: 1, 23-90",
+    "source_excerpt": "第⼗九届“挑战杯”全国⼤学⽣课外学术科技作品竞赛\n“⼈⼯智能+”应⽤赛\n红\n红旅智\n创\n旅智\n创\nAI驱动的情景化\n思政实践育⼈系统\n赛 道\n“⼈⼯智能+”专项赛\n负责⼈：丁宁\n指导教师：吴⽼师、宋⽼师、\n刘⽼师\n第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”应用赛\n摘 要\n针对传统思想政治教育存在的单向知识传输、情感共鸣不足、数字化资源交\n互性弱等痛点，本项目构建了 AI 驱动的情境化思政实践育人系统，旨在通过技\n术赋能突破传统教学局限，实现思政教育“知、情、意、行”的全链条贯通。\n项目以“技术赋能思想穿透，情境重构价值认同”为核心理念，核心技术包\n括四大模块：一是构建“徐特立大模型”智能体，融合生成式大模型与检索增强\n生成（RAG）技术，整合马克思主义经典文献、党史国史等资源形成动态知识图\n谱，实现理论阐释的精准化与对话化；二是打造可交互的“徐特立数字人”，通\n过语音识",
+    "text_length": 50703,
+    "source_fingerprint": "knowledge_card_465772_ai_18b3ff8b_e7e702f9ea"
+  },
+  "card_id": "KC_023",
+  "type": "政策标准",
+  "labels": [
+    "生成式大模型 徐特立数字人 多模态人机交互 情境化思政教育",
+    "Generative big model",
+    "Xu Teli digital human",
+    "multimodal",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\465772-红旅智创：AI驱动的_践育人系统-项目策划书-18b3ff8b.pdf | 页码: 1, 23-90",
+  "industry_benchmarks": {}
+}

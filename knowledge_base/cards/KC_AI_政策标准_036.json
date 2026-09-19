@@ -1,0 +1,56 @@
+{
+  "id": "KC_036",
+  "node_type": "KnowledgeCard",
+  "name": "京芯智水——智慧赋能水质检测-治理协同系统创新力量",
+  "description": "京芯智水——智慧赋能水质检测-治理协同系统创新力量 1 京芯智水——智慧赋能水质检测-治理协同系统创新力量",
+  "tags": [
+    "AI",
+    "工业园区水污染问题",
+    "微流控纸芯片",
+    "图像识别",
+    "改进型 Transformer",
+    "Industrial park water pollution",
+    "microfluidic paper-based device",
+    "image",
+    "渠道策略",
+    "竞品分析",
+    "单位经济",
+    "校园创业"
+  ],
+  "metadata": {
+    "source_name": "475625-京芯智水——智慧赋能_统创新力量-项目策划书-87fb3713.pdf",
+    "source_path": "C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475625-京芯智水——智慧赋能_统创新力量-项目策划书-87fb3713.pdf",
+    "source_suffix": ".pdf",
+    "parser": "pdfplumber",
+    "encoding_used": "pdfplumber",
+    "warnings": [],
+    "source_locator": "页码: 1-119",
+    "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475625-京芯智水——智慧赋能_统创新力量-项目策划书-87fb3713.pdf | 页码: 1-119",
+    "source_excerpt": "京芯智水——智慧赋能水质检测-治理协同系统创新力量\n1\n京芯智水——智慧赋能水质检测-治理协同系统创新力量\n项目重点 PPT 展示\n2\n京芯智水——智慧赋能水质检测-治理协同系统创新力量\n3\n京芯智水——智慧赋能水质检测-治理协同系统创新力量\n4\n京芯智水——智慧赋能水质检测-治理协同系统创新力量\n目录\n摘要...............................................................................................................................8\nAbstract............................................................................................................",
+    "text_length": 70301,
+    "source_fingerprint": "knowledge_card_475625_87fb3713_e6532ebab2"
+  },
+  "card_id": "KC_036",
+  "type": "政策标准",
+  "labels": [
+    "工业园区水污染问题",
+    "微流控纸芯片",
+    "图像识别",
+    "改进型 Transformer",
+    "Industrial park water pollution",
+    "microfluidic paper-based device",
+    "image",
+    "渠道策略",
+    "竞品分析",
+    "单位经济",
+    "校园创业",
+    "教育科技"
+  ],
+  "applicable_scenarios": [
+    "校园消费",
+    "教育科技"
+  ],
+  "industry": "AI",
+  "evidence_source": "文件来源: C:\\Users\\low17\\Desktop\\bigdatamodel\\knowledge_base\\raw\\475625-京芯智水——智慧赋能_统创新力量-项目策划书-87fb3713.pdf | 页码: 1-119",
+  "industry_benchmarks": {}
+}
